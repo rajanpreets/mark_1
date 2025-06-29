@@ -7,7 +7,7 @@ import requests
 import io
 
 # --- The Core Matching Logic (BiomarkerFinder Class) ---
-# This class is copied directly from your tested script.
+# This class contains the updated, more robust logic from your Colab script.
 class BiomarkerFinder:
     """
     A robust class that finds biomarkers using a case-insensitive, high-performance
@@ -15,8 +15,8 @@ class BiomarkerFinder:
     and whole-word boundary detection to improve accuracy.
     """
     def __init__(self, biomarker_dataframe, min_len=2):
-        # UI messages are removed for a cleaner interface. Logging happens in the console.
-        print("Initializing BiomarkerFinder...")
+        # Using st.write for logging in the Streamlit interface
+        st.info("Initializing BiomarkerFinder...")
         
         self.stop_words = {
             'a', 'an', 'and', 'are', 'as', 'at', 'be', 'by', 'for', 'from', 'has', 
@@ -26,59 +26,68 @@ class BiomarkerFinder:
         
         self.biomarker_df = biomarker_dataframe
         
-        # Validation runs in the background but does not show on the UI
         self._validate_data()
 
         self.biomarker_df = self.biomarker_df.dropna(subset=['ID', 'Biomarker Name'])
         self.biomarker_db = {row['ID']: row.to_dict() for _, row in self.biomarker_df.drop_duplicates(subset=['ID']).iterrows()}
 
-        print(f"Successfully loaded and validated biomarker data. Using {len(self.biomarker_db)} unique biomarkers.")
+        st.success(f"Successfully loaded and validated biomarker data. Using {len(self.biomarker_db)} unique biomarkers.")
             
         self.automaton = self._build_automaton(min_len)
-        print("Initialization complete. Matcher is ready.")
+        st.info("Initialization complete. Matcher is ready.")
 
     def _validate_data(self):
-        """Checks for duplicate IDs in the source data and logs to console."""
+        """Checks for duplicate IDs and warns the user in the app."""
         duplicates = self.biomarker_df[self.biomarker_df['ID'].duplicated(keep=False)]
         if not duplicates.empty:
-            # Log warnings to the console instead of the Streamlit UI
-            print("\n" + "="*50)
-            print("⚠️ DATA QUALITY WARNING: Duplicate IDs found in biomarker.csv!")
-            print("This can lead to incorrect or inconsistent matching. The script will use the FIRST entry found for each duplicate ID.")
-            print("="*50 + "\n")
-
+            st.warning("⚠️ DATA QUALITY WARNING: Duplicate IDs found in biomarker.csv!")
+            st.write("This can lead to incorrect or inconsistent matching. The script will use the FIRST entry found for each duplicate ID.")
+            st.write("Affected IDs and their assigned names:")
+            for_display = duplicates.groupby('ID')['Biomarker Name'].apply(list).reset_index()
+            st.dataframe(for_display)
 
     def _build_automaton(self, min_len):
-        """Builds a case-insensitive Aho-Corasick automaton."""
+        """
+        Builds a case-insensitive Aho-Corasick automaton, ignoring stop words.
+        This version uses a stricter matching logic based on full terms only.
+        """
+        st.write("Building case-insensitive Aho-Corasick automaton for matching...")
         A = ahocorasick.Automaton()
-        unique_df = self.biomarker_df.drop_duplicates(subset=['ID'], keep='first')
+        
+        # Keep track of terms added to the automaton to resolve ambiguity (first seen wins)
         final_terms_map = {}
 
-        for _, row in unique_df.iterrows():
+        # CORRECTED: Iterate over the entire dataframe, not just unique IDs, to capture all terms.
+        # The final_terms_map will handle de-duplication of search terms.
+        for _, row in self.biomarker_df.iterrows():
             concept_id = row['ID']
-            terms = [str(row['Biomarker Name'])] + str(row.get('Exhaustive Synonyms', '')).split(',')
             
-            for term in terms:
+            # Combine biomarker name and synonyms into one list for processing
+            terms_to_process = [str(row['Biomarker Name'])]
+            synonyms = row.get('Exhaustive Synonyms')
+            if pd.notna(synonyms):
+                terms_to_process.extend(str(synonyms).split(','))
+            
+            for term in terms_to_process:
                 term_stripped = term.strip()
-                words = term_stripped.split()
-                # Generate sub-phrases for multi-word terms
-                if len(words) > 1:
-                    for i in range(len(words), 1, -1):
-                        sub_phrase = " ".join(words[:i])
-                        sub_phrase_lower = sub_phrase.lower()
-                        if len(sub_phrase) >= min_len and sub_phrase_lower not in self.stop_words and sub_phrase_lower not in final_terms_map:
-                            final_terms_map[sub_phrase_lower] = (concept_id, sub_phrase)
-                
-                # Add the original full term
-                term_lower = term_stripped.lower()
-                if len(term_stripped) >= min_len and term_lower not in self.stop_words and term_lower not in final_terms_map:
-                     final_terms_map[term_lower] = (concept_id, term_stripped)
-
+                if self._is_valid_term(term_stripped):
+                    term_lower = term_stripped.lower()
+                    # Only add the term if it hasn't been mapped to an ID yet.
+                    # This prevents overwrites and ensures the first seen ID for a term is kept.
+                    if term_lower not in final_terms_map:
+                        final_terms_map[term_lower] = (concept_id, term_stripped)
+        
+        # Now, add all the finalized terms to the automaton
         for term_lower, (concept_id, original_cased_term) in final_terms_map.items():
             A.add_word(term_lower, (concept_id, original_cased_term))
-            
+
         A.make_automaton()
+        st.write("Automaton build complete.")
         return A
+
+    def _is_valid_term(self, term):
+        """Helper function to check if a term is valid for matching."""
+        return len(term) >= 2 and term.lower() not in self.stop_words
 
     def find_matches(self, text):
         """Processes text case-insensitively and returns a list of matched biomarkers."""
