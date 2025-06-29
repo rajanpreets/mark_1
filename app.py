@@ -15,8 +15,7 @@ class BiomarkerFinder:
     and whole-word boundary detection to improve accuracy.
     """
     def __init__(self, biomarker_dataframe, min_len=2):
-        # Using st.write for logging in the Streamlit interface
-        st.info("Initializing BiomarkerFinder...")
+        # UI messages removed for a cleaner interface
         
         self.stop_words = {
             'a', 'an', 'and', 'are', 'as', 'at', 'be', 'by', 'for', 'from', 'has', 
@@ -30,21 +29,18 @@ class BiomarkerFinder:
 
         self.biomarker_df = self.biomarker_df.dropna(subset=['ID', 'Biomarker Name'])
         self.biomarker_db = {row['ID']: row.to_dict() for _, row in self.biomarker_df.drop_duplicates(subset=['ID']).iterrows()}
-
-        st.success(f"Successfully loaded and validated biomarker data. Using {len(self.biomarker_db)} unique biomarkers.")
             
         self.automaton = self._build_automaton(min_len)
-        st.info("Initialization complete. Matcher is ready.")
 
     def _validate_data(self):
-        """Checks for duplicate IDs and warns the user in the app."""
+        """Checks for duplicate IDs in the source data. Warnings are logged to console, not UI."""
         duplicates = self.biomarker_df[self.biomarker_df['ID'].duplicated(keep=False)]
         if not duplicates.empty:
-            st.warning("⚠️ DATA QUALITY WARNING: Duplicate IDs found in biomarker.csv!")
-            st.write("This can lead to incorrect or inconsistent matching. The script will use the FIRST entry found for each duplicate ID.")
-            st.write("Affected IDs and their assigned names:")
-            for_display = duplicates.groupby('ID')['Biomarker Name'].apply(list).reset_index()
-            st.dataframe(for_display)
+            # Log warnings to the console instead of the UI
+            print("\n" + "="*50)
+            print("⚠️ DATA QUALITY WARNING: Duplicate IDs found in biomarker.csv!")
+            print("="*50 + "\n")
+
 
     def _build_automaton(self, min_len):
         """Builds a case-insensitive Aho-Corasick automaton."""
@@ -144,16 +140,12 @@ def load_data_from_github(url):
         st.error("Please ensure the URL is correct and the repository is public.")
         return None
 
-# Sidebar for GitHub configuration
-st.sidebar.header("Data Configuration")
-repo_url = st.sidebar.text_input(
-    "GitHub Raw URL to biomarker.csv", 
-    "https://github.com/rajanpreets/mark_1/blob/main/biomarker.csv"
-)
-st.sidebar.info("The `biomarker.csv` file must be in a public GitHub repository.")
+# --- Main App Logic ---
 
+# Hardcoded URL to the biomarker CSV file
+repo_url = "https://github.com/rajanpreets/mark_1/blob/main/biomarker.csv"
 
-st.sidebar.markdown("---")
+# Sidebar for feedback link
 st.sidebar.header("Feedback")
 st.sidebar.info(
     "Have suggestions or found an issue? \n\n"
@@ -161,16 +153,13 @@ st.sidebar.info(
     "[Feedback Sheet](https://docs.google.com/spreadsheets/d/1q2MHXSZZraGUXd4fvyJAIn_QdVAYLYTEX7Qn_4j38-I/edit?usp=sharing)"
 )
 
-# Main app logic
-biomarker_df = None
-if repo_url and "YOUR_USERNAME" not in repo_url:
-    with st.spinner("Loading biomarker data from GitHub..."):
-        biomarker_df = load_data_from_github(repo_url)
-else:
-    st.warning("Please enter the raw URL to your `biomarker.csv` file in the sidebar.")
-
+# Load data automatically from the hardcoded URL
+with st.spinner("Loading biomarker data..."):
+    biomarker_df = load_data_from_github(repo_url)
 
 if biomarker_df is not None:
+    # Initialize the finder once the data is loaded
+    # The @st.cache_resource decorator ensures this only runs once
     @st.cache_resource
     def get_finder(df):
         return BiomarkerFinder(biomarker_dataframe=df)
@@ -220,3 +209,6 @@ if biomarker_df is not None:
                     st.info("No biomarkers from your list were found in the text.")
         else:
             st.warning("Please enter some text to analyze.")
+else:
+    # This message shows if the initial data load from GitHub fails
+    st.error("Could not load the biomarker data. The application cannot proceed.")
