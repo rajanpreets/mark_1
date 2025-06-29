@@ -129,6 +129,10 @@ st.title("🔬 Biomarker Extractor from Clinical Text")
 @st.cache_data
 def load_data_from_github(url):
     """Fetches a CSV file from a public GitHub URL."""
+    # Convert standard GitHub URL to raw URL
+    if "github.com" in url and "raw.githubusercontent.com" not in url:
+        url = url.replace("github.com", "raw.githubusercontent.com").replace("/blob/", "/")
+    
     try:
         response = requests.get(url)
         response.raise_for_status()
@@ -144,7 +148,7 @@ def load_data_from_github(url):
 st.sidebar.header("Data Configuration")
 repo_url = st.sidebar.text_input(
     "GitHub Raw URL to biomarker.csv", 
-    "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/biomarker.csv"
+    "https://github.com/rajanpreets/mark_1/blob/main/biomarker.csv"
 )
 st.sidebar.info("The `biomarker.csv` file must be in a public GitHub repository.")
 
