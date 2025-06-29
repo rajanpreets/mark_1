@@ -15,7 +15,8 @@ class BiomarkerFinder:
     and whole-word boundary detection to improve accuracy.
     """
     def __init__(self, biomarker_dataframe, min_len=2):
-        st.write("Initializing BiomarkerFinder...")
+        # Using st.write for logging in the Streamlit interface
+        st.info("Initializing BiomarkerFinder...")
         
         self.stop_words = {
             'a', 'an', 'and', 'are', 'as', 'at', 'be', 'by', 'for', 'from', 'has', 
@@ -33,7 +34,7 @@ class BiomarkerFinder:
         st.success(f"Successfully loaded and validated biomarker data. Using {len(self.biomarker_db)} unique biomarkers.")
             
         self.automaton = self._build_automaton(min_len)
-        st.write("Initialization complete. Matcher is ready.")
+        st.info("Initialization complete. Matcher is ready.")
 
     def _validate_data(self):
         """Checks for duplicate IDs and warns the user in the app."""
@@ -47,7 +48,6 @@ class BiomarkerFinder:
 
     def _build_automaton(self, min_len):
         """Builds a case-insensitive Aho-Corasick automaton."""
-        st.write("Building case-insensitive Aho-Corasick automaton for matching...")
         A = ahocorasick.Automaton()
         unique_df = self.biomarker_df.drop_duplicates(subset=['ID'], keep='first')
         final_terms_map = {}
@@ -59,21 +59,23 @@ class BiomarkerFinder:
             for term in terms:
                 term_stripped = term.strip()
                 words = term_stripped.split()
+                # Generate sub-phrases for multi-word terms
                 if len(words) > 1:
-                    for i in range(2, len(words) + 1):
+                    for i in range(len(words), 1, -1):
                         sub_phrase = " ".join(words[:i])
                         sub_phrase_lower = sub_phrase.lower()
                         if len(sub_phrase) >= min_len and sub_phrase_lower not in self.stop_words and sub_phrase_lower not in final_terms_map:
                             final_terms_map[sub_phrase_lower] = (concept_id, sub_phrase)
                 
-                if len(term_stripped) >= min_len and term_stripped.lower() not in self.stop_words and term_stripped.lower() not in final_terms_map:
-                     final_terms_map[term_stripped.lower()] = (concept_id, term_stripped)
+                # Add the original full term
+                term_lower = term_stripped.lower()
+                if len(term_stripped) >= min_len and term_lower not in self.stop_words and term_lower not in final_terms_map:
+                     final_terms_map[term_lower] = (concept_id, term_stripped)
 
         for term_lower, (concept_id, original_cased_term) in final_terms_map.items():
             A.add_word(term_lower, (concept_id, original_cased_term))
             
         A.make_automaton()
-        st.write("Automaton build complete.")
         return A
 
     def find_matches(self, text):
@@ -125,43 +127,28 @@ st.title("🔬 Biomarker Extractor from Clinical Text")
 
 # Function to load data from GitHub, cached for performance
 @st.cache_data
-def load_data_from_github(url, token):
-    headers = {'Authorization': f'token {token}'}
+def load_data_from_github(url):
+    """Fetches a CSV file from a public GitHub URL."""
     try:
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()  # Will raise an exception for HTTP errors
-        # Use StringIO to read the CSV content from the response text
+        response = requests.get(url)
+        response.raise_for_status()
         csv_data = io.StringIO(response.text)
         df = pd.read_csv(csv_data)
         return df
     except requests.exceptions.RequestException as e:
         st.error(f"Error fetching data from GitHub: {e}")
-        st.error("Please ensure the URL is correct and your GitHub token has access to the repository.")
+        st.error("Please ensure the URL is correct and the repository is public.")
         return None
 
 # Sidebar for GitHub configuration
 st.sidebar.header("Data Configuration")
-st.sidebar.info("This app loads your biomarker list from a private GitHub repository.")
-
-# Use Streamlit secrets for the GitHub token
-try:
-    github_token = st.secrets["GITHUB_TOKEN"]
-except FileNotFoundError:
-    st.error("Secrets file not found. Please create `.streamlit/secrets.toml` with your GitHub token.")
-    st.info("Example `secrets.toml`:\n```toml\nGITHUB_TOKEN = \"your_github_personal_access_token\"\n```")
-    st.stop()
-except KeyError:
-    st.error("`GITHUB_TOKEN` not found in your secrets file.")
-    st.info("Please add `GITHUB_TOKEN = \"your_github_personal_access_token\"` to your `.streamlit/secrets.toml` file.")
-    st.stop()
-
-# Get the raw URL for the biomarker.csv file
 repo_url = st.sidebar.text_input(
     "GitHub Raw URL to biomarker.csv", 
     "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/biomarker.csv"
 )
+st.sidebar.info("The `biomarker.csv` file must be in a public GitHub repository.")
 
-# Add Feedback Link
+
 st.sidebar.markdown("---")
 st.sidebar.header("Feedback")
 st.sidebar.info(
@@ -170,17 +157,16 @@ st.sidebar.info(
     "[Feedback Sheet](https://docs.google.com/spreadsheets/d/1q2MHXSZZraGUXd4fvyJAIn_QdVAYLYTEX7Qn_4j38-I/edit?usp=sharing)"
 )
 
-# Load data and initialize the finder
+# Main app logic
 biomarker_df = None
 if repo_url and "YOUR_USERNAME" not in repo_url:
     with st.spinner("Loading biomarker data from GitHub..."):
-        biomarker_df = load_data_from_github(repo_url, github_token)
+        biomarker_df = load_data_from_github(repo_url)
 else:
     st.warning("Please enter the raw URL to your `biomarker.csv` file in the sidebar.")
 
 
 if biomarker_df is not None:
-    # Initialize the finder once the data is loaded
     @st.cache_resource
     def get_finder(df):
         return BiomarkerFinder(biomarker_dataframe=df)
@@ -189,9 +175,7 @@ if biomarker_df is not None:
     
     st.markdown("---")
     
-    # User input
     st.header("Enter Clinical Text")
-    # NEW: Added informational message for the user
     st.info("For best results, please use specific biomarker names and synonyms as found in your database (e.g., 'Prostate-Specific Antigen', 'PSA', 'amyloid-beta 42').")
     
     default_text = (
@@ -208,7 +192,6 @@ if biomarker_df is not None:
             with st.spinner("Analyzing text..."):
                 linked_biomarkers = finder.find_matches(input_text)
                 
-                # Process results for a clean, summarized output
                 unique_biomarkers = {}
                 for biomarker in linked_biomarkers:
                     biomarker_id = biomarker.get('ID', 'N/A')
