@@ -158,7 +158,7 @@ def load_data_from_github(url):
 # --- Main App Logic ---
 
 # Hardcoded URL to the biomarker CSV file
-repo_url = "https://github.com/rajanpreets/mark_1/blob/e69cd0879fc67d91b3026c55863b7797f40ec236/biomarker.csv"
+repo_url = "https://github.com/rajanpreets/mark_1/blob/6fd87d983a577ed9e3cbfbba07ba3c5a314d041b/biomarkers.csv"
 
 # Sidebar for feedback link
 st.sidebar.header("Feedback")
