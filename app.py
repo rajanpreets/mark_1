@@ -15,7 +15,8 @@ class BiomarkerFinder:
     and whole-word boundary detection to improve accuracy.
     """
     def __init__(self, biomarker_dataframe, min_len=2):
-        # UI messages removed for a cleaner interface
+        # UI messages are removed for a cleaner interface. Logging happens in the console.
+        print("Initializing BiomarkerFinder...")
         
         self.stop_words = {
             'a', 'an', 'and', 'are', 'as', 'at', 'be', 'by', 'for', 'from', 'has', 
@@ -25,20 +26,25 @@ class BiomarkerFinder:
         
         self.biomarker_df = biomarker_dataframe
         
+        # Validation runs in the background but does not show on the UI
         self._validate_data()
 
         self.biomarker_df = self.biomarker_df.dropna(subset=['ID', 'Biomarker Name'])
         self.biomarker_db = {row['ID']: row.to_dict() for _, row in self.biomarker_df.drop_duplicates(subset=['ID']).iterrows()}
+
+        print(f"Successfully loaded and validated biomarker data. Using {len(self.biomarker_db)} unique biomarkers.")
             
         self.automaton = self._build_automaton(min_len)
+        print("Initialization complete. Matcher is ready.")
 
     def _validate_data(self):
-        """Checks for duplicate IDs in the source data. Warnings are logged to console, not UI."""
+        """Checks for duplicate IDs in the source data and logs to console."""
         duplicates = self.biomarker_df[self.biomarker_df['ID'].duplicated(keep=False)]
         if not duplicates.empty:
-            # Log warnings to the console instead of the UI
+            # Log warnings to the console instead of the Streamlit UI
             print("\n" + "="*50)
             print("⚠️ DATA QUALITY WARNING: Duplicate IDs found in biomarker.csv!")
+            print("This can lead to incorrect or inconsistent matching. The script will use the FIRST entry found for each duplicate ID.")
             print("="*50 + "\n")
 
 
@@ -154,8 +160,7 @@ st.sidebar.info(
 )
 
 # Load data automatically from the hardcoded URL
-with st.spinner("Loading biomarker data..."):
-    biomarker_df = load_data_from_github(repo_url)
+biomarker_df = load_data_from_github(repo_url)
 
 if biomarker_df is not None:
     # Initialize the finder once the data is loaded
@@ -169,7 +174,6 @@ if biomarker_df is not None:
     st.markdown("---")
     
     st.header("Enter Clinical Text")
-    st.info("For best results, please use specific biomarker names and synonyms as found in your database (e.g., 'Prostate-Specific Antigen', 'PSA', 'amyloid-beta 42').")
     
     default_text = (
         "Patient ID 78-B2 presented with elevated levels of Glycated hemoglobin.\n"
