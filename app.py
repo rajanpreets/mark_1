@@ -1,0 +1,235 @@
+import streamlit as st
+import pandas as pd
+import ahocorasick
+import os
+from collections import defaultdict
+import requests
+import io
+
+# --- The Core Matching Logic (BiomarkerFinder Class) ---
+# This class is copied directly from your tested script.
+class BiomarkerFinder:
+    """
+    A robust class that finds biomarkers using a case-insensitive, high-performance
+    Aho-Corasick algorithm. It includes data validation, stop-word filtering,
+    and whole-word boundary detection to improve accuracy.
+    """
+    def __init__(self, biomarker_dataframe, min_len=2):
+        st.write("Initializing BiomarkerFinder...")
+        
+        self.stop_words = {
+            'a', 'an', 'and', 'are', 'as', 'at', 'be', 'by', 'for', 'from', 'has', 
+            'he', 'in', 'is', 'it', 'its', 'of', 'on', 'that', 'the', 'to', 'was', 
+            'were', 'will', 'with', 'his'
+        }
+        
+        self.biomarker_df = biomarker_dataframe
+        
+        self._validate_data()
+
+        self.biomarker_df = self.biomarker_df.dropna(subset=['ID', 'Biomarker Name'])
+        self.biomarker_db = {row['ID']: row.to_dict() for _, row in self.biomarker_df.drop_duplicates(subset=['ID']).iterrows()}
+
+        st.success(f"Successfully loaded and validated biomarker data. Using {len(self.biomarker_db)} unique biomarkers.")
+            
+        self.automaton = self._build_automaton(min_len)
+        st.write("Initialization complete. Matcher is ready.")
+
+    def _validate_data(self):
+        """Checks for duplicate IDs and warns the user in the app."""
+        duplicates = self.biomarker_df[self.biomarker_df['ID'].duplicated(keep=False)]
+        if not duplicates.empty:
+            st.warning("⚠️ DATA QUALITY WARNING: Duplicate IDs found in biomarker.csv!")
+            st.write("This can lead to incorrect or inconsistent matching. The script will use the FIRST entry found for each duplicate ID.")
+            st.write("Affected IDs and their assigned names:")
+            for_display = duplicates.groupby('ID')['Biomarker Name'].apply(list).reset_index()
+            st.dataframe(for_display)
+
+    def _build_automaton(self, min_len):
+        """Builds a case-insensitive Aho-Corasick automaton."""
+        st.write("Building case-insensitive Aho-Corasick automaton for matching...")
+        A = ahocorasick.Automaton()
+        unique_df = self.biomarker_df.drop_duplicates(subset=['ID'], keep='first')
+        final_terms_map = {}
+
+        for _, row in unique_df.iterrows():
+            concept_id = row['ID']
+            terms = [str(row['Biomarker Name'])] + str(row.get('Exhaustive Synonyms', '')).split(',')
+            
+            for term in terms:
+                term_stripped = term.strip()
+                words = term_stripped.split()
+                if len(words) > 1:
+                    for i in range(2, len(words) + 1):
+                        sub_phrase = " ".join(words[:i])
+                        sub_phrase_lower = sub_phrase.lower()
+                        if len(sub_phrase) >= min_len and sub_phrase_lower not in self.stop_words and sub_phrase_lower not in final_terms_map:
+                            final_terms_map[sub_phrase_lower] = (concept_id, sub_phrase)
+                
+                if len(term_stripped) >= min_len and term_stripped.lower() not in self.stop_words and term_stripped.lower() not in final_terms_map:
+                     final_terms_map[term_stripped.lower()] = (concept_id, term_stripped)
+
+        for term_lower, (concept_id, original_cased_term) in final_terms_map.items():
+            A.add_word(term_lower, (concept_id, original_cased_term))
+            
+        A.make_automaton()
+        st.write("Automaton build complete.")
+        return A
+
+    def find_matches(self, text):
+        """Processes text case-insensitively and returns a list of matched biomarkers."""
+        if not self.automaton or self.biomarker_df.empty:
+            return []
+            
+        all_matches = []
+        for end_index, (concept_id, original_cased_term) in self.automaton.iter(text.lower()):
+            start_index = end_index - len(original_cased_term) + 1
+            actual_mention = text[start_index : end_index + 1]
+            all_matches.append((start_index, end_index, concept_id, actual_mention))
+
+        whole_word_matches = []
+        for start, end, concept_id, term in all_matches:
+            is_start_bound = (start == 0) or (not text[start - 1].isalnum())
+            is_end_bound = (end + 1 == len(text)) or (not text[end + 1].isalnum())
+            if is_start_bound and is_end_bound:
+                whole_word_matches.append((start, end, concept_id, term))
+
+        if not whole_word_matches:
+            return []
+
+        whole_word_matches.sort(key=lambda x: (x[0], - (x[1] - x[0]))) 
+        
+        longest_matches = []
+        last_end = -1
+        for match in whole_word_matches:
+            start, end, _, _ = match
+            if start > last_end:
+                longest_matches.append(match)
+                last_end = end
+
+        results = []
+        for start, end, concept_id, term in longest_matches:
+            biomarker_info = self.biomarker_db.get(concept_id, {})
+            results.append({
+                "Mentioned Term": term,
+                "Linked Biomarker": biomarker_info.get("Biomarker Name"),
+                "ID": concept_id,
+                "Type": biomarker_info.get("Type")
+            })
+        return results
+
+# --- Streamlit App UI and Logic ---
+
+st.set_page_config(page_title="Biomarker Extractor", layout="wide")
+st.title("🔬 Biomarker Extractor from Clinical Text")
+
+# Function to load data from GitHub, cached for performance
+@st.cache_data
+def load_data_from_github(url, token):
+    headers = {'Authorization': f'token {token}'}
+    try:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()  # Will raise an exception for HTTP errors
+        # Use StringIO to read the CSV content from the response text
+        csv_data = io.StringIO(response.text)
+        df = pd.read_csv(csv_data)
+        return df
+    except requests.exceptions.RequestException as e:
+        st.error(f"Error fetching data from GitHub: {e}")
+        st.error("Please ensure the URL is correct and your GitHub token has access to the repository.")
+        return None
+
+# Sidebar for GitHub configuration
+st.sidebar.header("Data Configuration")
+st.sidebar.info("This app loads your biomarker list from a private GitHub repository.")
+
+# Use Streamlit secrets for the GitHub token
+try:
+    github_token = st.secrets["GITHUB_TOKEN"]
+except FileNotFoundError:
+    st.error("Secrets file not found. Please create `.streamlit/secrets.toml` with your GitHub token.")
+    st.info("Example `secrets.toml`:\n```toml\nGITHUB_TOKEN = \"your_github_personal_access_token\"\n```")
+    st.stop()
+except KeyError:
+    st.error("`GITHUB_TOKEN` not found in your secrets file.")
+    st.info("Please add `GITHUB_TOKEN = \"your_github_personal_access_token\"` to your `.streamlit/secrets.toml` file.")
+    st.stop()
+
+# Get the raw URL for the biomarker.csv file
+repo_url = st.sidebar.text_input(
+    "GitHub Raw URL to biomarker.csv", 
+    "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/biomarker.csv"
+)
+
+# Add Feedback Link
+st.sidebar.markdown("---")
+st.sidebar.header("Feedback")
+st.sidebar.info(
+    "Have suggestions or found an issue? \n\n"
+    "Please provide your feedback in our sheet: \n\n"
+    "[Feedback Sheet](https://docs.google.com/spreadsheets/d/1q2MHXSZZraGUXd4fvyJAIn_QdVAYLYTEX7Qn_4j38-I/edit?usp=sharing)"
+)
+
+# Load data and initialize the finder
+biomarker_df = None
+if repo_url and "YOUR_USERNAME" not in repo_url:
+    with st.spinner("Loading biomarker data from GitHub..."):
+        biomarker_df = load_data_from_github(repo_url, github_token)
+else:
+    st.warning("Please enter the raw URL to your `biomarker.csv` file in the sidebar.")
+
+
+if biomarker_df is not None:
+    # Initialize the finder once the data is loaded
+    @st.cache_resource
+    def get_finder(df):
+        return BiomarkerFinder(biomarker_dataframe=df)
+
+    finder = get_finder(biomarker_df)
+    
+    st.markdown("---")
+    
+    # User input
+    st.header("Enter Clinical Text")
+    # NEW: Added informational message for the user
+    st.info("For best results, please use specific biomarker names and synonyms as found in your database (e.g., 'Prostate-Specific Antigen', 'PSA', 'amyloid-beta 42').")
+    
+    default_text = (
+        "Patient ID 78-B2 presented with elevated levels of Glycated hemoglobin.\n"
+        "Lab results confirm high A1C and also show increased C-reactive protein.\n"
+        "The presence of the enzyme ACE was also noted. We will monitor for changes in \n"
+        "Alpha-fetoprotein (AFP) and Troponin I. Levels of Amyloid Beta 42 and amyloid-beta were also checked.\n"
+        "The technician double-checked the results."
+    )
+    input_text = st.text_area("Paste your text here:", value=default_text, height=250)
+    
+    if st.button("Extract Biomarkers", type="primary"):
+        if input_text:
+            with st.spinner("Analyzing text..."):
+                linked_biomarkers = finder.find_matches(input_text)
+                
+                # Process results for a clean, summarized output
+                unique_biomarkers = {}
+                for biomarker in linked_biomarkers:
+                    biomarker_id = biomarker.get('ID', 'N/A')
+                    if biomarker_id not in unique_biomarkers:
+                        unique_biomarkers[biomarker_id] = {
+                            "Linked Biomarker": biomarker.get('Linked Biomarker'),
+                            "ID": biomarker_id,
+                            "Type": biomarker.get('Type'),
+                            "Mentioned As": set()
+                        }
+                    unique_biomarkers[biomarker_id]["Mentioned As"].add(biomarker['Mentioned Term'])
+                
+                st.markdown("---")
+                st.header("Results")
+                
+                if unique_biomarkers:
+                    st.subheader("Summarized Biomarker Insights")
+                    for biomarker_id, info in unique_biomarkers.items():
+                        st.markdown(f"**- Biomarker:** {info['Linked Biomarker']} (ID: {info['ID']})")
+                        st.markdown(f"&nbsp;&nbsp;&nbsp;&nbsp;**Mentioned As:** `{'`, `'.join(info['Mentioned As'])}`")
+                else:
+                    st.info("No biomarkers from your list were found in the text.")
+        else:
+            st.warning("Please enter some text to analyze.")
