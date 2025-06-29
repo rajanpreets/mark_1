@@ -1,0 +1,5235 @@
+Biomarker Name,ID,Exhaustive Synonyms,Type
+Glycated hemoglobin,P68871,"HbA1c, A1C, Hemoglobin A1c, Glycohemoglobin",Protein
+Angiotensin-converting enzyme,P12821,"ACE, Dipeptidyl carboxypeptidase I, Kininase II, CD143",Protein
+Anti-acetylcholine receptor antibody,P02708,"AChR antibody, AChR-Ab",Protein
+Adenosine deaminase,P00813,"ADA, Adenosine aminohydrolase",Protein
+Alpha-fetoprotein,P02771,"AFP, α-fetoprotein, alpha-1-fetoprotein, FETA",Protein
+Pappalysin-1,Q13219,"PAPPA, Pregnancy-associated plasma protein-A, DIPLA1, IGFBP-4ase",Protein
+Aldolase A,P04075,"ALDOA, Aldolase, Muscle-type aldolase, Fructose-bisphosphate aldolase A",Protein
+Alpha-1-antitrypsin,P01009,"A1AT, AAT, SERPINA1, alpha-1-antiproteinase, PI (Protease Inhibitor)",Protein
+Serum amyloid A-1 protein,P0DJI8,"SAA1, SAA, Amyloid protein A",Protein
+Interleukin-2 receptor subunit alpha,P01589,"IL2RA, CD25, sIL-2R, Tac antigen, T-cell activation antigen",Protein
+Mucin-1,P15941,"MUC1, CD227, PEM, PUM, Episialin, CA 15-3, CA 27.29",Protein
+Lysozyme C,P61626,"LYZ, Muramidase, 1,4-beta-N-acetylmuramidase",Protein
+Aspartate Transaminase,P17174,"AST, SGOT (Serum glutamic-oxaloacetic transaminase), GOT1",Protein
+C-reactive protein,P02741,"CRP, hs-CRP, Pentraxin 1, PTX1",Protein
+Osteocalcin,P02818,"BGLAP, Bone gamma-carboxyglutamic acid-containing protein",Protein
+Undercarboxylated Osteocalcin,P02818,ucOC,Protein
+N-terminal pro-B-type Natriuretic peptide,P16860,NT-proBNP,Protein
+Gamma-glutamyltranspeptidase,P19440,"GGT, GGTP, GGT1, Gamma-glutamyl transferase",Protein
+Antimitochondrial antibodies,P10515,"AMA, AMA-M2",Protein
+Antineutrophil cytoplasmic antibodies,P24158 / P05164,"ANCA, c-ANCA, p-ANCA",Protein
+Anti-Streptolysin O antibodies,P0DF96,"ASO, ASLO",Protein
+Anti-DNase B Antibodies,Q5R2S1,"Anti-DNase B, Anti-streptodornase B",Protein
+Cancer Antigen 15-3,P15941,"CA 15-3, Carbohydrate Antigen 15-3",Protein
+Anti-cyclic Citrullinated Peptide,N/A,"Anti-CCP, ACPA (Anti-citrullinated protein antibody)",Protein
+C-terminal telopeptide,P02452,"CTX, CTX-I, Beta-CrossLaps, C-terminal cross-linking telopeptide",Protein
+N-terminal propeptide of type 1 procollagen,P02452,"P1NP, PINP",Protein
+N-terminal telopeptide,P02452,"NTX, NTX-I, N-terminal cross-linking telopeptide",Protein
+Anticardiolipin antibody,P02749,"aCL, ACA",Protein
+Anti-beta2 glycoprotein 1,P02749,"Anti-β2GP1, Anti-Apolipoprotein H, APOH antibody",Protein
+Muellerian-inhibiting factor,P03971,"AMH, MIS (Müllerian-inhibiting substance)",Protein
+Proinsulin C-peptide,P01308,"C-peptide, Connecting peptide",Protein
+Perinuclear Antineutrophil Cytoplasmic Antibodies,P05164,"p-ANCA, MPO-ANCA",Protein
+Carbohydrate Antigen 19-9,N/A,"CA 19-9, Sialyl-Lewis A",Protein
+Anti-Dengue virus antibody,P27915,"Dengue IgM, Dengue IgG",Protein
+Vascular Endothelial Growth Factor,P15692,"VEGF, VEGFA, VPF (Vascular permeability factor)",Protein
+Macrophage colony-stimulating factor 1,P09603,"M-CSF, CSF-1",Protein
+Amylase,P04746 / P0DUB6,"AMS, alpha-amylase, AMY1A, AMY2A",Protein
+Lipoprotein lipase,P06858,"LPL, Lipase, clearing factor",Protein
+Antineutrophil cytoplasmic antibodies against proteinase 3,P24158,"c-ANCA, PR3-ANCA",Protein
+Calprotectin,P05109 / P06702,"MRP-8/14, S100A8/A9, Calgranulin A/B",Protein
+Human Epididymis protein 4,Q14508,"HE4, WFDC2",Protein
+Carbohydrate Antigen 125,Q8WXI7,"CA-125, MUC16",Protein
+Chromogranin-A,P10645,"CgA, CHGA",Protein
+Epstein-Barr virus capsid antigen antibody,P03205,"VCA-IgM, VCA-IgG",Protein
+Ceruloplasmin,P00450,"CP, Ferroxidase",Protein
+Anti-gliadin antibody IgA,P04724,AGA-IgA,Protein
+P-Selectin,P16109,"SELP, CD62P, GMP-140, PADGEM",Protein
+Sex hormone-binding globulin,P04278,"SHBG, TeBG (Testosterone-estradiol-binding globulin)",Protein
+Des-gamma-carboxy prothrombin,P00734,"DCP, PIVKA-II",Protein
+Hepatitis A virus cellular receptor 1,Q96D42,"HAVCR1, KIM-1 (Kidney Injury Molecule-1), TIM-1, TIMD-1",Protein
+Neutrophil Gelatinase associated lipocalin,P80188,"NGAL, LCN2, Siderocalin",Protein
+Interleukin-18,Q14116,"IL-18, IGIF, IL-1g",Protein
+Hepatocyte growth factor,P14210,"HGF, SF (Scatter Factor)",Protein
+Cystatin-C,P01034,CST3,Protein
+N-acetyl-beta-D-glucosaminidase,P07686 / P08173,"NAG, Hexosaminidase, HEXA, HEXB",Protein
+Chemokine interferon inducible protein 10,P02778,"CXCL10, IP-10, C7",Protein
+Total Protein,N/A,TP,Protein
+Fibronectin,P02751,"FN1, LETS",Protein
+Nuclear Ribonucleoprotein H1 antibodies,P09012,"Anti-RNP, Anti-U1-RNP",Protein
+Anti-ribosomal P antibodies,P05388,"Anti-P, Rib-P",Protein
+Anti-Smith Antibodies,P62318,Anti-Sm,Protein
+Anti-double stranded DNA antibodies,N/A,Anti-dsDNA,Protein
+Hemoglobin subunit beta,P68871,"HBB, Beta-globin",Protein
+Glucose-6-phosphate 1-dehydrogenase,P11413,G6PD,Protein
+Gastrin,P01350,GAST,Protein
+Acetylcholinesterase,P22303,"ACHE, AChE",Protein
+Amyloid Beta 42,P05067,"Aβ42, Aβ-42, Amyloid beta 1-42",Protein
+Vasopressin-neurophysin 2-copeptin,P01185,"Copeptin, CPP, AVP-NPII",Protein
+Apolipoprotein E,P02649,APOE,Protein
+Beta-2-microglobulin,P61769,B2M,Protein
+Bone specific alkaline phosphatase,P05187,"BSAP, BAP, BALP, ALPL",Protein
+Brain natriuretic peptide,P16860,"BNP, NPPB",Protein
+Butyrylcholinesterase,P06276,"BCHE, ChE",Protein
+CA 19-9 tumor marker,N/A,"CA 19-9, Carbohydrate Antigen 19-9, Sialyl-Lewis A",Protein
+Calcitonin,P01258,CALCA,Protein
+Chymotrypsin,P17538,"CTRC, CTRB1",Protein
+Complement C1,P02745,"C1, C1q, C1r, C1s",Protein
+Complement C2,P06681,C2,Protein
+Complement C3,P01024,C3,Protein
+Complement C4,P0C0L4 / P0C0L5,"C4, C4a, C4b",Protein
+Pancreatic elastase-1,P08861,"ELA1, CELA1",Protein
+Ferritin,P02792 / P02794,"FTH1, FTL",Protein
+Gammaglutamyl transferase (GGT),P19440,"GGT, GGTP, GGT1",Protein
+Haptoglobin,P00738,HP,Protein
+Hemoglobin,P69905 / P68871,"Hb, Hgb",Protein
+IgA,P01876 / P01877,Immunoglobulin A,Protein
+IgE,P01854,Immunoglobulin E,Protein
+IgG,P01857,Immunoglobulin G,Protein
+IgM,P01871,Immunoglobulin M,Protein
+Insulin,P01308,INS,Protein
+Insulin-like growth factor 1,P05019,"IGF-1, Somatomedin C",Protein
+Interleukin-6,P05231,IL-6,Protein
+Interferon gamma,P01579,"IFN-gamma, IFNG",Protein
+Lactate dehydrogenase,P00338,"LDH, LDHA, LDHB",Protein
+Lactotransferrin,P02788,"LTF, Lactoferrin",Protein
+Parathyroid hormone,P01270,"PTH, Parathyrin",Protein
+Adrenocorticotropic hormone,P01189,"ACTH, Corticotropin, POMC",Protein
+Transglutaminase IgA antibody,P21980,"Anti-tTG, tTG-IgA",Protein
+Renin,P00797,REN,Protein
+Cardiac Troponin T,P45379,"cTnT, TNNT2",Protein
+Cardiac Troponin I,P19429,"cTnI, TNNI3",Protein
+Transthyretin,P02766,"TTR, Prealbumin",Protein
+Erythropoietin,P01588,EPO,Protein
+Thyroid stimulating hormone,P01222,"TSH, Thyrotropin",Protein
+Thyroglobulin,P01266,TG,Protein
+Prothrombin,P00734,"F2, Coagulation factor II",Protein
+Tryptase,Q15661,TPSAB1,Protein
+Antimullerian hormone,P03971,"AMH, MIS (Müllerian-inhibiting substance)",Protein
+Antithrombin,P01008,"AT, SERPINC1",Protein
+Sex hormone binding globulin,P04278,"SHBG, TeBG",Protein
+Apolipoprotein B-100,P04114,"ApoB, ApoB-100",Protein
+Von Willebrand Factor,P04275,VWF,Protein
+Apolipoprotein A1,P02647,"ApoA-I, ApoA1",Protein
+Clostridium difficile glutamate dehydrogenase,Q59345,GDH,Protein
+Transferrin receptor (soluble),P02786,"sTfR, TFRC, CD71",Protein
+Estrogen receptor,P03372,"ER, ESR1",Protein
+Progesterone receptor,P06401,"PR, PGR",Protein
+Fibrinogen,P02671 / P02675,"Fibrinogen alpha/beta/gamma chain, FGA, FGB, FGG",Protein
+Factor V,P12259,"F5, Proaccelerin",Protein
+Transferrin,P02787,"TF, Serotransferrin",Protein
+Follicle stimulating hormone,P01225,"FSH, Follitropin",Protein
+Hemoglobin S,P68871,"HbS, Sickle hemoglobin",Protein
+HER2,P04626,"ERBB2, NEU, NGL, CD340",Protein
+Human Chorionic Gonadotropin,P0DN86,"hCG, Beta-hCG, CGB",Protein
+Human growth hormone,P01241,"hGH, GH, GH1, Somatotropin",Protein
+Kappa/Lambda light chains,N/A,"KLC, LLC, Free light chains (FLC)",Protein
+Lactoferrin,P02788,"LTF, Lactotransferrin",Protein
+Leptin,P41159,"LEP, OB",Protein
+Luteinizing hormone,P01229,"LH, Lutropin, LSHB",Protein
+Myoglobin,P02144,MB,Protein
+Tau protein,P10636,"MAPT, Tau",Protein
+Tartrate resistant acid phosphatase,P13686,"TRAP, ACP5",Protein
+Procalcitonin,P01258,"PCT, CALCA",Protein
+Prolactin,P01236,PRL,Protein
+Prostate specific antigen,P07288,"PSA, KLK3, Kallikrein-3",Protein
+Protein C,P04070,PROC,Protein
+Protein S,P07225,PROS1,Protein
+Albumin,P02768,ALB,Protein
+Aspartate aminotransferase,P17174,"AST, SGOT, GOT1",Protein
+Aldolase,P04075 / P09972,"Aldolase, ALDOA, ALDOB, ALDOC",Protein
+Alanine transaminase,P24298,"ALT, SGPT, GPT",Protein
+Anti-gliadin antibody IgG,P04724,AGA-IgG,Protein
+D-dimer,P02671,D-dimer,Protein
+Proliferation marker protein Ki-67,P46013,"Ki-67, MKI67",Protein
+Urokinase-type plasminogen activator,P00749,"uPA, PLAU",Protein
+Plasminogen activator inhibitor 1,P05121,"PAI-1, SERPINE1",Protein
+Alkaline Phosphatase,P05186 / P07339,"ALP, ALKP, ALPL, ALPI",Protein
+C-X-C Motif Chemokine 9,Q07325,"CXCL9, MIG",Protein
+Carcinoembryonic antigen,P06731,"CEA, CEACAM5",Protein
+Cluster of Differentiation 163,Q86VB7,CD163,Protein
+Creatine Kinase,P06732,"CK, CPK, CKM, CKB",Protein
+Interleukin-10,P22301,IL-10,Protein
+Interleukin-1 beta,P01584,"IL-1B, IL-1β",Protein
+Pancreatic Amylase,P04746,"AMY2A, P-Amylase",Protein
+Gastrin-releasing peptide,P07492,"GRP, Pro-GRP",Protein
+Rheumatoid Factor,N/A,RF,Protein
+Squamous cell carcinoma antigen,P29508 / P48635,"SCCA, SERPINB3, SERPINB4",Protein
+Tumor necrosis factor,P01375,"TNF, TNF-alpha, TNFA",Protein
+Neurofilament Light Polypeptide,P07196,"NfL, NEFL",Protein
+Gamma-Enolase,P09104,"Enolase 2, ENO2, NSE (Neuron-specific enolase)",Protein
+Neurotensin,P30990,"NTS, Pro-NT",Protein
+Pancreatic Polypeptide,P01298,PP,Protein
+Porphobilinogen Deaminase,P08397,"PBGD, HMBS",Protein
+Prostatic Acid Phosphatase,P15309,"PAP, ACPP",Protein
+Protein S-100B,P04271,S100B,Protein
+SS-A/Ro Antibodies,Q8IXI5 / P19474,"Anti-SSA, Anti-Ro, Ro-52, Ro-60",Protein
+SS-B/La Antibodies,P05455,"Anti-SSB, Anti-La",Protein
+Thrombopoietin,P40225,"THPO, TPO",Protein
+Thyroxine-binding Globulin,P05543,"TBG, SERPINA7",Protein
+Beta-Galactosidase,P16278,GLB1,Protein
+Cytosolic Beta-Glucosidase,Q9H227,GBA3,Protein
+Beta-Glucuronidase,P08236,GUSB,Protein
+Biotinidase,P43251,BTD,Protein
+C1q Complement,P02745,C1q,Protein
+C5 Complement,P01031,C5,Protein
+C6 Complement,P13671,C6,Protein
+C7 Complement,P10643,C7,Protein
+C8 Complement,P07360 / P07357,"C8, C8A, C8B",Protein
+C9 Complement,P02748,C9,Protein
+Chromogranin A,P10645,"CgA, CHGA",Protein
+Coagulation Factor IX,P00740,"F9, Christmas factor",Protein
+Coagulation Factor VII,P08709,"F7, Proconvertin",Protein
+Coagulation Factor VIII,P00451,F8,Protein
+Coagulation Factor X,P00742,"F10, Stuart-Prower factor",Protein
+Coagulation Factor XI,P03951,F11,Protein
+Coagulation Factor XII,P00748,"F12, Hageman factor",Protein
+Angiotensin I,P01019,"Ang I, Angiotensin-1",Protein
+Alpha-1-Acid Glycoprotein,P02763,"A1AG, ORM1, Orosomucoid",Protein
+Alpha-Galactosidase,P06280,GLA,Protein
+Aminolevulinic Acid Dehydratase,P13716,"ALAD, Porphobilinogen synthase",Protein
+Adenylate kinase enzyme,P00568 / P27144,"AK1, AK2",Protein
+Zinc transporter 8,Q8IWU4,"ZnT8, SLC30A8",Protein
+Vasoactive intestinal polypeptide,P01282,VIP,Protein
+Uroporphyrinogen Decarboxylase,P06132,UROD,Protein
+Lipase,P16233,"Pancreatic lipase, PNLIP",Protein
+Alpha-2-Macroglobulin,P01023,A2M,Protein
+Galactokinase,P51570,GALK1,Protein
+Galactose-1-Phosphate Uridyltransferase,P07902,GALT,Protein
+Galectin-3,P17931,LGALS3,Protein
+Glucose Phosphate Isomerase,P06744,"GPI, Phosphoglucose isomerase (PGI)",Protein
+Pyruvate Kinase,P14618 / P30613,"PK, PKM, PKLR",Protein
+Hexokinase,P19367,"HK1, HK2",Protein
+Adenylate Kinase,P00568,AK1,Protein
+Phosphofructokinase,P08237,"PFK, PFKP, PFKM",Protein
+Phosphoglycerate Kinase,P00558,PGK1,Protein
+Triosephosphate Isomerase,P60174,TPI1,Protein
+Iduronate-2-Sulfatase,P22304,"IDS, Hunter syndrome protein",Protein
+Insulin-like Growth Factor 2,P01344,IGF-2,Protein
+Intact Fibroblast Growth Factor 23,Q9GZV9,"iFGF23, FGF23",Protein
+Interleukin 1-Alpha,P01583,"IL-1A, IL-1α",Protein
+Factor B Complement Antigen,P00751,"CFB, Factor B",Protein
+Ghrelin,Q9UBU3,GHRL,Protein
+Glucagon,P01275,GCG,Protein
+Human Transforming Growth Factor beta 1,P01137,"TGF-β1, TGFB1",Protein
+Inhibin B,P09529 / P12533,"INHBB, INHBA",Protein
+Insulin-like Growth Factor-Binding Protein-1,P08833,IGFBP1,Protein
+1-Methylhistidine,HMDB0000001,"1-MHis, (S)-2-Amino-3-(1-methyl-1H-imidazol-4-yl)propanoic acid, Pi-methylhistidine",Chemical
+"1,3-Diaminopropane",HMDB0000002,"1,3-Propanediamine, Propane-1,3-diamine, Trimethylenediamine",Chemical
+2-Hydroxybutyric acid,HMDB0000008,"2-Hydroxybutanoic acid, alpha-Hydroxybutyrate, α-Hydroxybutyric acid",Chemical
+2-Methoxyestrone,HMDB0000010,2-MeOE1,Chemical
+(R)-3-Hydroxybutyric acid,HMDB0000011,"D-3-Hydroxybutyrate, (R)-beta-Hydroxybutyrate, (R)-BHB",Chemical
+Deoxyuridine,HMDB0000012,"dU, 2'-Deoxyuridine, Uridine deoxyribose",Chemical
+Cortexolone,HMDB0000015,"11-Deoxycortisol, Cortodoxone, Reichstein's substance S",Chemical
+Deoxycorticosterone,HMDB0000016,"21-Hydroxyprogesterone, 11-Deoxycorticosterone, DOC",Chemical
+4-Pyridoxic acid,HMDB0000017,4-PA,Chemical
+Alpha-ketoisovaleric acid,HMDB0000019,"2-Oxo-3-methylbutanoic acid, α-Ketoisovalerate, 3-Methyl-2-oxobutanoic acid",Chemical
+p-Hydroxyphenylacetic acid,HMDB0000020,"4-Hydroxyphenylacetic acid, PHPA",Chemical
+3-Methoxytyramine,HMDB0000022,"3-MT, 4-(2-Aminoethyl)-2-methoxyphenol",Chemical
+(S)-3-Hydroxyisobutyric acid,HMDB0000023,"(S)-3-HIB, (S)-2-Methyl-3-hydroxy-propanoate",Chemical
+3-O-Sulfogalactosylceramide (d18:1/24:0),HMDB0000024,"SM1, Sulfatide (d18:1/24:0)",Chemical
+Tetrahydrobiopterin,HMDB0000027,"BH4, THB, Sapropterin",Chemical
+Biotin,HMDB0000030,"Vitamin B7, Vitamin H, Coenzyme R",Chemical
+Androsterone,HMDB0000031,5α-Androstan-3α-ol-17-one,Chemical
+7-Dehydrocholesterol,HMDB0000032,"7-DHC, Provitamin D3, Cholesta-5,7-dien-3β-ol",Chemical
+Carnosine,HMDB0000033,"L-Carnosine, N-beta-Alanyl-L-histidine",Chemical
+Adenine,HMDB0000034,"6-Aminopurine, Vitamin B4",Chemical
+Taurocholic acid,HMDB0000036,"Taurocholate, Chola-24-oic acid N-(2-sulfoethyl)amide",Chemical
+Aldosterone,HMDB0000037,"Electrocortin, Aldocorten",Chemical
+Dihydrobiopterin,HMDB0000038,"BH2, 7,8-Dihydrobiopterin",Chemical
+Butyric acid,HMDB0000039,"Butanoic acid, Butyrate",Chemical
+Acetic acid,HMDB0000042,"Ethanoic acid, Acetate",Chemical
+Betaine,HMDB0000043,"Trimethylglycine, TMG, Glycine betaine",Chemical
+Ascorbic acid,HMDB0000044,"Vitamin C, L-Ascorbate",Chemical
+Adenosine,HMDB0000050,Ado,Chemical
+Ammonia,HMDB0000051,"NH3, Azane",Chemical
+Argininosuccinic acid,HMDB0000052,Argininosuccinate,Chemical
+Androstenedione,HMDB0000053,"4-Androstenedione, Andro",Chemical
+Bilirubin,HMDB0000054,Hematoidin,Chemical
+Beta-Alanine,HMDB0000056,"3-Aminopropanoic acid, β-Alanine",Chemical
+Cyclic AMP,HMDB0000058,"cAMP, 3',5'-cyclic AMP, Adenosine 3',5'-cyclic monophosphate",Chemical
+Acetoacetic acid,HMDB0000060,"3-Oxobutanoic acid, Acetoacetate",Chemical
+L-Carnitine,HMDB0000062,"Levocarnitine, Vitamin Bt",Chemical
+Cortisol,HMDB0000063,"Hydrocortisone, 17-Hydroxycorticosterone",Chemical
+Creatine,HMDB0000064,"N-Amidinosarcosine, Methylguanidoacetic acid",Chemical
+Cholesterol,HMDB0000067,Cholest-5-en-3β-ol,Chemical
+Epinephrine,HMDB0000068,"Adrenaline, L-Adrenaline",Chemical
+Pipecolic acid,HMDB0000070,"L-Pipecolic acid, L-Pipecolinate, (S)-Piperidine-2-carboxylic acid",Chemical
+Deoxyinosine,HMDB0000071,"2'-Deoxyinosine, dI",Chemical
+cis-Aconitic acid,HMDB0000072,"cis-Aconitate, Prop-1-ene-1,2,3-tricarboxylate",Chemical
+Dopamine,HMDB0000073,"3,4-Dihydroxyphenethylamine",Chemical
+Dihydrouracil,HMDB0000076,"5,6-Dihydrouracil",Chemical
+Dehydroepiandrosterone,HMDB0000077,"DHEA, Prasterone, Androstenolone",Chemical
+Cysteinylglycine,HMDB0000078,Cys-Gly,Chemical
+Dihydrothymine,HMDB0000079,"5,6-Dihydrothymine",Chemical
+Deoxyguanosine,HMDB0000085,"2'-Deoxyguanosine, dG",Chemical
+Glycerophosphocholine,HMDB0000086,"GPC, sn-Glycero-3-phosphocholine",Chemical
+Dimethylamine,HMDB0000087,"DMA, N-Methylmethanamine",Chemical
+Cytidine,HMDB0000089,Cyd,Chemical
+Dimethylglycine,HMDB0000092,"DMG, N,N-Dimethylglycine",Chemical
+Citric acid,HMDB0000094,"Citrate, 2-Hydroxypropane-1,2,3-tricarboxylic acid",Chemical
+Choline,HMDB0000097,(2-Hydroxyethyl)trimethylammonium,Chemical
+D-Xylose,HMDB0000098,Wood sugar,Chemical
+L-Cystathionine,HMDB0000099,Cystathionine,Chemical
+Deoxyadenosine,HMDB0000101,"2'-Deoxyadenosine, dA",Chemical
+Galactitol,HMDB0000107,Dulcitol,Chemical
+Ethanol,HMDB0000108,"Ethyl alcohol, Alcohol",Chemical
+Gamma-Aminobutyric acid,HMDB0000112,"GABA, 4-Aminobutanoic acid",Chemical
+Glycolic acid,HMDB0000115,"Glycolate, 2-Hydroxyacetic acid",Chemical
+Homovanillic acid,HMDB0000118,"HVA, 4-Hydroxy-3-methoxyphenylacetic acid",Chemical
+Glyoxylic acid,HMDB0000119,"Glyoxylate, Oxoacetic acid",Chemical
+Folic acid,HMDB0000121,"Vitamin B9, Folate, Pteroylglutamic acid",Chemical
+D-Glucose,HMDB0000122,"Dextrose, Grape sugar, Blood sugar",Chemical
+Glycine,HMDB0000123,"Gly, Aminoacetic acid",Chemical
+Fructose 6-phosphate,HMDB0000124,F6P,Chemical
+Glutathione,HMDB0000125,"GSH, L-Glutathione",Chemical
+Glycerol 3-phosphate,HMDB0000126,"G3P, sn-Glycerol 3-phosphate",Chemical
+Guanidoacetic acid,FDB005417,"GAA, Glycocyamine",Chemical
+Homogentisic acid,HMDB0000130,"Alkapton, 2,5-Dihydroxyphenylacetic acid",Chemical
+Glycerol,HMDB0000131,"Glycerin, Propane-1,2,3-triol",Chemical
+Guanine,HMDB0000132,"Guan, 2-Amino-6-oxopurine",Chemical
+Guanosine,HMDB0000133,Guo,Chemical
+Fumaric acid,HMDB0000134,"Fumarate, (E)-Butenedioic acid",Chemical
+Glycocholic acid,HMDB0000138,Glycocholate,Chemical
+Glyceric acid,HMDB0000139,"Glycerate, 2,3-Dihydroxypropanoic acid",Chemical
+Formic acid,HMDB0000142,"Methanoic acid, Formate",Chemical
+D-Galactose,HMDB0000143,Gal,Chemical
+Estrone,HMDB0000145,E1,Chemical
+L-Glutamic acid,HMDB0000148,"Glutamate, Glu, E",Chemical
+Ethanolamine,HMDB0000149,"2-Aminoethanol, Colamine",Chemical
+Estradiol,HMDB0000151,"E2, 17β-Estradiol",Chemical
+Gentisic acid,HMDB0000152,"2,5-Dihydroxybenzoic acid",Chemical
+Estriol,HMDB0000153,E3,Chemical
+L-Malic acid,HMDB0000156,"L-Malate, (S)-Hydroxybutanedioic acid",Chemical
+Hypoxanthine,HMDB0000157,6-Hydroxypurine,Chemical
+L-Tyrosine,HMDB0000158,"Tyr, Y, 4-Hydroxyphenylalanine",Chemical
+L-Phenylalanine,HMDB0000159,"Phe, F",Chemical
+L-Alanine,HMDB0000161,"Ala, A",Chemical
+L-Proline,HMDB0000162,"Pro, P",Chemical
+Methylamine,HMDB0000164,Methanamine,Chemical
+L-Threonine,HMDB0000167,"Thr, T",Chemical
+L-Asparagine,HMDB0000168,"Asn, N",Chemical
+L-Isoleucine,HMDB0000172,"Ile, I",Chemical
+Maleic acid,HMDB0000176,"Maleate, (Z)-Butenedioic acid",Chemical
+L-Histidine,HMDB0000177,"His, H",Chemical
+L-Dopa,HMDB0000181,"Levodopa, 3,4-Dihydroxy-L-phenylalanine",Chemical
+L-Lysine,HMDB0000182,"Lys, K",Chemical
+Alpha-Lactose,HMDB0000186,"α-Lactose, Milk sugar",Chemical
+L-Serine,HMDB0000187,"Ser, S",Chemical
+L-Lactic acid,HMDB0000190,"L-Lactate, (S)-2-Hydroxypropanoic acid",Chemical
+L-Aspartic acid,HMDB0000191,"Aspartate, Asp, D",Chemical
+L-Cystine,HMDB0000192,Cystine,Chemical
+Isocitric acid,HMDB0000193,Isocitrate,Chemical
+Anserine,HMDB0000194,N-beta-Alanyl-3-methyl-L-histidine,Chemical
+Inosine,HMDB0000195,"Ino, Hypoxanthosine",Chemical
+Indoleacetic acid,HMDB0000197,"IAA, Indole-3-acetic acid",Chemical
+L-Acetylcarnitine,HMDB0000201,ALCAR,Chemical
+Methylmalonic acid,HMDB0000202,MMA,Chemical
+Phenylpyruvic acid,HMDB0000205,Phenylpyruvate,Chemical
+Oleic acid,HMDB0000207,(9Z)-Octadecenoic acid,Chemical
+Oxoglutaric acid,HMDB0000208,"Alpha-ketoglutarate, α-Ketoglutaric acid, 2-Oxoglutarate",Chemical
+Phenylacetic acid,HMDB0000209,Phenylacetate,Chemical
+Pantothenic acid,HMDB0000210,"Vitamin B5, Pantothenate",Chemical
+Myoinositol,HMDB0000211,"myo-Inositol, Inositol",Chemical
+Ornithine,HMDB0000214,Orn,Chemical
+Norepinephrine,HMDB0000216,"Noradrenaline, Levarterenol",Chemical
+Palmitic acid,HMDB0000220,"Hexadecanoic acid, Palmitate",Chemical
+Oxaloacetic acid,HMDB0000223,"Oxaloacetate, 2-Oxosuccinic acid",Chemical
+O-Phosphoethanolamine,HMDB0000224,"Phosphoethanolamine, Ethanolamine phosphate",Chemical
+Oxoadipic acid,HMDB0000225,"Alpha-ketoadipic acid, α-Ketoadipate",Chemical
+Orotic acid,HMDB0000226,"Vitamin B13, Orotate",Chemical
+Mevalonic acid,HMDB0000227,Mevalonate,Chemical
+Phenol,HMDB0000228,"Carbolic acid, Benzenol",Chemical
+Nicotinamide ribotide,HMDB0000229,"NMN, Nicotinamide mononucleotide",Chemical
+Quinolinic acid,HMDB0000232,"Quinolate, Pyridine-2,3-dicarboxylic acid",Chemical
+Testosterone,HMDB0000234,T,Chemical
+Thiamine,HMDB0000235,"Vitamin B1, Thiamin",Chemical
+Propionic acid,HMDB0000237,"Propanoic acid, Propionate",Chemical
+Sepiapterin,HMDB0000238,"(2-Amino-6-lactyl-7,8-dihydropteridin-4-one)",Chemical
+Pyridoxine,HMDB0000239,Vitamin B6,Chemical
+Pyruvic acid,HMDB0000243,"Pyruvate, 2-Oxopropanoic acid",Chemical
+Riboflavin,HMDB0000244,Vitamin B2,Chemical
+Porphobilinogen,HMDB0000245,PBG,Chemical
+Sorbitol,HMDB0000247,Glucitol,Chemical
+Thyroxine,HMDB0000248,"T4, L-Thyroxine",Chemical
+Taurine,HMDB0000251,2-Aminoethanesulfonic acid,Chemical
+Pregnenolone,HMDB0000253,P5,Chemical
+Succinic acid,HMDB0000254,"Succinate, Butanedioic acid",Chemical
+Thiosulfate,HMDB0000257,S2O3(2-),Chemical
+Serotonin,HMDB0000259,"5-Hydroxytryptamine, 5-HT",Chemical
+Thymine,HMDB0000262,5-Methyluracil,Chemical
+Liothyronine,HMDB0000265,"T3, Triiodothyronine",Chemical
+Pyroglutamic acid,HMDB0000267,"5-Oxoproline, Pidolic acid",Chemical
+Sarcosine,HMDB0000271,N-Methylglycine,Chemical
+Phosphoserine,HMDB0000272,O-Phospho-L-serine,Chemical
+Thymidine,HMDB0000273,"dT, 2'-Deoxythymidine",Chemical
+D-Ribose,HMDB0000283,Ribose,Chemical
+Uridine 5'-monophosphate,HMDB0000288,"UMP, 5'-Uridylic acid",Chemical
+Uric acid,HMDB0000289,Urate,Chemical
+Vanillylmandelic acid,HMDB0000291,VMA,Chemical
+Xanthine,HMDB0000292,"3,7-Dihydropurine-2,6-dione",Chemical
+Urea,HMDB0000294,Carbamide,Chemical
+Uridine,HMDB0000296,Urd,Chemical
+Uracil,HMDB0000300,Ura,Chemical
+Urocanic acid,HMDB0000301,Urocanate,Chemical
+Vitamin A,HMDB0000305,"Retinol, Retinal, Retinoic acid",Chemical
+Tyramine,HMDB0000306,4-Hydroxyphenethylamine,Chemical
+"3,4-Dihydroxyphenylglycol",HMDB0000318,"DHPG, DOPEG",Chemical
+18-Hydroxycorticosterone,HMDB0000319,18-OHB,Chemical
+2-Hydroxyadipic acid,HMDB0000321,"Alpha-hydroxyadipate, α-Hydroxyadipic acid",Chemical
+(R)-3-Hydroxyisobutyric acid,HMDB0000336,(R)-3-HIB,Chemical
+"(S)-3,4-Dihydroxybutyric acid",HMDB0000337,2-Deoxytetronic acid,Chemical
+2-Methylbutyrylglycine,HMDB0000339,2-MBG,Chemical
+2-Hydroxyestrone,HMDB0000343,2-OHE1,Chemical
+3-Hydroxysebacic acid,HMDB0000350,3-OH-sebacate,Chemical
+2-Methyl-3-hydroxybutyric acid,HMDB0000354,2M3HBA,Chemical
+3-Hydroxymethylglutaric acid,HMDB0000355,3-HMGA,Chemical
+3-Hydroxybutyric acid,HMDB0000357,"3-Hydroxybutanoic acid, Beta-hydroxybutyrate, BHB",Chemical
+17a-Hydroxypregnenolone,HMDB0000363,17-OH-Pregnenolone,Chemical
+17-Hydroxyprogesterone,HMDB0000374,"17-OHP, 17-alpha-Hydroxyprogesterone",Chemical
+2-Methylcitric acid,HMDB0000379,2-Methylcitrate,Chemical
+2-Ethylhydracrylic acid,HMDB0000396,2-Ethyl-3-hydroxypropanoic acid,Chemical
+2-Methoxyestradiol,HMDB0000405,2-MeOE2,Chemical
+2-Hydroxy-3-methylbutyric acid,HMDB0000407,2-Hydroxyisovaleric acid,Chemical
+2-Methylglutaric acid,HMDB0000422,2-Methylglutarate,Chemical
+"3,4-Dihydroxyhydrocinnamic acid",HMDB0000423,Dihydrocaffeic acid,Chemical
+3-Hydroxyglutaric acid,HMDB0000428,3-OH-Glutarate,Chemical
+17a-Estradiol,HMDB0000429,17-epi-Estradiol,Chemical
+2-Furoylglycine,HMDB0000439,Furoylglycine,Chemical
+3-Hydroxyphenylacetic acid,HMDB0000440,"m-Hydroxyphenylacetic acid, 3-HPAA",Chemical
+Adipic acid,HMDB0000448,"Adipate, Hexanedioic acid",Chemical
+5-Hydroxylysine,HMDB0000450,"Hyl, 5-Hydroxy-L-lysine",Chemical
+cis-4-Hydroxycyclohexylacetic acid,N/A,,Chemical
+3-Methylcrotonylglycine,HMDB0000459,3-MCG,Chemical
+Allantoin,HMDB0000462,5-Ureidohydantoin,Chemical
+Calcium,HMDB0000464,Ca,Chemical
+Biopterin,HMDB0000468,,Chemical
+5-Hydroxymethyluracil,HMDB0000469,,Chemical
+5-Hydroxy-L-tryptophan,HMDB0000472,"5-HTP, Oxitriptan",Chemical
+Butanone,HMDB0000474,"Methyl ethyl ketone, MEK",Chemical
+3-Methylhistidine,HMDB0000479,"3-MHis, Tau-methylhistidine",Chemical
+Caprylic acid,HMDB0000482,"Octanoic acid, Caprylate",Chemical
+Vanillic acid,HMDB0000484,4-Hydroxy-3-methoxybenzoic acid,Chemical
+Aspartylglycosamine,HMDB0000489,"AGA, Aspartylglucosamine",Chemical
+Etiocholanolone,HMDB0000490,5β-Androstan-3α-ol-17-one,Chemical
+3-Methyl-2-oxovaleric acid,HMDB0000491,"KMV, α-Keto-β-methylvaleric acid",Chemical
+Chlorine,HMDB0000492,"Cl, Chloride",Chemical
+Androstanediol,HMDB0000495,"3α-Androstanediol, 5α-Androstane-3α,17β-diol",Chemical
+7-Ketocholesterol,HMDB0000501,"7-KC, 3β-Hydroxy-5-cholesten-7-one",Chemical
+Ribitol,HMDB0000508,Adonitol,Chemical
+Aminoadipic acid,HMDB0000510,"2-Aminoadipic acid, Alpha-aminoadipate, α-Aminoadipic acid",Chemical
+L-Arginine,HMDB0000517,"Arg, R",Chemical
+Chenodeoxycholic acid,HMDB0000518,"CDCA, Chenodiol",Chemical
+5Z-Tetradecenoic acid,HMDB0000521,"Physeteric acid, (Z)-Tetradec-5-enoic acid",Chemical
+3-Methylglutaconic acid,HMDB0000522,3-MGA,Chemical
+5-Hydroxyhexanoic acid,HMDB0000525,5-Hydroxycaproic acid,Chemical
+5a-Tetrahydrocortisol,HMDB0000526,"Allo-tetrahydrocortisol, Allotetrahydrocortisol",Chemical
+3-Hydroxyvaleric acid,HMDB0000531,3-Hydroxypentanoic acid,Chemical
+Acetylglycine,HMDB0000532,N-Acetylglycine,Chemical
+Caproic acid,HMDB0000535,"Hexanoic acid, Caproate",Chemical
+Adenosine triphosphate,HMDB0000538,ATP,Chemical
+Magnesium,HMDB0000547,Mg,Chemical
+3-Methyladipic acid,HMDB0000555,3-Methyladipate,Chemical
+L-Alloisoleucine,HMDB0000557,"(2S,3R)-2-Amino-3-methylpentanoic acid",Chemical
+B-Carotene,HMDB0000561,"beta-Carotene, β-Carotene, Provitamin A",Chemical
+Creatinine,HMDB0000562,2-Amino-1-methyl-5H-imidazol-4-one,Chemical
+D-Arabitol,HMDB0000568,Arabitol,Chemical
+Deoxypyridinoline,HMDB0000569,"DPD, Pyrilinks-D",Chemical
+Coproporphyrin III,HMDB0000570,,Chemical
+L-Cysteine,HMDB0000574,"Cys, C",Chemical
+"3,5-Diiodothyronine",HMDB0000582,T2,Chemical
+Potassium,HMDB0000586,K,Chemical
+Sodium,HMDB0000588,Na,Chemical
+Hydrogen carbonate,HMDB0000595,"Bicarbonate, HCO3-",Chemical
+Chromium,HMDB0000599,Cr,Chemical
+Galactosylhydroxylysine,HMDB0000600,GHL,Chemical
+cis-4-Decenedioic acid,HMDB0000603,,Chemical
+D-2-Hydroxyglutaric acid,HMDB0000606,D-2-HG,Chemical
+Cyanocobalamin,HMDB0000607,Vitamin B12,Chemical
+Cobalt,HMDB0000608,Co,Chemical
+D-Ribulose 5-phosphate,HMDB0000618,R5P,Chemical
+Cholic acid,HMDB0000619,Cholalic acid,Chemical
+Glutaconic acid,HMDB0000620,Glutaconate,Chemical
+Ethylmalonic acid,HMDB0000622,EMA,Chemical
+Deoxycholic acid,HMDB0000626,"DCA, Deoxycholate, Cholan-24-oic acid",Chemical
+Succinylacetone,HMDB0000635,"4,6-Dioxoheptanoic acid",Chemical
+Dodecanoic acid,HMDB0000638,"Lauric acid, Laurate",Chemical
+L-Glutamine,HMDB0000641,"Gln, Q",Chemical
+Coproporphyrin I,HMDB0000643,,Chemical
+Galactose 1-phosphate,HMDB0000645,G1P,Chemical
+L-Arabinose,HMDB0000646,Pectin sugar,Chemical
+Decanoylcarnitine,HMDB0000651,C10 Carnitine,Chemical
+Cholesterol sulfate,HMDB0000653,,Chemical
+Copper,HMDB0000657,Cu,Chemical
+D-Fructose,HMDB0000660,"Fructose, Fruit sugar",Chemical
+Glutaric acid,HMDB0000661,"Glutarate, Pentanedioic acid",Chemical
+Fluorine,HMDB0000662,"F, Fluoride",Chemical
+Ortho-Hydroxyphenylacetic acid,HMDB0000669,2-Hydroxyphenylacetic acid,Chemical
+Homo-L-arginine,HMDB0000670,Homoarginine,Chemical
+Linoleic acid,HMDB0000673,"(9Z,12Z)-Octadecadienoic acid",Chemical
+Iodine,HMDB0000675,"I, Iodide",Chemical
+L-Homocystine,HMDB0000676,Homocystine,Chemical
+Isovalerylglycine,HMDB0000678,IVG,Chemical
+Homocitrulline,HMDB0000679,,Chemical
+Indoxyl sulfate,HMDB0000682,"Indoxylsulfate, 3-Indoxyl sulfate",Chemical
+L-Kynurenine,HMDB0000684,Kynurenine,Chemical
+L-Leucine,HMDB0000687,"Leu, L",Chemical
+Isovalerylcarnitine,HMDB0000688,"IVC, C5 Carnitine",Chemical
+Malonic acid,HMDB0000691,"Malonate, Propanedioic acid",Chemical
+Iron,HMDB0000692,Fe,Chemical
+Heparan sulfate,HMDB0000693,,Chemical
+L-2-Hydroxyglutaric acid,HMDB0000694,L-2-HG,Chemical
+Ketoleucine,HMDB0000695,"Alpha-ketoisocaproate, α-Ketoisocaproic acid",Chemical
+L-Methionine,HMDB0000696,"Met, M",Chemical
+1-Methylnicotinamide,HMDB0000699,1-MNA,Chemical
+3-Hydroxypropionic acid,HMDB0000700,"3-HP, Beta-hydroxypropionic acid",Chemical
+Hexanoylglycine,HMDB0000701,,Chemical
+Mandelic acid,HMDB0000703,Amygdalic acid,Chemical
+4-Hydroxyphenylpyruvic acid,HMDB0000707,4-HPPA,Chemical
+Glycoursodeoxycholic acid,HMDB0000708,GUDCA,Chemical
+4-Hydroxybutyric acid,HMDB0000710,"GHB, Gamma-hydroxybutyrate",Chemical
+Hippuric acid,HMDB0000714,N-Benzoylglycine,Chemical
+Kynurenic acid,HMDB0000715,KYNA,Chemical
+L-Pipecolic acid,HMDB0000716,(S)-Piperidine-2-carboxylic acid,Chemical
+Isovaleric acid,HMDB0000718,"3-Methylbutanoic acid, Isovalerate",Chemical
+L-Homoserine,HMDB0000719,Homoserine,Chemical
+Glycylproline,HMDB0000721,Gly-Pro,Chemical
+Lithocholyltaurine,HMDB0000722,Taurolithocholic acid,Chemical
+Hydroxyproline,HMDB0000725,4-Hydroxy-L-proline,Chemical
+Alpha-Hydroxyisobutyric acid,HMDB0000729,2-Hydroxyisobutyric acid,Chemical
+Isobutyrylglycine,HMDB0000730,,Chemical
+Cysteine-S-sulfate,HMDB0000731,S-Sulfocysteine,Chemical
+Hyodeoxycholic acid,HMDB0000733,HDCA,Chemical
+Isobutyryl-L-carnitine,HMDB0000736,C4 Carnitine,Chemical
+Heptacarboxylporphyrin I,HMDB0000737,,Chemical
+Lactulose,HMDB0000740,,Chemical
+Homocysteine,HMDB0000742,Hcy,Chemical
+Hydroxyisocaproic acid,HMDB0000746,"HICA, Leucic acid",Chemical
+Methylglutaric acid,HMDB0000752,3-Methylglutaric acid,Chemical
+3-Hydroxyisovaleric acid,HMDB0000754,3-HIVA,Chemical
+Hydroxyphenyllactic acid,HMDB0000755,"HPLA, 4-Hydroxyphenyllactic acid",Chemical
+L-Hexanoylcarnitine,HMDB0000756,C6 Carnitine,Chemical
+Lithocholic acid,HMDB0000761,"LCA, Lithocholate",Chemical
+5-Hydroxyindoleacetic acid,FDB001403,5-HIAA,Chemical
+Hydrocinnamic acid,FDB008271,3-Phenylpropanoic acid,Chemical
+Mannitol,HMDB0000765,,Chemical
+Pseudouridine,HMDB0000767,"Psi, ψ, 5-Ribosyluracil",Chemical
+Phenyllactic acid,HMDB0000779,"PLA, 3-Phenyllactic acid",Chemical
+Azelaic acid,HMDB0000784,"Nonanedioic acid, Azelate",Chemical
+Orotidine,HMDB0000788,,Chemical
+L-Octanoylcarnitine,HMDB0000791,C8 Carnitine,Chemical
+Sebacic acid,HMDB0000792,"Decanedioic acid, Sebacate",Chemical
+Pristanic acid,HMDB0000795,"2,6,10,14-Tetramethylpentadecanoic acid",Chemical
+SAICAR,HMDB0000797,Phosphoribosylaminoimidazolesuccinocarboxamide,Chemical
+Phytanic acid,HMDB0000801,"3,7,11,15-Tetramethylhexadecanoic acid",Chemical
+N-Butyrylglycine,HMDB0000808,,Chemical
+N-Acetyl-L-aspartic acid,HMDB0000812,"NAA, N-Acetylaspartate",Chemical
+Normetanephrine,HMDB0000819,,Chemical
+Propyl alcohol,HMDB0000820,"1-Propanol, Propan-1-ol",Chemical
+Propionylcarnitine,HMDB0000824,C3 Carnitine,Chemical
+Stearic acid,HMDB0000827,"Octadecanoic acid, Stearate",Chemical
+Neuraminic acid,HMDB0000830,,Chemical
+Neopterin,HMDB0000845,,Chemical
+Stearoylcarnitine,HMDB0000848,C18 Carnitine,Chemical
+Pyridinoline,HMDB0000851,PYD,Chemical
+Beta-Sitosterol,HMDB0000852,β-Sitosterol,Chemical
+Pimelic acid,HMDB0000857,"Heptanedioic acid, Pimelate",Chemical
+Phenylpropionylglycine,HMDB0000860,PPG,Chemical
+Isopropyl alcohol,HMDB0000863,"Isopropanol, 2-Propanol, Rubbing alcohol",Chemical
+N-Acetyl-L-tyrosine,HMDB0000866,NAT,Chemical
+Histamine,HMDB0000870,,Chemical
+Tauroursodeoxycholic acid,HMDB0000874,TUDCA,Chemical
+Trigonelline,HMDB0000875,,Chemical
+Xanthurenic acid,HMDB0000881,XA,Chemical
+L-Valine,HMDB0000883,"Val, V",Chemical
+Valeric acid,HMDB0000892,"Pentanoic acid, Valerate",Chemical
+Suberic acid,HMDB0000893,"Octanedioic acid, Suberate",Chemical
+Acetylcholine,HMDB0000895,ACh,Chemical
+Taurodeoxycholic acid,HMDB0000896,TDCA,Chemical
+1-Methylhistamine,HMDB0000898,N-Methylhistamine,Chemical
+Tetrahydrocortisone,HMDB0000903,THE,Chemical
+Citrulline,HMDB0000904,L-Citrulline,Chemical
+Trimethylamine,HMDB0000906,TMA,Chemical
+5-alpha-Cholestanol,HMDB0000908,"Dihydrocholesterol, Cholestanol",Chemical
+Succinyladenosine,HMDB0000912,,Chemical
+Trimethylamine N-oxide,HMDB0000925,TMAO,Chemical
+L-Tryptophan,HMDB0000929,"Trp, W",Chemical
+Uroporphyrin I,HMDB0000936,,Chemical
+S-Adenosylhomocysteine,HMDB0000939,SAH,Chemical
+Threonic acid,HMDB0000943,Threonate,Chemical
+Behenic acid,HMDB0000944,Docosanoic acid,Chemical
+Ursodeoxycholic acid,HMDB0000946,UDCA,Chemical
+Tetrahydrocortisol,HMDB0000949,THF,Chemical
+Taurochenodesoxycholic acid,HMDB0000951,TCDCA,Chemical
+Suberylglycine,HMDB0000953,,Chemical
+trans-Ferulic acid,FDB012802,Ferulic acid,Chemical
+Tartaric acid,HMDB0000956,Tartrate,Chemical
+trans-Aconitic acid,HMDB0000958,,Chemical
+Tiglylglycine,HMDB0000959,,Chemical
+Acetaldehyde,HMDB0000990,Ethanal,Chemical
+DHEA sulfate,HMDB0001032,"DHEA-S, Dehydroepiandrosterone sulfate",Chemical
+Angiotensin II,HMDB0001035,Ang II,Chemical
+Arachidonic acid,HMDB0001043,"ARA, AA, (5Z,8Z,11Z,14Z)-Eicosatetraenoic acid",Chemical
+Enkephalin L,HMDB0001045,Leucine enkephalin,Chemical
+Cotinine,HMDB0001046,,Chemical
+Ubiquinol 8,HMDB0001060,,Chemical
+N-Acetylaspartylglutamic acid,HMDB0001067,NAAG,Chemical
+D-Sedoheptulose 7-phosphate,HMDB0001068,S7P,Chemical
+Coenzyme Q10,HMDB0001072,"CoQ10, Ubiquinone-10",Chemical
+Leukotriene B4,HMDB0001085,LTB4,Chemical
+2-Aminobenzoic acid,HMDB0001123,Anthranilic acid,Chemical
+Nornicotine,HMDB0001126,,Chemical
+Prostaglandin F2a,HMDB0001139,"PGF2α, Dinoprost",Chemical
+5-Aminolevulinic acid,HMDB0001149,"5-ALA, d-ALA",Chemical
+Keratan,HMDB0001165,Keratan sulfate,Chemical
+Pyruvaldehyde,HMDB0001167,"Methylglyoxal, MGO",Chemical
+Lathosterol,HMDB0001170,,Chemical
+N1-Acetylspermine,HMDB0001186,,Chemical
+Leukotriene C4,HMDB0001198,LTC4,Chemical
+Guanosine diphosphate,HMDB0001201,GDP,Chemical
+Prostaglandin E2,HMDB0001220,"PGE2, Dinoprostone",Chemical
+Aluminum,HMDB0001247,Al,Chemical
+Spermine,HMDB0001256,,Chemical
+Spermidine,HMDB0001257,,Chemical
+N1-Acetylspermidine,HMDB0001276,,Chemical
+"2,3-Diphosphoglyceric acid",HMDB0001294,"2,3-DPG, 2,3-BPG",Chemical
+Molybdenum,HMDB0001302,Mo,Chemical
+Zinc,HMDB0001303,Zn,Chemical
+D-Lactic acid,HMDB0001311,"D-Lactate, (R)-2-Hydroxypropanoic acid",Chemical
+Phosphorus,HMDB0001315,P,Chemical
+Manganese,HMDB0001333,Mn,Chemical
+"3,4-Dihydroxybenzeneacetic acid",HMDB0001336,DOPAC,Chemical
+ADP,HMDB0001341,Adenosine diphosphate,Chemical
+Selenium,HMDB0001349,Se,Chemical
+Alpha-Linolenic acid,HMDB0001388,ALA,Chemical
+Melatonin,HMDB0001389,N-Acetyl-5-methoxytryptamine,Chemical
+Hydroxycotinine,HMDB0001390,3-Hydroxycotinine,Chemical
+5-Methyltetrahydrofolic acid,HMDB0001396,"5-MTHF, Levomefolic acid",Chemical
+Glucose 6-phosphate,HMDB0001401,G6P,Chemical
+Prostaglandin D2,HMDB0001403,PGD2,Chemical
+Putrescine,HMDB0001414,"1,4-Diaminobutane",Chemical
+24-Hydroxycholesterol,HMDB0001419,Cerebrosterol,Chemical
+Estrone sulfate,HMDB0001425,E1S,Chemical
+Phosphate,HMDB0001429,"PO4(3-), Inorganic phosphate, Pi",Chemical
+Pyridoxamine,HMDB0001431,,Chemical
+3-Methoxytyrosine,HMDB0001434,"3-OMD, 3-O-Methyldopa",Chemical
+25-Hydroxyvitamin D2,HMDB0001438,"Ercalciol, Calcidiol D2, 25-OH-D2",Chemical
+Sulfate,HMDB0001448,"SO4(2-), Sulphate",Chemical
+Allopregnanolone,HMDB0001449,"3伪-Hydroxy-5伪-pregnan-20-one, Brexanolone",Chemical
+Thiocyanate,HMDB0001453,SCN-,Chemical
+Dihydroxyacetone phosphate,HMDB0001473,"DHAP, Glycerone phosphate",Chemical
+Nicotinic acid,HMDB0001488,"Niacin, Vitamin B3",Chemical
+Vanylglycol,HMDB0001490,"MHPG, 3-Methoxy-4-hydroxyphenylglycol",Chemical
+Pyridoxal 5'-phosphate,HMDB0001491,"PLP, P5P, Codecarboxylase",Chemical
+Gama-Tocopherol,HMDB0001492,"gamma-Tocopherol, 纬-Tocopherol",Chemical
+7a-Hydroxycholesterol,HMDB0001496,7-alpha-Hydroxycholesterol,Chemical
+20-Hydroxy-leukotriene B4,HMDB0001509,20-OH-LTB4,Chemical
+Methylguanidine,HMDB0001522,,Chemical
+3-Methylthiopropionic acid,HMDB0001527,"MTP, 3-Methylthiopropanoate",Chemical
+Asymmetric Dimethyl-L-arginine,HMDB0001539,ADMA,Chemical
+Pyridoxal,HMDB0001545,Vitamin B6 aldehyde,Chemical
+Corticosterone,HMDB0001547,,Chemical
+D-Ribose 5-phosphate,HMDB0001548,R5P,Chemical
+1-Methylguanosine,HMDB0001563,m1G,Chemical
+Phosphorylcholine,HMDB0001565,Phosphocholine,Chemical
+Phenylglyoxylic acid,HMDB0001587,Benzoylformic acid,Chemical
+D-Xylulose,HMDB0001644,,Chemical
+Acetone,HMDB0001659,"Propan-2-one, Propanone",Chemical
+m-Coumaric acid,HMDB0001713,"3-Coumaric acid, 3-Hydroxycinnamic acid",Chemical
+Progesterone,HMDB0001830,P4,Chemical
+Guanidine,HMDB0001842,,Chemical
+Methylsuccinic acid,HMDB0001844,Pyrotartaric acid,Chemical
+Caffeine,HMDB0001847,"1,3,7-Trimethylxanthine",Chemical
+L-Arabitol,HMDB0001851,,Chemical
+Protocatechuic acid,HMDB0001856,"3,4-Dihydroxybenzoic acid",Chemical
+"1,3-Dimethyluric acid",HMDB0001857,,Chemical
+p-Cresol,HMDB0001858,"4-Cresol, 4-Methylphenol",Chemical
+Paraxanthine,HMDB0001860,"1,7-Dimethylxanthine",Chemical
+Benzoic acid,HMDB0001870,"Benzoate, Dracylic acid",Chemical
+Epicatechin,HMDB0001871,,Chemical
+Isobutyric acid,HMDB0001873,"Isobutyrate, 2-Methylpropanoic acid",Chemical
+Methanol,HMDB0001875,"Methyl alcohol, Wood alcohol",Chemical
+Propylene glycol,HMDB0001881,"1,2-Propanediol",Chemical
+3-Chlorotyrosine,HMDB0001885,,Chemical
+3-Methylxanthine,HMDB0001886,,Chemical
+"N,N-Dimethylformamide",HMDB0001888,DMF,Chemical
+Theophylline,HMDB0001889,"1,3-Dimethylxanthine",Chemical
+Alpha-Tocopherol,HMDB0001893,"伪-Tocopherol, Vitamin E",Chemical
+Substance P,HMDB0001897,SP,Chemical
+3-Nitrotyrosine,HMDB0001904,,Chemical
+Digoxin,HMDB0001917,,Chemical
+L(-)-Nicotine pestanal,HMDB0001934,Nicotine,Chemical
+Tin,HMDB0001960,Sn,Chemical
+Caffeic acid,HMDB0001964,"3,4-Dihydroxycinnamic acid",Chemical
+Titanium,HMDB0001966,Ti,Chemical
+Carbon dioxide,HMDB0001967,CO2,Chemical
+Docosapentaenoic acid (22n-6),HMDB0001976,"DPA (n-6), Osbond acid",Chemical
+Vasopressin,HMDB0001980,"Arginine vasopressin, AVP, ADH (Antidiuretic hormone)",Chemical
+2-Hydroxy-2-methylbutyric acid,HMDB0001987,,Chemical
+Tungsten,HMDB0001989,W,Chemical
+7a-Hydroxy-cholestene-3-one,HMDB0001993,"7-alpha-Hydroxy-4-cholesten-3-one, C4",Chemical
+Eicosapentaenoic acid,HMDB0001999,"EPA, (5Z,8Z,11Z,14Z,17Z)-Eicosapentaenoic acid",Chemical
+Methionine sulfoxide,HMDB0002005,MetO,Chemical
+Ubiquinone Q1,HMDB0002012,"Coenzyme Q1, CoQ1",Chemical
+Butyrylcarnitine,HMDB0002013,C4 carnitine,Chemical
+cis-5-Tetradecenoylcarnitine,HMDB0002014,C14:1 carnitine,Chemical
+8-Dehydrocholesterol,HMDB0002027,"Cholesta-5,8-dien-3-beta-ol",Chemical
+Fructosamine,HMDB0002030,,Chemical
+Ureidoisobutyric acid,HMDB0002031,3-Ureidoisobutyric acid,Chemical
+8-Hydroxyguanine,HMDB0002032,"8-Oxoguanine, 8-oxo-G",Chemical
+8-Hydroxyguanosine,HMDB0002044,"8-Oxoguanosine, 8-oxo-Guo",Chemical
+Hyaluronic acid,HMDB0002061,"Hyaluronan, Hyaluronate",Chemical
+N-Acetylputrescine,HMDB0002064,,Chemical
+Erucic acid,HMDB0002068,(Z)-Docos-13-enoic acid,Chemical
+Cyanide,HMDB0002084,CN-,Chemical
+N-Ribosylhistidine,HMDB0002089,,Chemical
+Malonylcarnitine,HMDB0002095,,Chemical
+27-Hydroxycholesterol,HMDB0002103,,Chemical
+Monoethyl phthalate,HMDB0002120,MEP,Chemical
+"1,3,7-Trimethyluric acid",HMDB0002123,Trimethyluric acid,Chemical
+Apigenin,HMDB0002124,,Chemical
+Coproporphyrinogen I,HMDB0002158,,Chemical
+Trihydroxycoprostanoic acid,HMDB0002163,THCA,Chemical
+Cobalamin,HMDB0002174,Vitamin B12,Chemical
+Silicon,HMDB0002175,Si,Chemical
+Docosahexaenoic acid,HMDB0002183,"DHA, Cervonic acid",Chemical
+N8-Acetylspermidine,HMDB0002189,,Chemical
+Bismuth,HMDB0002196,Bi,Chemical
+Leukotriene E4,HMDB0002200,LTE4,Chemical
+Astaxanthin,HMDB0002204,,Chemical
+Equol,HMDB0002209,,Chemical
+Arachidic acid,HMDB0002212,"Eicosanoic acid, Arachidate",Chemical
+Picolinic acid,HMDB0002243,2-Pyridinecarboxylic acid,Chemical
+Dodecanoylcarnitine,HMDB0002250,"C12 Carnitine, Lauroylcarnitine",Chemical
+Beta-Cryptoxanthin,HMDB0002268,尾-Cryptoxanthin,Chemical
+Curcumin,HMDB0002269,,Chemical
+Oxalic acid,HMDB0002329,"Oxalate, Ethanedioic acid",Chemical
+trans-trans-Muconic acid,HMDB0002349,"t,t-Muconic acid",Chemical
+Hexacosanoic acid,HMDB0002356,Cerotic acid,Chemical
+Nervonic acid,HMDB0002368,(Z)-Tetracos-15-enoic acid,Chemical
+Boron,HMDB0002386,B,Chemical
+Beryllium,HMDB0002387,Be,Chemical
+Nickel,HMDB0002457,Ni,Chemical
+Vanadium,HMDB0002503,V,Chemical
+Sulfolithocholylglycine,HMDB0002639,,Chemical
+3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid,HMDB0002643,HPHPA,Chemical
+Isorhamnetin,HMDB0002655,,Chemical
+Naringenin,HMDB0002670,,Chemical
+"1,5-Anhydrosorbitol",HMDB0002712,"1,5-Anhydro-D-glucitol",Chemical
+Desmosterol,HMDB0002719,24-Dehydrocholesterol,Chemical
+1-Methylinosine,HMDB0002721,m1I,Chemical
+Thyroxine sulfate,HMDB0002728,T4-S,Chemical
+Nitrite,HMDB0002786,NO2-,Chemical
+Zeaxanthin,HMDB0002789,,Chemical
+Cortisone,HMDB0002802,,Chemical
+LysoPC(18:1(9Z)),HMDB0002815,Oleoyl-lysophosphatidylcholine,Chemical
+Methylimidazoleacetic acid,HMDB0002820,MIAA,Chemical
+Theobromine,HMDB0002825,"3,7-Dimethylxanthine",Chemical
+Oxytocin,HMDB0002865,OXT,Chemical
+Nitrate,HMDB0002878,NO3-,Chemical
+6-Keto-prostaglandin F1a,HMDB0002886,6-keto-PGF1伪,Chemical
+D-Xylitol,HMDB0002917,Xylitol,Chemical
+"8,11,14-Eicosatrienoic acid",HMDB0002925,"Dihomo-纬-linolenic acid, DGLA",Chemical
+11-Hydroxyandrosterone,HMDB0002984,,Chemical
+Erythritol,HMDB0002994,,Chemical
+Lycopene,HMDB0003000,,Chemical
+Gamma-Linolenic acid,HMDB0003073,GLA,Chemical
+1-Methyluric acid,HMDB0003099,,Chemical
+Hydrogen peroxide,HMDB0003125,H2O2,Chemical
+Cortolone,HMDB0003128,beta-Cortolone,Chemical
+"2,3-Butanediol",HMDB0003156,,Chemical
+Guanidinosuccinic acid,HMDB0003157,GSA,Chemical
+Chlorogenic acid,HMDB0003164,,Chemical
+Cortol,HMDB0003180,beta-Cortol,Chemical
+Genistein,HMDB0003217,,Chemical
+Methanethiol,HMDB0003227,Methyl mercaptan,Chemical
+Palmitoleic acid,HMDB0003229,(9Z)-Hexadecenoic acid,Chemical
+Vaccenic acid,HMDB0003231,(11E)-Octadecenoic acid,Chemical
+Lutein,HMDB0003233,,Chemical
+Solanidine,HMDB0003236,,Chemical
+Acetoin,HMDB0003243,3-Hydroxy-2-butanone,Chemical
+Phloretin,HMDB0003306,,Chemical
+Daidzein,HMDB0003312,,Chemical
+1-Methyladenosine,HMDB0003331,m1A,Chemical
+8-Hydroxy-deoxyguanosine,HMDB0003333,8-oxo-dG,Chemical
+Symmetric dimethylarginine,HMDB0003334,SDMA,Chemical
+Oxidized glutathione,HMDB0003337,GSSG,Chemical
+D-Glutamic acid,HMDB0003339,D-Glutamate,Chemical
+Menthol,HMDB0003352,,Chemical
+D-Serine,HMDB0003406,,Chemical
+4-Guanidinobutanoic acid,HMDB0003464,,Chemical
+"3,5-Diiodo-L-tyrosine",HMDB0003474,DIT,Chemical
+Calcidiol,HMDB0003550,"25-Hydroxyvitamin D3, 25-OH-D3",Chemical
+Vitamin K1,HMDB0003555,Phylloquinone,Chemical
+Taurocyamine,HMDB0003584,,Chemical
+Retinyl ester,HMDB0003598,,Chemical
+Mercury,HMDB0003625,Hg,Chemical
+(R)-N-Methylsalsolinol,HMDB0003626,,Chemical
+Cadmium,HMDB0003638,Cd,Chemical
+Strontium,HMDB0003642,Sr,Chemical
+2-Heptanone,HMDB0003671,Methyl amyl ketone,Chemical
+"5a-Pregnane-3,20-dione",HMDB0003759,Allopregnanedione,Chemical
+15(S)-HETE,HMDB0003876,15-Hydroxyeicosatetraenoic acid,Chemical
+(S)-N-Methylsalsolinol,HMDB0003892,,Chemical
+3-Aminoisobutanoic acid,HMDB0003911,"BAIBA, 3-AIB",Chemical
+Pentosidine,HMDB0003933,,Chemical
+Selenomethionine,HMDB0003966,SeMet,Chemical
+Alpha-Carotene,HMDB0003993,伪-Carotene,Chemical
+Pregnanediol,HMDB0004025,"5尾-Pregnane-3伪,20伪-diol",Chemical
+11-Dehydrocorticosterone,HMDB0004029,,Chemical
+Metanephrine,HMDB0004063,,Chemical
+Melanin,HMDB0004068,,Chemical
+Anandamide,HMDB0004080,"N-Arachidonoylethanolamine, AEA",Chemical
+"1-Benzyl-1,2,3,4-tetrahydroisoquinoline",HMDB0004087,,Chemical
+Antimony,HMDB0004118,Sb,Chemical
+D-Threitol,HMDB0004136,,Chemical
+N1-Methyl-2-pyridone-5-carboxamide,HMDB0004193,2PY,Chemical
+L-a-glutamyl-L-Lysine,HMDB0004207,epsilon-(gamma-Glutamyl)lysine,Chemical
+2-Oxoarginine,HMDB0004225,,Chemical
+Prostaglandin B2,HMDB0004236,PGB2,Chemical
+11-Dehydro-thromboxane B2,HMDB0004242,11-dehydro-TXB2,Chemical
+1-Butanol,HMDB0004327,"n-Butanol, Butyl alcohol",Chemical
+Anabasine,HMDB0004350,,Chemical
+4-Hydroxynonenal,HMDB0004362,4-HNE,Chemical
+Lipoxin A4,HMDB0004385,LXA4,Chemical
+Eucalyptol,HMDB0004472,"1,8-Cineole",Chemical
+N-a-Acetyl-L-arginine,HMDB0004620,N-alpha-Acetyl-L-arginine,Chemical
+Lead,HMDB0004628,Pb,Chemical
+O-Desmethylangolensin,HMDB0004629,O-DMA,Chemical
+13(S)-hydroxyoctadecadienoic acid,HMDB0004667,13(S)-HODE,Chemical
+"13,14-Dihydro-15-keto PGF2a",HMDB0004685,PGFM,Chemical
+4-Heptanone,HMDB0004814,,Chemical
+"N2,N2-Dimethylguanosine",HMDB0004824,"m2,2G",Chemical
+p-Octopamine,HMDB0004825,4-Octopamine,Chemical
+p-Synephrine,HMDB0004826,4-Synephrine,Chemical
+Proline betaine,HMDB0004827,Stachydrine,Chemical
+Lactosylceramide (d18:1/12:0),HMDB0004866,LacCer(d18:1/12:0),Chemical
+Trihexosylceramide (d18:1/12:0),HMDB0004877,Gb3(d18:1/12:0),Chemical
+Trihexosylceramide (d18:1/16:0),HMDB0004879,Gb3(d18:1/16:0),Chemical
+Trihexosylceramide (d18:1/18:0),HMDB0004880,Gb3(d18:1/18:0),Chemical
+Trihexosylceramide (d18:1/22:0),HMDB0004882,Gb3(d18:1/22:0),Chemical
+Trihexosylceramide (d18:1/26:1(17Z)),HMDB0004884,Gb3(d18:1/26:1),Chemical
+Trihexosylceramide (d18:1/24:0),HMDB0004886,Gb3(d18:1/24:0),Chemical
+Tetrahexosylceramide (d18:1/12:0),HMDB0004958,Globoside (d18:1/12:0),Chemical
+cis-4-Octenedioic acid,HMDB0004982,,Chemical
+Dimethyl sulfone,HMDB0004983,"MSM, Methylsulfonylmethane",Chemical
+m-Tyramine,HMDB0004989,"3-Tyramine, 3-Hydroxyphenethylamine",Chemical
+Codeine,HMDB0004995,Methylmorphine,Chemical
+Gabapentin,HMDB0005015,Neurontin,Chemical
+Enterodiol,HMDB0005056,,Chemical
+Tetradecanoylcarnitine,HMDB0005066,"Myristoylcarnitine, C14 Carnitine",Chemical
+8-Isoprostaglandin F2a,HMDB0005083,"8-iso-PGF2α, iPF2α-III",Chemical
+(R)-Salsolinol,HMDB0005199,,Chemical
+Dihydrodaidzein,HMDB0005760,,Chemical
+Glycitein,HMDB0005781,,Chemical
+Hesperetin,HMDB0005782,,Chemical
+Hydroxytyrosol,HMDB0005784,"3,4-Dihydroxyphenylethanol, DOPET",Chemical
+Tetrahydrocurcumin,HMDB0005789,,Chemical
+Sulforaphane,HMDB0005792,,Chemical
+Quercetin,HMDB0005794,,Chemical
+Kaempferol,HMDB0005801,,Chemical
+Gallic acid,HMDB0005807,"3,4,5-Trihydroxybenzoic acid",Chemical
+Dihydrogenistein,HMDB0005897,,Chemical
+D-Pipecolic acid,HMDB0005960,(R)-Piperidine-2-carboxylic acid,Chemical
+Tetrahydrodeoxycortisol,HMDB0005972,THS,Chemical
+Hexanal,HMDB0005994,Hexyl aldehyde,Chemical
+20-Hydroxyeicosatetraenoic acid,HMDB0005998,20-HETE,Chemical
+11-Ketoetiocholanolone,HMDB0006031,,Chemical
+Scyllitol,HMDB0006088,Scyllo-Inositol,Chemical
+Enterolactone,HMDB0006101,,Chemical
+12-HETE,HMDB0006111,12-Hydroxyeicosatetraenoic acid,Chemical
+Malondialdehyde,HMDB0006112,"MDA, Propanedial",Chemical
+3-Hydroxyhippuric acid,HMDB0006116,m-Hydroxyhippuric acid,Chemical
+Alpha-N-Phenylacetyl-L-glutamine,HMDB0006344,Phenylacetylglutamine,Chemical
+Iso-Valeraldehyde,HMDB0006478,"3-Methylbutanal, Isovaleral",Chemical
+Clupanodonic acid,HMDB0006528,"Docosapentaenoic acid (n-3), DPA",Chemical
+Aflatoxin B1,HMDB0006552,AFB1,Chemical
+Prolylhydroxyproline,HMDB0006695,Pro-Hyp,Chemical
+Estriol-16-Glucuronide,HMDB0006766,,Chemical
+PC(14:0/16:0),HMDB0007869,1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine,Chemical
+PC(14:0/18:1(11Z)),HMDB0007872,1-Myristoyl-2-cis-vaccenoyl-sn-glycero-3-phosphocholine,Chemical
+PC(14:0/18:1(9Z)),HMDB0007873,1-Myristoyl-2-oleoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(14:0/18:2(9Z,12Z))",HMDB0007874,1-Myristoyl-2-linoleoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(14:0/18:3(9Z,12Z,15Z))",HMDB0007876,1-Myristoyl-2-linolenoyl-sn-glycero-3-phosphocholine,Chemical
+PC(14:0/20:1(11Z)),HMDB0007879,1-Myristoyl-2-(11Z-eicosenoyl)-sn-glycero-3-phosphocholine,Chemical
+"PC(14:0/20:2(11Z,14Z))",HMDB0007880,"1-Myristoyl-2-(11Z,14Z-eicosadienoyl)-sn-glycero-3-phosphocholine",Chemical
+"PC(14:0/20:3(8Z,11Z,14Z))",HMDB0007882,1-Myristoyl-2-dihomo-gamma-linolenoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(14:0/20:4(5Z,8Z,11Z,14Z))",HMDB0007883,1-Myristoyl-2-arachidonoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(14:0/20:4(8Z,11Z,14Z,17Z))",HMDB0007884,,Chemical
+PC(14:0/22:0),HMDB0007886,1-Myristoyl-2-behenoyl-sn-glycero-3-phosphocholine,Chemical
+PC(14:0/22:1(13Z)),HMDB0007887,1-Myristoyl-2-erucoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(14:0/22:5(4Z,7Z,10Z,13Z,16Z))",HMDB0007890,1-Myristoyl-2-docosapentaenoyl-sn-glycero-3-phosphocholine (n-6),Chemical
+"PC(14:0/22:5(7Z,10Z,13Z,16Z,19Z))",HMDB0007891,1-Myristoyl-2-docosapentaenoyl-sn-glycero-3-phosphocholine (n-3),Chemical
+"PC(14:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",HMDB0007892,1-Myristoyl-2-docosahexaenoyl-sn-glycero-3-phosphocholine,Chemical
+PC(14:0/P-16:0),HMDB0007895,1-Myristoyl-2-(palmitoyl-plasmenyl)-sn-glycero-3-phosphocholine,Chemical
+PC(14:0/P-18:1(11Z)),HMDB0007897,,Chemical
+PC(14:0/P-18:1(9Z)),HMDB0007898,,Chemical
+PC(14:1(9Z)/14:0),HMDB0007899,,Chemical
+PC(14:1(9Z)/16:1(9Z)),HMDB0007903,,Chemical
+PC(14:1(9Z)/18:0),HMDB0007904,,Chemical
+PC(14:1(9Z)/18:1(11Z)),HMDB0007905,,Chemical
+PC(14:1(9Z)/18:1(9Z)),HMDB0007906,,Chemical
+"PC(14:1(9Z)/18:2(9Z,12Z))",HMDB0007907,,Chemical
+PC(14:1(9Z)/20:0),HMDB0007911,,Chemical
+PC(14:1(9Z)/20:1(11Z)),HMDB0007912,,Chemical
+"PC(14:1(9Z)/20:2(11Z,14Z))",HMDB0007913,,Chemical
+"PC(14:1(9Z)/20:3(5Z,8Z,11Z))",HMDB0007914,,Chemical
+"PC(14:1(9Z)/20:3(8Z,11Z,14Z))",HMDB0007915,,Chemical
+PC(14:1(9Z)/22:0),HMDB0007919,,Chemical
+"PC(14:1(9Z)/22:4(7Z,10Z,13Z,16Z))",HMDB0007922,,Chemical
+"PC(14:1(9Z)/22:5(4Z,7Z,10Z,13Z,16Z))",HMDB0007923,,Chemical
+"PC(14:1(9Z)/22:5(7Z,10Z,13Z,16Z,19Z))",HMDB0007924,,Chemical
+PC(14:1(9Z)/P-18:0),HMDB0007929,,Chemical
+PC(14:1(9Z)/P-18:1(11Z)),HMDB0007930,,Chemical
+PC(14:1(9Z)/P-18:1(9Z)),HMDB0007931,,Chemical
+PC(15:0/15:0),HMDB0007934,,Chemical
+PC(16:0/14:0),HMDB0007965,1-Palmitoyl-2-myristoyl-sn-glycero-3-phosphocholine,Chemical
+PC(16:0/16:1(9Z)),HMDB0007969,1-Palmitoyl-2-palmitoleoyl-sn-glycero-3-phosphocholine,Chemical
+PC(16:0/18:1(11Z)),HMDB0007971,1-Palmitoyl-2-cis-vaccenoyl-sn-glycero-3-phosphocholine,Chemical
+PC(16:0/18:1(9Z)),HMDB0007972,"1-Palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine, POPC",Chemical
+"PC(16:0/18:2(9Z,12Z))",HMDB0007973,"1-Palmitoyl-2-linoleoyl-sn-glycero-3-phosphocholine, PLPC",Chemical
+"PC(16:0/18:3(6Z,9Z,12Z))",HMDB0007974,1-Palmitoyl-2-gamma-linolenoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(16:0/18:3(9Z,12Z,15Z))",HMDB0007975,1-Palmitoyl-2-alpha-linolenoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(16:0/18:4(6Z,9Z,12Z,15Z))",HMDB0007976,1-Palmitoyl-2-stearidonoyl-sn-glycero-3-phosphocholine,Chemical
+PC(16:0/20:0),HMDB0007977,1-Palmitoyl-2-arachidoyl-sn-glycero-3-phosphocholine,Chemical
+PC(16:0/20:1(11Z)),HMDB0007978,1-Palmitoyl-2-(11Z-eicosenoyl)-sn-glycero-3-phosphocholine,Chemical
+"PC(16:0/20:5(5Z,8Z,11Z,14Z,17Z))",HMDB0007984,"1-Palmitoyl-2-eicosapentaenoyl-sn-glycero-3-phosphocholine, PEPC",Chemical
+"PC(16:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",HMDB0007991,"1-Palmitoyl-2-docosahexaenoyl-sn-glycero-3-phosphocholine, PDPC",Chemical
+PC(16:0/24:1(15Z)),HMDB0007993,1-Palmitoyl-2-nervonoyl-sn-glycero-3-phosphocholine,Chemical
+PC(16:0/P-18:1(11Z)),HMDB0007996,,Chemical
+PC(16:0/P-18:1(9Z)),HMDB0007997,,Chemical
+PC(16:1(9Z)/14:1(9Z)),HMDB0007999,,Chemical
+PC(16:1(9Z)/16:0),HMDB0008001,,Chemical
+PC(16:1(9Z)/16:1(9Z)),HMDB0008002,,Chemical
+PC(16:1(9Z)/18:0),HMDB0008003,,Chemical
+PC(16:1(9Z)/18:1(11Z)),HMDB0008004,,Chemical
+PC(16:1(9Z)/18:1(9Z)),HMDB0008005,,Chemical
+"PC(16:1(9Z)/18:2(9Z,12Z))",HMDB0008006,,Chemical
+"PC(16:1(9Z)/18:3(6Z,9Z,12Z))",HMDB0008007,,Chemical
+"PC(16:1(9Z)/18:3(9Z,12Z,15Z))",HMDB0008008,,Chemical
+PC(16:1(9Z)/20:0),HMDB0008010,,Chemical
+"PC(16:1(9Z)/20:4(5Z,8Z,11Z,14Z))",HMDB0008015,,Chemical
+"PC(16:1(9Z)/20:4(8Z,11Z,14Z,17Z))",HMDB0008016,,Chemical
+"PC(16:1(9Z)/20:5(5Z,8Z,11Z,14Z,17Z))",HMDB0008017,,Chemical
+"PC(16:1(9Z)/22:2(13Z,16Z))",HMDB0008020,,Chemical
+"PC(16:1(9Z)/22:5(4Z,7Z,10Z,13Z,16Z))",HMDB0008022,,Chemical
+"PC(16:1(9Z)/22:5(7Z,10Z,13Z,16Z,19Z))",HMDB0008024,,Chemical
+PC(16:1(9Z)/P-16:0),HMDB0008027,,Chemical
+PC(16:1(9Z)/P-18:0),HMDB0008028,,Chemical
+PC(16:1(9Z)/P-18:1(11Z)),HMDB0008029,,Chemical
+PC(16:1(9Z)/P-18:1(9Z)),HMDB0008030,,Chemical
+PC(18:0/14:1(9Z)),HMDB0008032,,Chemical
+PC(18:0/16:1(9Z)),HMDB0008035,,Chemical
+PC(18:0/18:0),HMDB0008036,"1,2-Distearoyl-sn-glycero-3-phosphocholine, DSPC",Chemical
+PC(18:0/18:1(11Z)),HMDB0008037,1-Stearoyl-2-cis-vaccenoyl-sn-glycero-3-phosphocholine,Chemical
+PC(18:0/18:1(9Z)),HMDB0008038,"1-Stearoyl-2-oleoyl-sn-glycero-3-phosphocholine, SOPC",Chemical
+"PC(18:0/20:3(5Z,8Z,11Z))",HMDB0008046,"1-Stearoyl-2-(5Z,8Z,11Z-eicosatrienoyl)-sn-glycero-3-phosphocholine",Chemical
+"PC(18:0/20:3(8Z,11Z,14Z))",HMDB0008047,1-Stearoyl-2-dihomo-gamma-linolenoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(18:0/22:4(7Z,10Z,13Z,16Z))",HMDB0008054,1-Stearoyl-2-docosatetraenoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",HMDB0008057,1-Stearoyl-2-docosahexaenoyl-sn-glycero-3-phosphocholine,Chemical
+PC(18:0/24:0),HMDB0008058,1-Stearoyl-2-lignoceroyl-sn-glycero-3-phosphocholine,Chemical
+PC(18:0/P-18:0),HMDB0008061,,Chemical
+PC(18:0/P-18:1(11Z)),HMDB0008062,,Chemical
+PC(18:0/P-18:1(9Z)),HMDB0008063,,Chemical
+PC(18:1(11Z)/14:0),HMDB0008064,,Chemical
+PC(18:1(11Z)/14:1(9Z)),HMDB0008065,,Chemical
+PC(18:1(11Z)/16:0),HMDB0008067,,Chemical
+PC(18:1(11Z)/16:1(9Z)),HMDB0008068,,Chemical
+PC(18:1(11Z)/18:0),HMDB0008069,,Chemical
+"PC(18:1(11Z)/18:4(6Z,9Z,12Z,15Z))",HMDB0008075,,Chemical
+"PC(18:1(11Z)/20:2(11Z,14Z))",HMDB0008078,,Chemical
+"PC(18:1(11Z)/20:5(5Z,8Z,11Z,14Z,17Z))",HMDB0008083,,Chemical
+"PC(18:1(11Z)/22:5(4Z,7Z,10Z,13Z,16Z))",HMDB0008088,,Chemical
+"PC(18:1(11Z)/22:5(7Z,10Z,13Z,16Z,19Z))",HMDB0008089,,Chemical
+PC(18:1(11Z)/24:0),HMDB0008091,,Chemical
+PC(18:1(11Z)/P-16:0),HMDB0008093,,Chemical
+PC(18:1(11Z)/P-18:0),HMDB0008094,,Chemical
+PC(18:1(9Z)/14:0),HMDB0008097,,Chemical
+PC(18:1(9Z)/14:1(9Z)),HMDB0008098,,Chemical
+PC(18:1(9Z)/16:0),HMDB0008100,1-Oleoyl-2-palmitoyl-sn-glycero-3-phosphocholine,Chemical
+PC(18:1(9Z)/16:1(9Z)),HMDB0008101,,Chemical
+PC(18:1(9Z)/18:0),HMDB0008102,,Chemical
+"PC(18:1(9Z)/18:4(6Z,9Z,12Z,15Z))",HMDB0008108,,Chemical
+"PC(18:1(9Z)/20:2(11Z,14Z))",HMDB0008111,,Chemical
+"PC(18:1(9Z)/20:5(5Z,8Z,11Z,14Z,17Z))",HMDB0008116,,Chemical
+"PC(18:1(9Z)/22:5(4Z,7Z,10Z,13Z,16Z))",HMDB0008121,,Chemical
+"PC(18:1(9Z)/22:5(7Z,10Z,13Z,16Z,19Z))",HMDB0008122,,Chemical
+PC(18:1(9Z)/24:0),HMDB0008124,,Chemical
+PC(18:1(9Z)/P-16:0),HMDB0008126,,Chemical
+PC(18:1(9Z)/P-18:0),HMDB0008127,,Chemical
+"PC(18:2(9Z,12Z)/14:0)",HMDB0008130,,Chemical
+"PC(18:2(9Z,12Z)/14:1(9Z))",HMDB0008131,,Chemical
+"PC(18:2(9Z,12Z)/16:0)",HMDB0008133,,Chemical
+"PC(18:2(9Z,12Z)/16:1(9Z))",HMDB0008134,,Chemical
+"PC(18:2(9Z,12Z)/18:3(6Z,9Z,12Z))",HMDB0008140,,Chemical
+"PC(18:2(9Z,12Z)/18:3(9Z,12Z,15Z))",HMDB0008141,,Chemical
+"PC(18:2(9Z,12Z)/18:4(6Z,9Z,12Z,15Z))",HMDB0008142,,Chemical
+"PC(18:2(9Z,12Z)/20:1(11Z))",HMDB0008144,,Chemical
+"PC(18:2(9Z,12Z)/20:4(5Z,8Z,11Z,14Z))",HMDB0008147,"1-Linoleoyl-2-arachidonoyl-sn-glycero-3-phosphocholine, LAPC",Chemical
+"PC(18:2(9Z,12Z)/20:4(8Z,11Z,14Z,17Z))",HMDB0008148,,Chemical
+"PC(18:2(9Z,12Z)/22:2(13Z,16Z))",HMDB0008152,,Chemical
+"PC(18:2(9Z,12Z)/22:4(7Z,10Z,13Z,16Z))",HMDB0008153,,Chemical
+"PC(18:2(9Z,12Z)/P-16:0)",HMDB0008159,,Chemical
+"PC(18:3(6Z,9Z,12Z)/14:0)",HMDB0008163,,Chemical
+"PC(18:3(6Z,9Z,12Z)/16:0)",HMDB0008166,,Chemical
+"PC(18:3(6Z,9Z,12Z)/16:1(9Z))",HMDB0008167,,Chemical
+"PC(18:3(6Z,9Z,12Z)/18:2(9Z,12Z))",HMDB0008171,,Chemical
+"PC(18:3(6Z,9Z,12Z)/18:3(6Z,9Z,12Z))",HMDB0008172,,Chemical
+"PC(18:3(6Z,9Z,12Z)/18:3(9Z,12Z,15Z))",HMDB0008173,,Chemical
+"PC(18:3(6Z,9Z,12Z)/20:0)",HMDB0008175,,Chemical
+"PC(18:3(6Z,9Z,12Z)/20:3(5Z,8Z,11Z))",HMDB0008178,,Chemical
+"PC(18:3(6Z,9Z,12Z)/20:3(8Z,11Z,14Z))",HMDB0008179,,Chemical
+"PC(18:3(6Z,9Z,12Z)/22:1(13Z))",HMDB0008184,,Chemical
+"PC(18:3(6Z,9Z,12Z)/24:1(15Z))",HMDB0008191,,Chemical
+"PC(18:3(6Z,9Z,12Z)/P-16:0)",HMDB0008192,,Chemical
+"PC(18:3(9Z,12Z,15Z)/14:0)",HMDB0008196,,Chemical
+"PC(18:3(9Z,12Z,15Z)/16:0)",HMDB0008199,,Chemical
+"PC(18:3(9Z,12Z,15Z)/16:1(9Z))",HMDB0008200,,Chemical
+"PC(18:3(9Z,12Z,15Z)/18:2(9Z,12Z))",HMDB0008204,,Chemical
+"PC(18:3(9Z,12Z,15Z)/18:3(6Z,9Z,12Z))",HMDB0008205,,Chemical
+"PC(18:3(9Z,12Z,15Z)/18:3(9Z,12Z,15Z))",HMDB0008206,,Chemical
+"PC(18:3(9Z,12Z,15Z)/20:0)",HMDB0008208,,Chemical
+"PC(18:3(9Z,12Z,15Z)/20:3(5Z,8Z,11Z))",HMDB0008211,,Chemical
+"PC(18:3(9Z,12Z,15Z)/20:3(8Z,11Z,14Z))",HMDB0008212,,Chemical
+"PC(18:3(9Z,12Z,15Z)/22:1(13Z))",HMDB0008217,,Chemical
+"PC(18:3(9Z,12Z,15Z)/24:1(15Z))",HMDB0008224,,Chemical
+"PC(18:3(9Z,12Z,15Z)/P-16:0)",HMDB0008225,,Chemical
+"PC(18:4(6Z,9Z,12Z,15Z)/16:0)",HMDB0008232,,Chemical
+"PC(18:4(6Z,9Z,12Z,15Z)/18:1(11Z))",HMDB0008235,,Chemical
+"PC(18:4(6Z,9Z,12Z,15Z)/18:1(9Z))",HMDB0008236,,Chemical
+"PC(18:4(6Z,9Z,12Z,15Z)/18:2(9Z,12Z))",HMDB0008237,,Chemical
+"PC(18:4(6Z,9Z,12Z,15Z)/20:2(11Z,14Z))",HMDB0008243,,Chemical
+"PC(18:4(6Z,9Z,12Z,15Z)/22:0)",HMDB0008249,,Chemical
+"PC(18:4(6Z,9Z,12Z,15Z)/22:2(13Z,16Z))",HMDB0008251,,Chemical
+"PC(18:4(6Z,9Z,12Z,15Z)/24:0)",HMDB0008256,,Chemical
+"PC(18:4(6Z,9Z,12Z,15Z)/24:1(15Z))",HMDB0008257,,Chemical
+"PC(18:4(6Z,9Z,12Z,15Z)/P-16:0)",HMDB0008258,,Chemical
+"PC(18:4(6Z,9Z,12Z,15Z)/P-18:1(11Z))",HMDB0008260,,Chemical
+"PC(18:4(6Z,9Z,12Z,15Z)/P-18:1(9Z))",HMDB0008261,,Chemical
+PC(20:0/14:1(9Z)),HMDB0008263,,Chemical
+PC(20:0/16:0),HMDB0008265,,Chemical
+PC(20:0/16:1(9Z)),HMDB0008266,,Chemical
+"PC(20:0/18:3(6Z,9Z,12Z))",HMDB0008271,,Chemical
+"PC(20:0/18:3(9Z,12Z,15Z))",HMDB0008272,,Chemical
+"PC(20:0/20:4(5Z,8Z,11Z,14Z))",HMDB0008279,,Chemical
+"PC(20:0/20:4(8Z,11Z,14Z,17Z))",HMDB0008280,,Chemical
+PC(20:0/22:0),HMDB0008282,1-Arachidoyl-2-behenoyl-sn-glycero-3-phosphocholine,Chemical
+PC(20:0/22:1(13Z)),HMDB0008283,1-Arachidoyl-2-erucoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:0/22:4(7Z,10Z,13Z,16Z))",HMDB0008285,1-Arachidoyl-2-adrenoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:0/22:5(4Z,7Z,10Z,13Z,16Z))",HMDB0008286,1-Arachidoyl-2-docosapentaenoyl-sn-glycero-3-phosphocholine (n-6),Chemical
+"PC(20:0/22:5(7Z,10Z,13Z,16Z,19Z))",HMDB0008287,1-Arachidoyl-2-docosapentaenoyl-sn-glycero-3-phosphocholine (n-3),Chemical
+"PC(20:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",HMDB0008288,1-Arachidoyl-2-docosahexaenoyl-sn-glycero-3-phosphocholine,Chemical
+PC(20:0/P-16:0),HMDB0008291,1-Arachidoyl-2-(palmitoyl-plasmenyl)-sn-glycero-3-phosphocholine,Chemical
+PC(20:1(11Z)/14:0),HMDB0008295,1-(11Z-Eicosenoyl)-2-myristoyl-sn-glycero-3-phosphocholine,Chemical
+PC(20:1(11Z)/14:1(9Z)),HMDB0008296,1-(11Z-Eicosenoyl)-2-myristoleoyl-sn-glycero-3-phosphocholine,Chemical
+PC(20:1(11Z)/16:0),HMDB0008298,1-(11Z-Eicosenoyl)-2-palmitoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:1(11Z)/18:2(9Z,12Z))",HMDB0008303,1-(11Z-Eicosenoyl)-2-linoleoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:1(11Z)/20:3(5Z,8Z,11Z))",HMDB0008310,"1-(11Z-Eicosenoyl)-2-(5Z,8Z,11Z-eicosatrienoyl)-sn-glycero-3-phosphocholine",Chemical
+"PC(20:1(11Z)/20:3(8Z,11Z,14Z))",HMDB0008311,1-(11Z-Eicosenoyl)-2-dihomo-gamma-linolenoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:1(11Z)/20:5(5Z,8Z,11Z,14Z,17Z))",HMDB0008314,1-(11Z-Eicosenoyl)-2-eicosapentaenoyl-sn-glycero-3-phosphocholine,Chemical
+PC(20:1(11Z)/22:0),HMDB0008315,1-(11Z-Eicosenoyl)-2-behenoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:1(11Z)/22:4(7Z,10Z,13Z,16Z))",HMDB0008318,1-(11Z-Eicosenoyl)-2-adrenoyl-sn-glycero-3-phosphocholine,Chemical
+PC(20:1(11Z)/P-16:0),HMDB0008324,1-(11Z-Eicosenoyl)-2-(palmitoyl-plasmenyl)-sn-glycero-3-phosphocholine,Chemical
+"PC(20:2(11Z,14Z)/14:0)",HMDB0008328,"1-(11Z,14Z-Eicosadienoyl)-2-myristoyl-sn-glycero-3-phosphocholine",Chemical
+"PC(20:2(11Z,14Z)/14:1(9Z))",HMDB0008329,"1-(11Z,14Z-Eicosadienoyl)-2-myristoleoyl-sn-glycero-3-phosphocholine",Chemical
+"PC(20:2(11Z,14Z)/18:1(11Z))",HMDB0008334,"1-(11Z,14Z-Eicosadienoyl)-2-cis-vaccenoyl-sn-glycero-3-phosphocholine",Chemical
+"PC(20:2(11Z,14Z)/18:1(9Z))",HMDB0008335,"1-(11Z,14Z-Eicosadienoyl)-2-oleoyl-sn-glycero-3-phosphocholine",Chemical
+"PC(20:2(11Z,14Z)/18:4(6Z,9Z,12Z,15Z))",HMDB0008339,"1-(11Z,14Z-Eicosadienoyl)-2-stearidonoyl-sn-glycero-3-phosphocholine",Chemical
+"PC(20:2(11Z,14Z)/20:2(11Z,14Z))",HMDB0008342,"1,2-di-(11Z,14Z-Eicosadienoyl)-sn-glycero-3-phosphocholine",Chemical
+"PC(20:2(11Z,14Z)/20:4(5Z,8Z,11Z,14Z))",HMDB0008345,"1-(11Z,14Z-Eicosadienoyl)-2-arachidonoyl-sn-glycero-3-phosphocholine",Chemical
+"PC(20:2(11Z,14Z)/20:4(8Z,11Z,14Z,17Z))",HMDB0008346,,Chemical
+"PC(20:2(11Z,14Z)/22:2(13Z,16Z))",HMDB0008350,"1-(11Z,14Z-Eicosadienoyl)-2-(13Z,16Z-docosadienoyl)-sn-glycero-3-phosphocholine",Chemical
+"PC(20:2(11Z,14Z)/P-18:1(11Z))",HMDB0008359,,Chemical
+"PC(20:2(11Z,14Z)/P-18:1(9Z))",HMDB0008360,,Chemical
+"PC(20:3(5Z,8Z,11Z)/14:0)",HMDB0008361,"1-(5Z,8Z,11Z-Eicosatrienoyl)-2-myristoyl-sn-glycero-3-phosphocholine",Chemical
+"PC(20:3(5Z,8Z,11Z)/14:1(9Z))",HMDB0008362,"1-(5Z,8Z,11Z-Eicosatrienoyl)-2-myristoleoyl-sn-glycero-3-phosphocholine",Chemical
+"PC(20:3(5Z,8Z,11Z)/18:0)",HMDB0008366,"1-(5Z,8Z,11Z-Eicosatrienoyl)-2-stearoyl-sn-glycero-3-phosphocholine",Chemical
+"PC(20:3(5Z,8Z,11Z)/18:3(6Z,9Z,12Z))",HMDB0008370,"1-(5Z,8Z,11Z-Eicosatrienoyl)-2-gamma-linolenoyl-sn-glycero-3-phosphocholine",Chemical
+"PC(20:3(5Z,8Z,11Z)/18:3(9Z,12Z,15Z))",HMDB0008371,"1-(5Z,8Z,11Z-Eicosatrienoyl)-2-alpha-linolenoyl-sn-glycero-3-phosphocholine",Chemical
+"PC(20:3(5Z,8Z,11Z)/20:1(11Z))",HMDB0008374,"1-(5Z,8Z,11Z-Eicosatrienoyl)-2-(11Z-eicosenoyl)-sn-glycero-3-phosphocholine",Chemical
+"PC(20:3(5Z,8Z,11Z)/20:3(5Z,8Z,11Z))",HMDB0008376,"1,2-di-(5Z,8Z,11Z-Eicosatrienoyl)-sn-glycero-3-phosphocholine",Chemical
+"PC(20:3(5Z,8Z,11Z)/20:3(8Z,11Z,14Z))",HMDB0008377,"1-(5Z,8Z,11Z-Eicosatrienoyl)-2-dihomo-gamma-linolenoyl-sn-glycero-3-phosphocholine",Chemical
+"PC(20:3(5Z,8Z,11Z)/22:1(13Z))",HMDB0008382,"1-(5Z,8Z,11Z-Eicosatrienoyl)-2-erucoyl-sn-glycero-3-phosphocholine",Chemical
+"PC(20:3(5Z,8Z,11Z)/22:2(13Z,16Z))",HMDB0008383,"1-(5Z,8Z,11Z-Eicosatrienoyl)-2-(13Z,16Z-docosadienoyl)-sn-glycero-3-phosphocholine",Chemical
+"PC(20:3(5Z,8Z,11Z)/P-18:0)",HMDB0008391,"1-(5Z,8Z,11Z-Eicosatrienoyl)-2-(stearoyl-plasmenyl)-sn-glycero-3-phosphocholine",Chemical
+"PC(20:3(8Z,11Z,14Z)/14:0)",HMDB0008394,1-Dihomo-gamma-linolenoyl-2-myristoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:3(8Z,11Z,14Z)/14:1(9Z))",HMDB0008395,1-Dihomo-gamma-linolenoyl-2-myristoleoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:3(8Z,11Z,14Z)/18:0)",HMDB0008399,1-Dihomo-gamma-linolenoyl-2-stearoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:3(8Z,11Z,14Z)/18:3(6Z,9Z,12Z))",HMDB0008403,1-Dihomo-gamma-linolenoyl-2-gamma-linolenoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:3(8Z,11Z,14Z)/18:3(9Z,12Z,15Z))",HMDB0008404,1-Dihomo-gamma-linolenoyl-2-alpha-linolenoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:3(8Z,11Z,14Z)/20:3(5Z,8Z,11Z))",HMDB0008408,"1-Dihomo-gamma-linolenoyl-2-(5Z,8Z,11Z-eicosatrienoyl)-sn-glycero-3-phosphocholine",Chemical
+"PC(20:3(8Z,11Z,14Z)/20:3(8Z,11Z,14Z))",HMDB0008409,"1,2-bis(Dihomo-gamma-linolenoyl)-sn-glycero-3-phosphocholine",Chemical
+"PC(20:3(8Z,11Z,14Z)/22:1(13Z))",HMDB0008414,1-Dihomo-gamma-linolenoyl-2-erucoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:3(8Z,11Z,14Z)/22:2(13Z,16Z))",HMDB0008415,"1-Dihomo-gamma-linolenoyl-2-(13Z,16Z-docosadienoyl)-sn-glycero-3-phosphocholine",Chemical
+"PC(20:3(8Z,11Z,14Z)/P-18:0)",HMDB0008423,1-Dihomo-gamma-linolenoyl-2-(stearoyl-plasmenyl)-sn-glycero-3-phosphocholine,Chemical
+"PC(20:4(5Z,8Z,11Z,14Z)/14:0)",HMDB0008426,1-Arachidonoyl-2-myristoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:4(5Z,8Z,11Z,14Z)/16:1(9Z))",HMDB0008430,1-Arachidonoyl-2-palmitoleoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:4(5Z,8Z,11Z,14Z)/18:2(9Z,12Z))",HMDB0008434,1-Arachidonoyl-2-linoleoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:4(5Z,8Z,11Z,14Z)/20:0)",HMDB0008438,1-Arachidonoyl-2-arachidoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:4(5Z,8Z,11Z,14Z)/20:2(11Z,14Z))",HMDB0008440,"1-Arachidonoyl-2-(11Z,14Z-eicosadienoyl)-sn-glycero-3-phosphocholine",Chemical
+"PC(20:4(5Z,8Z,11Z,14Z)/22:0)",HMDB0008446,1-Arachidonoyl-2-behenoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:4(5Z,8Z,11Z,14Z)/22:1(13Z))",HMDB0008447,1-Arachidonoyl-2-erucoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:4(8Z,11Z,14Z,17Z)/14:0)",HMDB0008459,,Chemical
+"PC(20:4(8Z,11Z,14Z,17Z)/16:1(9Z))",HMDB0008463,,Chemical
+"PC(20:4(8Z,11Z,14Z,17Z)/18:2(9Z,12Z))",HMDB0008467,,Chemical
+"PC(20:4(8Z,11Z,14Z,17Z)/20:0)",HMDB0008471,,Chemical
+"PC(20:4(8Z,11Z,14Z,17Z)/20:2(11Z,14Z))",HMDB0008473,,Chemical
+"PC(20:4(8Z,11Z,14Z,17Z)/22:0)",HMDB0008479,,Chemical
+"PC(20:4(8Z,11Z,14Z,17Z)/22:1(13Z))",HMDB0008480,,Chemical
+"PC(20:5(5Z,8Z,11Z,14Z,17Z)/16:0)",HMDB0008495,1-Eicosapentaenoyl-2-palmitoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:5(5Z,8Z,11Z,14Z,17Z)/16:1(9Z))",HMDB0008496,1-Eicosapentaenoyl-2-palmitoleoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:5(5Z,8Z,11Z,14Z,17Z)/18:1(11Z))",HMDB0008498,1-Eicosapentaenoyl-2-cis-vaccenoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:5(5Z,8Z,11Z,14Z,17Z)/18:1(9Z))",HMDB0008499,1-Eicosapentaenoyl-2-oleoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:5(5Z,8Z,11Z,14Z,17Z)/20:1(11Z))",HMDB0008505,1-Eicosapentaenoyl-2-(11Z-eicosenoyl)-sn-glycero-3-phosphocholine,Chemical
+"PC(20:5(5Z,8Z,11Z,14Z,17Z)/22:0)",HMDB0008512,1-Eicosapentaenoyl-2-behenoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(20:5(5Z,8Z,11Z,14Z,17Z)/P-16:0)",HMDB0008521,1-Eicosapentaenoyl-2-(palmitoyl-plasmenyl)-sn-glycero-3-phosphocholine,Chemical
+"PC(20:5(5Z,8Z,11Z,14Z,17Z)/P-18:1(11Z))",HMDB0008523,,Chemical
+"PC(20:5(5Z,8Z,11Z,14Z,17Z)/P-18:1(9Z))",HMDB0008524,,Chemical
+PC(22:0/14:0),HMDB0008525,1-Behenoyl-2-myristoyl-sn-glycero-3-phosphocholine,Chemical
+PC(22:0/14:1(9Z)),HMDB0008526,1-Behenoyl-2-myristoleoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(22:0/18:4(6Z,9Z,12Z,15Z))",HMDB0008536,1-Behenoyl-2-stearidonoyl-sn-glycero-3-phosphocholine,Chemical
+PC(22:0/20:0),HMDB0008537,1-Behenoyl-2-arachidoyl-sn-glycero-3-phosphocholine,Chemical
+PC(22:0/20:1(11Z)),HMDB0008538,1-Behenoyl-2-(11Z-eicosenoyl)-sn-glycero-3-phosphocholine,Chemical
+"PC(22:0/20:4(5Z,8Z,11Z,14Z))",HMDB0008542,1-Behenoyl-2-arachidonoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(22:0/20:4(8Z,11Z,14Z,17Z))",HMDB0008543,,Chemical
+"PC(22:0/20:5(5Z,8Z,11Z,14Z,17Z))",HMDB0008544,1-Behenoyl-2-eicosapentaenoyl-sn-glycero-3-phosphocholine,Chemical
+PC(22:1(13Z)/14:0),HMDB0008558,1-Erucoyl-2-myristoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(22:1(13Z)/18:3(6Z,9Z,12Z))",HMDB0008566,1-Erucoyl-2-gamma-linolenoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(22:1(13Z)/18:3(9Z,12Z,15Z))",HMDB0008567,1-Erucoyl-2-alpha-linolenoyl-sn-glycero-3-phosphocholine,Chemical
+PC(22:1(13Z)/20:0),HMDB0008569,1-Erucoyl-2-arachidoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(22:1(13Z)/20:3(5Z,8Z,11Z))",HMDB0008572,"1-Erucoyl-2-(5Z,8Z,11Z-eicosatrienoyl)-sn-glycero-3-phosphocholine",Chemical
+"PC(22:1(13Z)/20:3(8Z,11Z,14Z))",HMDB0008573,1-Erucoyl-2-dihomo-gamma-linolenoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(22:1(13Z)/20:4(5Z,8Z,11Z,14Z))",HMDB0008574,1-Erucoyl-2-arachidonoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(22:1(13Z)/20:4(8Z,11Z,14Z,17Z))",HMDB0008575,,Chemical
+"PC(22:2(13Z,16Z)/16:1(9Z))",HMDB0008594,,Chemical
+"PC(22:2(13Z,16Z)/18:2(9Z,12Z))",HMDB0008598,,Chemical
+"PC(22:2(13Z,16Z)/18:4(6Z,9Z,12Z,15Z))",HMDB0008601,,Chemical
+"PC(22:2(13Z,16Z)/20:2(11Z,14Z))",HMDB0008604,,Chemical
+"PC(22:2(13Z,16Z)/20:3(5Z,8Z,11Z))",HMDB0008605,,Chemical
+"PC(22:2(13Z,16Z)/20:3(8Z,11Z,14Z))",HMDB0008606,,Chemical
+"PC(22:4(7Z,10Z,13Z,16Z)/14:1(9Z))",HMDB0008624,,Chemical
+"PC(22:4(7Z,10Z,13Z,16Z)/18:0)",HMDB0008628,,Chemical
+"PC(22:4(7Z,10Z,13Z,16Z)/18:2(9Z,12Z))",HMDB0008631,,Chemical
+"PC(22:4(7Z,10Z,13Z,16Z)/20:0)",HMDB0008635,,Chemical
+"PC(22:4(7Z,10Z,13Z,16Z)/20:1(11Z))",HMDB0008636,,Chemical
+"PC(22:4(7Z,10Z,13Z,16Z)/P-18:0)",HMDB0008653,,Chemical
+"PC(22:5(4Z,7Z,10Z,13Z,16Z)/14:0)",HMDB0008656,,Chemical
+"PC(22:5(4Z,7Z,10Z,13Z,16Z)/14:1(9Z))",HMDB0008657,,Chemical
+"PC(22:5(4Z,7Z,10Z,13Z,16Z)/16:1(9Z))",HMDB0008660,,Chemical
+"PC(22:5(4Z,7Z,10Z,13Z,16Z)/18:1(11Z))",HMDB0008662,,Chemical
+"PC(22:5(4Z,7Z,10Z,13Z,16Z)/18:1(9Z))",HMDB0008663,,Chemical
+"PC(22:5(4Z,7Z,10Z,13Z,16Z)/20:0)",HMDB0008668,,Chemical
+"PC(22:5(4Z,7Z,10Z,13Z,16Z)/P-18:1(11Z))",HMDB0008687,,Chemical
+"PC(22:5(4Z,7Z,10Z,13Z,16Z)/P-18:1(9Z))",HMDB0008688,,Chemical
+"PC(22:5(7Z,10Z,13Z,16Z,19Z)/14:0)",HMDB0008689,,Chemical
+"PC(22:5(7Z,10Z,13Z,16Z,19Z)/14:1(9Z))",HMDB0008690,,Chemical
+"PC(22:5(7Z,10Z,13Z,16Z,19Z)/16:1(9Z))",HMDB0008693,,Chemical
+"PC(22:5(7Z,10Z,13Z,16Z,19Z)/18:1(11Z))",HMDB0008695,,Chemical
+"PC(22:5(7Z,10Z,13Z,16Z,19Z)/18:1(9Z))",HMDB0008696,,Chemical
+"PC(22:5(7Z,10Z,13Z,16Z,19Z)/20:0)",HMDB0008701,,Chemical
+"PC(22:5(7Z,10Z,13Z,16Z,19Z)/P-18:1(11Z))",HMDB0008720,,Chemical
+"PC(22:5(7Z,10Z,13Z,16Z,19Z)/P-18:1(9Z))",HMDB0008721,,Chemical
+"PC(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/14:0)",HMDB0008722,1-Docosahexaenoyl-2-myristoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/16:0)",HMDB0008725,1-Docosahexaenoyl-2-palmitoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/18:0)",HMDB0008727,1-Docosahexaenoyl-2-stearoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/P-16:0)",HMDB0008751,,Chemical
+"PC(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/P-18:0)",HMDB0008752,,Chemical
+PC(24:0/18:0),HMDB0008760,1-Lignoceroyl-2-stearoyl-sn-glycero-3-phosphocholine,Chemical
+PC(24:0/18:1(11Z)),HMDB0008761,1-Lignoceroyl-2-cis-vaccenoyl-sn-glycero-3-phosphocholine,Chemical
+PC(24:0/18:1(9Z)),HMDB0008762,1-Lignoceroyl-2-oleoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(24:0/18:4(6Z,9Z,12Z,15Z))",HMDB0008766,1-Lignoceroyl-2-stearidonoyl-sn-glycero-3-phosphocholine,Chemical
+PC(24:0/P-18:0),HMDB0008785,,Chemical
+PC(24:0/P-18:1(11Z)),HMDB0008786,,Chemical
+PC(24:0/P-18:1(9Z)),HMDB0008787,,Chemical
+PC(24:1(15Z)/18:0),HMDB0008793,1-Nervonoyl-2-stearoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(24:1(15Z)/18:3(6Z,9Z,12Z))",HMDB0008797,1-Nervonoyl-2-gamma-linolenoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(24:1(15Z)/18:4(6Z,9Z,12Z,15Z))",HMDB0008799,1-Nervonoyl-2-stearidonoyl-sn-glycero-3-phosphocholine,Chemical
+PC(24:1(15Z)/P-18:0),HMDB0008818,,Chemical
+SM(d18:1/16:0),HMDB0010169,"Palmitoyl sphingomyelin, N-Palmitoyl-D-erythro-sphingosylphosphorylcholine",Chemical
+11b-PGF2a,HMDB0010199,11-beta-Prostaglandin F2α,Chemical
+Ethyl glucuronide,HMDB0010325,EtG,Chemical
+"5,8,11-Eicosatrienoic acid",HMDB0010378,Mead acid,Chemical
+LysoPC(14:0),HMDB0010379,1-Myristoyl-sn-glycero-3-phosphocholine,Chemical
+LysoPC(16:0),HMDB0010382,1-Palmitoyl-sn-glycero-3-phosphocholine,Chemical
+LysoPC(18:0),HMDB0010384,1-Stearoyl-sn-glycero-3-phosphocholine,Chemical
+LysoPC(18:1(11Z)),HMDB0010385,1-cis-Vaccenoyl-sn-glycero-3-phosphocholine,Chemical
+"LysoPC(18:2(9Z,12Z))",HMDB0010386,1-Linoleoyl-sn-glycero-3-phosphocholine,Chemical
+"LysoPC(20:3(5Z,8Z,11Z))",HMDB0010393,"1-(5Z,8Z,11Z-Eicosatrienoyl)-sn-glycero-3-phosphocholine",Chemical
+"LysoPC(20:4(8Z,11Z,14Z,17Z))",HMDB0010396,,Chemical
+LysoPC(P-18:1(9Z)),HMDB0010408,,Chemical
+1-Methylxanthine,HMDB0010738,,Chemical
+"1,7-Dimethyluric acid",HMDB0011103,,Chemical
+5-Acetylamino-6-formylamino-3-methyluracil,HMDB0011105,AFMU,Chemical
+5-HETE,HMDB0011134,5-Hydroxyeicosatetraenoic acid,Chemical
+"PC(20:3(8Z,11Z,14Z)/20:1(11Z))",HMDB0011201,,Chemical
+PC(P-16:0/14:0),HMDB0011203,1-(Palmitoyl-plasmenyl)-2-myristoyl-sn-glycero-3-phosphocholine,Chemical
+PC(P-16:0/16:1(9Z)),HMDB0011207,1-(Palmitoyl-plasmenyl)-2-palmitoleoyl-sn-glycero-3-phosphocholine,Chemical
+PC(P-16:0/18:1(11Z)),HMDB0011209,,Chemical
+PC(P-16:0/18:1(9Z)),HMDB0011210,,Chemical
+"PC(P-16:0/18:2(9Z,12Z))",HMDB0011211,,Chemical
+"PC(P-16:0/18:3(6Z,9Z,12Z))",HMDB0011212,,Chemical
+"PC(P-16:0/18:3(9Z,12Z,15Z))",HMDB0011213,,Chemical
+"PC(P-16:0/18:4(6Z,9Z,12Z,15Z))",HMDB0011214,,Chemical
+PC(P-16:0/20:0),HMDB0011215,,Chemical
+PC(P-16:0/20:1(11Z)),HMDB0011216,,Chemical
+"PC(P-16:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",HMDB0011229,,Chemical
+PC(P-18:0/14:1(9Z)),HMDB0011237,,Chemical
+PC(P-18:0/16:1(9Z)),HMDB0011240,,Chemical
+PC(P-18:0/18:0),HMDB0011241,,Chemical
+PC(P-18:0/18:1(11Z)),HMDB0011242,,Chemical
+PC(P-18:0/18:1(9Z)),HMDB0011243,,Chemical
+"PC(P-18:0/20:3(5Z,8Z,11Z))",HMDB0011251,,Chemical
+"PC(P-18:0/20:3(8Z,11Z,14Z))",HMDB0011252,,Chemical
+"PC(P-18:0/22:4(7Z,10Z,13Z,16Z))",HMDB0011259,,Chemical
+"PC(P-18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",HMDB0011262,,Chemical
+PC(P-18:0/24:0),HMDB0011263,,Chemical
+PC(P-18:0/24:1(15Z)),HMDB0011264,,Chemical
+PC(P-18:1(11Z)/14:0),HMDB0011269,,Chemical
+PC(P-18:1(11Z)/14:1(9Z)),HMDB0011270,,Chemical
+PC(P-18:1(11Z)/16:0),HMDB0011272,,Chemical
+PC(P-18:1(11Z)/16:1(9Z)),HMDB0011273,,Chemical
+PC(P-18:1(11Z)/18:0),HMDB0011274,,Chemical
+"PC(P-18:1(11Z)/18:4(6Z,9Z,12Z,15Z))",HMDB0011280,,Chemical
+"PC(P-18:1(11Z)/20:2(11Z,14Z))",HMDB0011283,,Chemical
+"PC(P-18:1(11Z)/20:5(5Z,8Z,11Z,14Z,17Z))",HMDB0011288,,Chemical
+"PC(P-18:1(11Z)/22:5(4Z,7Z,10Z,13Z,16Z))",HMDB0011293,,Chemical
+"PC(P-18:1(11Z)/22:5(7Z,10Z,13Z,16Z,19Z))",HMDB0011294,,Chemical
+PC(P-18:1(11Z)/24:0),HMDB0011296,,Chemical
+PC(P-18:1(9Z)/14:0),HMDB0011302,,Chemical
+PC(P-18:1(9Z)/14:1(9Z)),HMDB0011303,,Chemical
+PC(P-18:1(9Z)/16:0),HMDB0011305,,Chemical
+PC(P-18:1(9Z)/16:1(9Z)),HMDB0011306,,Chemical
+PC(P-18:1(9Z)/18:0),HMDB0011307,,Chemical
+"PC(P-18:1(9Z)/18:4(6Z,9Z,12Z,15Z))",HMDB0011313,,Chemical
+"PC(P-18:1(9Z)/20:2(11Z,14Z))",HMDB0011316,,Chemical
+"PC(P-18:1(9Z)/20:5(5Z,8Z,11Z,14Z,17Z))",HMDB0011321,,Chemical
+PC(P-18:1(9Z)/22:0),HMDB0011322,,Chemical
+"PC(P-18:1(9Z)/22:5(4Z,7Z,10Z,13Z,16Z))",HMDB0011326,,Chemical
+"PC(P-18:1(9Z)/22:5(7Z,10Z,13Z,16Z,19Z))",HMDB0011327,,Chemical
+PC(P-18:1(9Z)/24:0),HMDB0011329,,Chemical
+1-Methyladenine,HMDB0011599,m1A,Chemical
+3-Methyladenine,HMDB0011600,m3A,Chemical
+4-Hydroxybenzaldehyde,HMDB0011718,,Chemical
+2-Methylhippuric acid,HMDB0011723,o-Methylhippuric acid,Chemical
+2-Phenylpropionate,HMDB0011743,Hydratropic acid,Chemical
+SM(d18:1/24:1(15Z)),HMDB0012107,"Nervonoyl sphingomyelin, N-Nervonoyl-D-erythro-sphingosylphosphorylcholine",Chemical
+LysoPC(17:0),HMDB0012108,1-Heptadecanoyl-sn-glycero-3-phosphocholine,Chemical
+Hydroxypropionylcarnitine,HMDB0013125,3-Hydroxypropionylcarnitine,Chemical
+Valerylcarnitine,HMDB0013128,"C5 Carnitine, Pentanoylcarnitine",Chemical
+Hydroxyvalerylcarnitine,HMDB0013132,3-Hydroxyvalerylcarnitine,Chemical
+trans-2-Dodecenoylcarnitine,HMDB0013326,,Chemical
+"PC(o-16:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",HMDB0013409,1-O-Hexadecyl-2-docosahexaenoyl-sn-glycero-3-phosphocholine,Chemical
+PC(o-16:1(9Z)/22:0),HMDB0013416,1-O-(9Z-Hexadecenyl)-2-behenoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(o-18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",HMDB0013422,1-O-Octadecyl-2-docosahexaenoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(o-18:1(11Z)/18:2(9Z,12Z))",HMDB0013425,1-O-(11Z-Octadecenyl)-2-linoleoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(o-18:1(9Z)/18:2(9Z,12Z))",HMDB0013429,1-O-(9Z-Octadecenyl)-2-linoleoyl-sn-glycero-3-phosphocholine,Chemical
+PC(o-18:1(9Z)/20:1(11Z)),HMDB0013431,1-O-(9Z-Octadecenyl)-2-(11Z-eicosenoyl)-sn-glycero-3-phosphocholine,Chemical
+PC(o-18:1(9Z)/24:0),HMDB0013434,1-O-(9Z-Octadecenyl)-2-lignoceroyl-sn-glycero-3-phosphocholine,Chemical
+"PC(o-18:2(9Z,12Z)/24:0)",HMDB0013438,"1-O-(9Z,12Z-Octadecadienyl)-2-lignoceroyl-sn-glycero-3-phosphocholine",Chemical
+"PC(o-20:1(11Z)/20:4(8Z,11Z,14Z,17Z))",HMDB0013444,,Chemical
+"PC(o-22:0/18:3(9Z,12Z,15Z))",HMDB0013446,1-O-Docosyl-2-alpha-linolenoyl-sn-glycero-3-phosphocholine,Chemical
+PC(o-22:0/20:1(11Z)),HMDB0013447,1-O-Docosyl-2-(11Z-eicosenoyl)-sn-glycero-3-phosphocholine,Chemical
+"PC(o-22:0/20:4(8Z,11Z,14Z,17Z))",HMDB0013448,,Chemical
+"PC(o-22:1(13Z)/22:3(10Z,13Z,16Z))",HMDB0013453,,Chemical
+"PC(o-22:2(13Z,16Z)/20:2(11Z,14Z))",HMDB0013454,,Chemical
+"PC(o-22:2(13Z,16Z)/22:2(13Z,16Z))",HMDB0013455,,Chemical
+"PC(o-22:2(13Z,16Z)/22:3(10Z,13Z,16Z))",HMDB0013456,,Chemical
+"PC(o-24:0/18:3(6Z,9Z,12Z))",HMDB0013458,1-O-Tetracosyl-2-gamma-linolenoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(o-24:0/18:3(9Z,12Z,15Z))",HMDB0013459,1-O-Tetracosyl-2-alpha-linolenoyl-sn-glycero-3-phosphocholine,Chemical
+"PC(o-24:0/20:4(8Z,11Z,14Z,17Z))",HMDB0013460,,Chemical
+SM(d18:0/14:1(9Z)(OH)),HMDB0013462,,Chemical
+SM(d18:0/22:1(13Z)(OH)),HMDB0013466,,Chemical
+Triglycerides,N/A,"TG, Triacylglycerol, TAG",Chemical
+LDL Cholesterol,N/A,"LDL-C, Low-Density Lipoprotein Cholesterol",Chemical
+HDL Cholesterol,N/A,"HDL-C, High-Density Lipoprotein Cholesterol",Chemical
+1-Hydroxyphenanthrene,HMDB0059797,1-Phenanthrol,Chemical
+1-Hydroxypyrene,HMDB0013139,,Chemical
+1-Naphthol,HMDB0012138,"alpha-Naphthol, α-Naphthol",Chemical
+2-Hydroxyfluorene,HMDB0013163,,Chemical
+2-Naphthol,HMDB0012322,"beta-Naphthol, β-Naphthol",Chemical
+"2,4-Dichlorophenol",HMDB0004811,"2,4-DCP",Chemical
+"2,4-Dichlorophenoxyacetic acid",HMDB0041797,"2,4-D",Chemical
+"2,4,5-Trichlorophenol",HMDB0061729,"2,4,5-TCP",Chemical
+"2,4,6-Trichlorophenol",HMDB0061728,"2,4,6-TCP",Chemical
+"2,5-Dichlorophenol",HMDB0041800,"2,5-DCP",Chemical
+"2,5-Dimethylfuran",HMDB0033182,,Chemical
+3-Hydroxyfluorene,HMDB0059802,,Chemical
+3-Hydroxyphenanthrene,HMDB0059799,3-Phenanthrol,Chemical
+9-Hydroxyfluorene,HMDB0059803,,Chemical
+Arsenic,HMDB0002290,As,Chemical
+Barium,HMDB0004142,Ba,Chemical
+Bisphenol A,HMDB0032133,BPA,Chemical
+Chloroform,HMDB0029596,Trichloromethane,Chemical
+Chondrillasterol,HMDB0033885,,Chemical
+Diethyldithiophosphate,HMDB0061736,DEDTP,Chemical
+Dimethyldithiophosphate,HMDB0061737,DMDTP,Chemical
+Dimethylphosphate,HMDB0061734,DMP,Chemical
+Ethylbenzene,HMDB0059905,,Chemical
+Mono-(2-ethyl-5-carboxypentyl) phthalate,HMDB0094647,MECPP,Chemical
+Mono-(2-ethyl-5-hydroxyhexyl) phthalate,HMDB0094679,MEHHP,Chemical
+Mono-(2-ethyl-5-oxohexyl) phthalate,HMDB0094645,MEOHP,Chemical
+Mono-(3-carboxypropyl) phthalate,HMDB0061748,MCPP,Chemical
+Mono-benzyl phthalate,HMDB0061744,MBzP,Chemical
+o-Xylene,HMDB0059851,"1,2-Dimethylbenzene",Chemical
+Pentachlorophenol,HMDB0041974,PCP,Chemical
+Perchlorate,HMDB0094714,ClO4-,Chemical
+Perchloroethylene,HMDB0041980,"Tetrachloroethylene, PCE",Chemical
+Perfluorodecanoic acid,HMDB0061738,PFDA,Chemical
+Perfluorohexane sulfonic acid,HMDB0094700,PFHxS,Chemical
+Perfluorononanoic acid,HMDB0061739,PFNA,Chemical
+Perfluorooctane sulfonamide,HMDB0061740,PFOSA,Chemical
+Perfluorooctanesulfonic acid,HMDB0059586,PFOS,Chemical
+Perfluorooctanoic acid,HMDB0059587,PFOA,Chemical
+Perfluoroundecanoic acid,HMDB0061743,PFUnDA,Chemical
+Styrene,HMDB0034240,Vinylbenzene,Chemical
+Thallium,HMDB0013724,Tl,Chemical
+Toluene,HMDB0034168,Methylbenzene,Chemical
+Triclosan,HMDB0061385,,Chemical
+(2E)-2-Heptenal,HMDB0033827,,Chemical
+1-Hydroxy-2-butanone,HMDB0031507,,Chemical
+2-Furancarboxaldehyde,HMDB0032914,Furfural,Chemical
+2-Hexenal,HMDB0031496,,Chemical
+2-Hexenoylcarnitine,HMDB0013161,,Chemical
+2-Hydroxyglutarate,HMDB0059655,"2-HG, alpha-Hydroxyglutarate",Chemical
+2-Nonenal,HMDB0031269,,Chemical
+3-Hydroxy-cis-5-tetradecenoylcarnitine,HMDB0013330,,Chemical
+3-Hydroxybutyrylcarnitine,HMDB0013127,,Chemical
+3-Hydroxyisovalerylcarnitine,HMDB0061189,3-OH-C5 carnitine,Chemical
+3-Methylglutarylcarnitine,HMDB0000552,,Chemical
+4-Decenal,HMDB0041014,,Chemical
+4-Hydroxyhippuric acid,HMDB0013678,p-Hydroxyhippuric acid,Chemical
+4Alpha-hydroxymethyl-5alpha-cholesta-8-en-3beta-ol,HMDB0012173,,Chemical
+Acrolein,HMDB0041822,2-Propenal,Chemical
+Ammonium,HMDB0041827,NH4+,Chemical
+Arginine vasopressin 1-8,HMDB0012895,,Chemical
+beta-Pinene,HMDB0036560,β-Pinene,Chemical
+Butyl propionate,HMDB0030052,,Chemical
+Capryloylglycine,HMDB0000832,N-Octanoylglycine,Chemical
+cis-5-Decenedioic acid,HMDB0013227,,Chemical
+Coprocholic acid,HMDB0000601,,Chemical
+Cytidine monophosphate,HMDB0000095,"CMP, Cytidylate",Chemical
+Deoxyadenosine triphosphate,HMDB0001532,dATP,Chemical
+Diacetyl,HMDB0003407,"2,3-Butanedione",Chemical
+Ethyl butyrate,HMDB0033889,,Chemical
+Ethyl propionate,HMDB0030058,,Chemical
+Ethylamine,HMDB0013231,Ethanamine,Chemical
+Heptanal,HMDB0031475,,Chemical
+Indole,HMDB0000738,,Chemical
+Isocaproic acid,HMDB0000689,4-Methylpentanoic acid,Chemical
+Lauric aldehyde,HMDB0033933,Dodecanal,Chemical
+Linoleyl carnitine,HMDB0006469,C18:2 Carnitine,Chemical
+Meta-hydroxyphenylhydracrylic Acid,HMDB0062595,,Chemical
+Methyl butyrate,HMDB0033890,,Chemical
+N4-Acetylcytidine,HMDB0005923,ac4C,Chemical
+Nitrogen,HMDB0001371,N,Chemical
+Nonanal,HMDB0059835,Aldehyde C-9,Chemical
+Nonanoylcarnitine,HMDB0013288,C9 Carnitine,Chemical
+Octadecenoylcarnitine,HMDB0094687,C18:1 Carnitine,Chemical
+Octyl acetate,HMDB0038602,,Chemical
+PC(O-16:0/20:0),HMDB0013406,,Chemical
+PC(O-16:0/22:0),HMDB0013408,,Chemical
+PC(O-18:0/24:0),HMDB0013423,,Chemical
+PC(O-20:0/22:0),HMDB0013443,,Chemical
+"PC(O-22:0/22:3(10Z,13Z,16Z))",HMDB0013449,,Chemical
+"PC(O-22:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",HMDB0013450,,Chemical
+"PC(O-22:1(13Z)/20:4(8Z,11Z,14Z,17Z))",HMDB0013451,,Chemical
+Pregnanetriol,HMDB0006070,"5β-Pregnane-3α,17α,20α-triol",Chemical
+SM C16:1,HMDB0029216,Palmitoleoyl sphingomyelin,Chemical
+Somatostatin,HMDB0013072,"SST, GHIH (Growth hormone-inhibiting hormone)",Chemical
+Tetradecanol,HMDB0011638,"1-Tetradecanol, Myristyl alcohol",Chemical
+Thiophene,HMDB0029718,,Chemical
+trans-2-Hexenedioic acid,HMDB0013311,,Chemical
+trans-3-Octenedioic acid,HMDB0013312,,Chemical
+Valerylglycine,HMDB0000927,N-Pentanoylglycine,Chemical
+Acrylamide,HMDB0004296,,Chemical
+Dimethylthiophosphate (DMTP),HMDB0061735,,Chemical
+Dimethylarsinic acid,HMDB0011625,Cacodylic acid,Chemical
+"2,2',3,4',5',6-Hexachlorobiphenyl",HMDB0246230,PCB 149,Chemical
+Dibromochloromethane,HMDB0059903,Chlorodibromomethane,Chemical
+Benzophenone-3,HMDB0015497,Oxybenzone,Chemical
+Ethylene thiourea,HMDB0245172,ETU,Chemical
+"2,4,5-Trichlorophenoxyacetic acid",HMDB0245475,"2,4,5-T",Chemical
+Malathion dicarboxylic acid,HMDB0060636,,Chemical
+"trans-3-(2,2-Dichlorovinyl)-2,2-dimethylcyclopropane carboxylic acid",HMDB0242452,trans-DCCA,Chemical
+4-Fluoro-3-phenoxybenzoic acid,HMDB0246421,,Chemical
+Arsenocholine,HMDB0032683,,Chemical
+Platinum,HMDB0013671,Pt,Chemical
+Perfluoroheptanoic acid,HMDB0256322,PFHpA,Chemical
+Mono-n-octyl phthalate,HMDB0254869,MOP,Chemical
+"2-Amino-9H-pyrido[2,3-b]indole",HMDB0033141,"A-alpha-C, AαC",Chemical
+Tetrachloromethane,HMDB0031330,Carbon tetrachloride,Chemical
+2-Thioxothiazolidine-4-carboxylic acid,HMDB0301802,TTCA,Chemical
+Endrin,HMDB0031211,,Chemical
+Mirex,HMDB0059573,,Chemical
+"2,2’,4,4’,5,6’-Hexabromodiphenyl ether",HMDB0037526,BDE-154,Chemical
+"1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin",HMDB0244128,HxCDD,Chemical
+"1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin",HMDB0244138,HxCDD,Chemical
+"1,2,3,7,8-Pentachlorodibenzo-p-dioxin",HMDB0244136,PeCDD,Chemical
+"2,3,7,8-Tetrachlorodibenzo-p-dioxin",HMDB0258755,"TCDD, Dioxin",Chemical
+"1,2,3,4,7,8-Hexachlorodibenzofuran",HMDB0244129,HxCDF,Chemical
+"1,2,3,6,7,8-Hexachlorodibenzofuran",HMDB0244135,HxCDF,Chemical
+"2,3,4,7,8-Pentachlorodibenzofuran",HMDB0245434,PeCDF,Chemical
+"3,4,4',5-Tetrachlorobiphenyl",HMDB0246039,PCB 81,Chemical
+"2,3,3’,4,4’,5,5’-Heptachlorobiphenyl",HMDB0245419,PCB 189,Chemical
+"2,2',3,3',4,4'-Hexachlorobiphenyl",HMDB0248611,PCB 128,Chemical
+"2,2',3,5,5',6-Hexachlorobiphenyl",HMDB0246909,PCB 151,Chemical
+3-Methylhippuric acid,HMDB0013245,m-Methylhippuric acid,Chemical
+6-Shogaol,HMDB0303115,,Chemical
+Dihydroferulic acid sulfate,HMDB0041724,,Chemical
+Dihydroferulic acid glucuronide,HMDB0041723,,Chemical
+(−)-Epigallocatechin,HMDB0038361,,Chemical
+Epigallocatechin,HMDB0038361,EGC,Chemical
+Vanillyl alcohol,HMDB0032012,,Chemical
+10-Gingerol,HMDB0005783,,Chemical
+Crocetin,HMDB0035098,,Chemical
+NNAL (4-(methylnitrosamino)-1-(3-pyridyl)-1-butanol),HMDB0041809,NNAL,Chemical
+Diethylphosphate (DEP),HMDB0012209,DEP,Chemical
+Diethylthiophosphate (DETP),HMDB0001460,DETP,Chemical
+3-Phenoxybenzoic acid,HMDB0041807,3-PBA,Chemical
+Monomethylarsonic acid,HMDB0012258,MMAA,Chemical
+Mono-n-butyl phthalate (MnBP),HMDB0013247,MBnP,Chemical
+2-Hydroxyphenanthrene,HMDB0059798,2-Phenanthrol,Chemical
+4-Hydroxyphenanthrene,HMDB0059800,4-Phenanthrol,Chemical
+Benzene,HMDB0001505,,Chemical
+trans-Nonachlor,HMDB0059570,,Chemical
+Furan,HMDB0013785,,Chemical
+Glycidamide,HMDB0252860,GA,Chemical
+Bromodichloromethane,HMDB0061732,,Chemical
+Tribromomethane (Bromoform),HMDB0062089,Bromoform,Chemical
+Bisphenol F,HMDB0240711,BPF,Chemical
+Bisphenol S,HMDB0240712,BPS,Chemical
+Triclocarban,HMDB0240702,TCC,Chemical
+Butyl Paraben,HMDB0032575,,Chemical
+Ethyl Paraben,HMDB0032573,,Chemical
+Methyl Paraben,HMDB0032572,,Chemical
+n-Propyl Paraben,HMDB0032574,,Chemical
+"3,5,6-Trichloro-2-pyridinol",HMDB0039853,TCPy,Chemical
+Cesium,HMDB0013669,Cs,Chemical
+Mono-isononyl phthalate,HMDB0244325,MiNP,Chemical
+"2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine",HMDB0041008,PhIP,Chemical
+"1-Methyl-9H-pyrido[3,4-b]indole (Harman)",FDB021482,Harman,Chemical
+"9H-Pyrido[3,4-b]indole (Norharman)",HMDB0012897,Norharman,Chemical
+"1,4-Dichlorobenzene",HMDB0041971,p-Dichlorobenzene,Chemical
+Methyl-tert-Butyl Ether,HMDB0061749,MTBE,Chemical
+Nitromethane,HMDB0255654,,Chemical
+p-Xylene,HMDB0059924,"1,4-Dimethylbenzene",Chemical
+N-Acetyl-S-(2-carbamoylethyl)-L-cysteine,HMDB0247489,AAMA,Chemical
+N-Acetyl-S-(2-cyanoethyl)-L-cysteine,HMDB0255060,CEMA,Chemical
+2-Aminothiazoline-4-carboxylic acid,HMDB0245615,ATCA,Chemical
+N-Acetyl-S-(benzyl)-L-cysteine,HMDB0255061,BMA,Chemical
+ortho-Phenylphenol,HMDB0032582,"2-Phenylphenol, o-Phenylphenol",Chemical
+Oxychlordane,HMDB0059571,,Chemical
+Hexachlorobenzene,HMDB0032566,HCB,Chemical
+beta-Hexachlorocyclohexane,HMDB0059785,β-HCH,Chemical
+"2,4,4’-Tribromodiphenyl ether",HMDB0037545,BDE-28,Chemical
+"2,2’,4,4’-Tetrabromodiphenyl ether",HMDB0037547,BDE-47,Chemical
+"2,2’,4,4’,5-Pentabromodiphenyl ether",HMDB0037516,BDE-99,Chemical
+"2,2’,4,4’,6-Pentabromodiphenyl ether",HMDB0037516,BDE-100,Chemical
+"2,2’,4,4’,5,5’-Hexabromodiphenyl ether",HMDB0037525,BDE-153,Chemical
+"1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin",HMDB0253098,HpCDD,Chemical
+"1,2,3,4,6,7,8-Heptachlorodibenzofuran",HMDB0244127,HpCDF,Chemical
+"3,3',4,4',5-Pentachlorobiphenyl",HMDB0246010,PCB 126,Chemical
+"3,3',4,4',5,5'-Hexachlorobiphenyl",HMDB0246011,PCB 169,Chemical
+"2,3,3',4,4'-Pentachlorobiphenyl",HMDB0245417,PCB 105,Chemical
+"2,3',4,4',5-Pentachlorobiphenyl",HMDB0246145,PCB 118,Chemical
+"2,3,3',4,4',5-Hexachlorobiphenyl",HMDB0245418,PCB 156,Chemical
+"2,3,3',4,4',5'-Hexachlorobiphenyl",HMDB0245420,PCB 157,Chemical
+"2,3',4,4',5,5'-Hexachlorobiphenyl",HMDB0245441,PCB 167,Chemical
+"2,4,4'-Trichlorobiphenyl",HMDB0245472,PCB 28,Chemical
+"2,2',5,5'-Tetrachlorobiphenyl",HMDB0245377,PCB 52,Chemical
+"2,4,4',5-Tetrachlorobiphenyl",HMDB0245473,PCB 74,Chemical
+"2,2',4,4',5-Pentachlorobiphenyl",HMDB0245371,PCB 99,Chemical
+"2,2',4,5,5'-Pentachlorobiphenyl",HMDB0246225,PCB 101,Chemical
+"2,2',3,4,4',5'-Hexachlorobiphenyl",HMDB0246191,PCB 138,Chemical
+"2,2',4,4',5,5'-Hexachlorobiphenyl",HMDB0245372,PCB 153,Chemical
+"2,2',3,3',4,4',5-Heptachlorobiphenyl",HMDB0245359,PCB 170,Chemical
+"2,2',3,4,4',5,5'-Heptachlorobiphenyl",HMDB0246192,PCB 180,Chemical
+"2,2',3,4',5,5',6-Heptachlorobiphenyl",HMDB0246910,PCB 187,Chemical
+"2,2',3,3',4,4',5,5',6,6'-Decachlorobiphenyl",HMDB0250912,PCB 209,Chemical
+"2,2’,3,4,4’-Pentabromodiphenyl ether",HMDB0037516,BDE-85,Chemical
+Capsanthone,HMDB0303575,,Chemical
+alpha-Chaconine,HMDB0039353,α-Chaconine,Chemical
+alpha-Solanine,HMDB0034202,α-Solanine,Chemical
+Thymol sulfate,HMDB0062720,,Chemical
+Dihydroferulic acid,HMDB0062121,3-(4-Hydroxy-3-methoxyphenyl)propanoic acid,Chemical
+Cryptocapsin,HMDB0036923,,Chemical
+Capsanthin,HMDB0036590,,Chemical
+Cucurbitaxanthin A,HMDB0035319,,Chemical
+Dihydrocapsiate,HMDB0034781,,Chemical
+Capsiate,HMDB0034780,,Chemical
+Demethoxycurcumin,HMDB0033801,,Chemical
+Arsenobetaine,HMDB0033206,AsB,Chemical
+Anethole,HMDB0030837,,Chemical
+Nordihydrocapsiate,HMDB0034779,,Chemical
+Linamarin,HMDB0033699,,Chemical
+Bisdemethoxycurcumin,HMDB0002114,,Chemical
+"2-Amino-3,8-dimethylimidazol[4,5-f]quinoxaline (MeIQx)",HMDB0029864,MeIQx,Chemical
+Atractyligenin glucuronide,HMDB0240481,,Chemical
+3-Feruloylquinic acid,FDB000249,,Chemical
+4-Feruloylquinic acid,FDB000248,,Chemical
+Carvacrol,FDB014512,Isothymol,Chemical
+Ferulic acid,FDB012801,trans-Ferulic acid,Chemical
+Isoferulic acid,FDB002700,,Chemical
+S-allylmercapturic acid,FDB093754,ALMA,Chemical
+N1-Methyl-4-pyridone-3-carboxamide,HMDB0004194,4PY,Chemical
+Resveratrol,HMDB0003747,,Chemical
+Hydroxyproline betaine,HMDB0029412,Betonicine,Chemical
+Atractyligenin,HMDB0061114,,Chemical
+Ergothioneine,HMDB0003045,"EGT, Thioneine",Chemical
+Curcumin-O-glucoronide,HMDB0240491,,Chemical
+Curcumin-O-sulfate,HMDB0240492,,Chemical
+Capsaicin,HMDB0002227,,Chemical
+Urolithin A,HMDB0013695,,Chemical
+S-Allylcysteine,HMDB0034323,SAC,Chemical
+Alline,HMDB0030533,,Chemical
+(S)-Salsolinol,HMDB0042012,,Chemical
+N-Methylpyridinium,HMDB0240545,,Chemical
+Sulforaphane-glutathione,HMDB0240560,,Chemical
+Sulforaphane-cysteine-glycine,HMDB0240559,,Chemical
+Sulforaphane-cysteine,HMDB0240558,,Chemical
+Sulforaphane-N-acetylcysteine,HMDB0061113,,Chemical
+2-Thiothiazolidine-4-carboxylic acid,HMDB0041805,,Chemical
+"2S,6S-/2S,6R-oxopropylpiperidine-2-carboxylic acid (2-OPP)",HMDB0341532,2-OPP,Chemical
+6-Oxopiperidine-2-carboxylic acid (6-oxoPIP),HMDB0061705,6-oxo-PIP,Chemical
+LysoPC(26:0/0:0),HMDB0029205,1-Lignoceroyl-sn-glycero-3-phosphocholine,Chemical
+LysoPC(28:0/0:0),HMDB0029206,1-Montanoyl-sn-glycero-3-phosphocholine,Chemical
+Dec-2-enoic acid,HMDB0340524,,Chemical
+LysoPC(26:1/0:0),HMDB0029220,1-(17Z-Hexacosenoyl)-sn-glycero-3-phosphocholine,Chemical
+SM(d18:0/16:0),HMDB0010168,Dihydropalmitoyl sphingomyelin,Chemical
+Dodec-2-enoic acid,HMDB0340653,,Chemical
+2-Aminoadipic acid,HMDB0302754,"Alpha-aminoadipate, α-Aminoadipic acid",Chemical
+"2-trans,4-cis-Decadienoylcarnitine",HMDB0013325,,Chemical
+LysoPC(28:1/0:0),HMDB0029221,1-(19Z-Octacosenoyl)-sn-glycero-3-phosphocholine,Chemical
+Niobium,HMDB0061921,Nb,Chemical
+Nadolol,HMDB0015334,,Chemical
+Nortriptyline,HMDB0014680,,Chemical
+Dihydrocodeine,HMDB0250396,,Chemical
+Hydrocodone,HMDB0015091,,Chemical
+Norhydrocodone,HMDB0061070,,Chemical
+Oxycodone,HMDB0014640,,Chemical
+Noroxycodone,HMDB0041960,,Chemical
+Oxymorphone,HMDB0015323,,Chemical
+Noroxymorphone,HMDB0061073,,Chemical
+Naloxone,HMDB0015314,Narcan,Chemical
+Morphine,HMDB0014440,,Chemical
+Oxalates,HMDB0303018,Oxalic acid,Chemical
+Oxazepam,HMDB0014980,,Chemical
+Oxcarbazepine,HMDB0014914,,Chemical
+"3b,5a,6b-Cholestanetriol",HMDB0003990,,Chemical
+Perampanel,HMDB0256305,,Chemical
+Pepsinogen I,HMDB0256300,Pepsinogen A,Chemical
+Phenytoin,HMDB0014397,Diphenylhydantoin,Chemical
+Sedoheptulose,HMDB0003219,,Chemical
+Hexacarboxylporphyrin I,HMDB0000743,,Chemical
+Pentacarboxylpophyrin I,HMDB0000789,,Chemical
+"Coproporphyrin, IV",HMDB0000644,,Chemical
+Posaconazole,HMDB0015392,,Chemical
+Sulfocysteine,HMDB0258593,Cysteine-S-sulfate,Chemical
+Xylitol,HMDB0242149,D-Xylitol,Chemical
+Reverse-Triiodthyronine,HMDB0060074,rT3,Chemical
+Deoxycholylglycine,HMDB0242414,"Glycodeoxycholic acid, GDCA",Chemical
+Glycohyodeoxycholic Acid,HMDB0304944,GHDCA,Chemical
+"3alpha,7alpha,12alpha-Trihydroxycholestanoic Acid",HMDB0341266,THCA,Chemical
+"(4E,15E)-Bilirubin",HMDB0240584,,Chemical
+"7a,12a-Dihydroxy-cholestene-3-one",HMDB0002197,,Chemical
+Isopropanol,HMDB0031241,"Isopropyl alcohol, 2-Propanol",Chemical
+Levetiracetam,HMDB0015333,,Chemical
+Lidocaine,HMDB0014426,,Chemical
+Loxapine,HMDB0014552,,Chemical
+16a-OH-Dehydroepiandrosterone,HMDB0006774,16-alpha-Hydroxy-DHEA,Chemical
+Pregnanetriolone,HMDB0041997,,Chemical
+B-Cortolone,HMDB0013221,beta-Cortolone,Chemical
+N-methylhistidine,HMDB0061685,"1-Methylhistidine, 3-Methylhistidine",Chemical
+"Myristic Acid, C14:0",HMDB0000806,Tetradecanoic acid,Chemical
+"Hexadecenoic Acid, C16:1w9",HMDB0033791,Palmitoleic acid,Chemical
+"DPA, C22:5w6",HMDB0032562,"Docosapentaenoic acid, Osbond acid",Chemical
+"Docosenoic Acid, C22:1",HMDB0302620,Erucic acid,Chemical
+Felbamate,HMDB0015084,,Chemical
+Gadolinium,HMDB0041899,Gd,Chemical
+Glucopsychosine,HMDB0000596,Glucosylsphingosine,Chemical
+7-Alpha-Hydroxy-4-Cholesten-3-One (7aC4),HMDB0012459,7aC4,Chemical
+"7-Alpha,12-Alpha-Dihydroxycholest-4-en-3-One (7a12aC4)",HMDB0002197,7a12aC4,Chemical
+Vitamin B5,HMDB0250782,Pantothenic acid,Chemical
+Voriconazole,HMDB0014720,,Chemical
+4-Hydroxy-2-oxoglutaric acid,HMDB0002070,,Chemical
+Mycophenolic acid,HMDB0015159,,Chemical
+Dermatan Sulfate,HMDB0000632,,Chemical
+Keratan Sulfate,HMDB0062483,Keratan,Chemical
+Amphetamine,HMDB0014328,,Chemical
+Galectin-3,HMDB0248981,LGALS3,Chemical
+Cocaine,HMDB0015043,,Chemical
+Benzoylecgonine,HMDB0041836,,Chemical
+cotinine (mothers heavy smokers),HMDB0001046,Cotinine,Chemical
+cotinine (non-smokers mothers),HMDB0001046,Cotinine,Chemical
+cotininine (smokers mothers),HMDB0001046,Cotinine,Chemical
+Hydromorphone,HMDB0060824,,Chemical
+Methadone,HMDB0014477,,Chemical
+EDDP,HMDB0060931,"2-Ethylidene-1,5-dimethyl-3,3-diphenylpyrrolidine",Chemical
+Buprenorphine,HMDB0015057,,Chemical
+Norbuprenorphine,HMDB0060546,,Chemical
+Ephedrine,HMDB0015451,,Chemical
+Levamisole,HMDB0014986,,Chemical
+2-hydroxyethylflurazepam,HMDB0253267,,Chemical
+7-aminoclonazepam,HMDB0041817,,Chemical
+7-aminoflunitrazepam,HMDB0041817,,Chemical
+Fentanyl,HMDB0014951,,Chemical
+Norfentanyl (oxalate),HMDB0061006,,Chemical
+Alfentanil,HMDB0014940,,Chemical
+Remifentanil,HMDB0014940,,Chemical
+sufentanil,HMDB0014846,,Chemical
+Ketamine,HMDB0015352,,Chemical
+Phencyclidine (PCP),HMDB0256399,PCP,Chemical
+Xylazine,HMDB0259938,,Chemical
+Methamphetamine,HMDB0015517,,Chemical
+"3,4-Methylenedioxymethamphetamine (MDMA)",HMDB0041931,"MDMA, Ecstasy",Chemical
+Nordiazepam,HMDB0060538,,Chemical
+Etizolam,HMDB0041890,,Chemical
+Alprazolam,HMDB0014548,Xanax,Chemical
+Clonazepam,HMDB0015201,Klonopin,Chemical
+Diazepam,HMDB0060538,Valium,Chemical
+Flunitrazepam,HMDB0015510,Rohypnol,Chemical
+Lorazepam,HMDB0014332,Ativan,Chemical
+Nitrazepam,HMDB0015534,,Chemical
+zonisamide,HMDB0015045,,Chemical
+2-Hydroxybutyric acid,HMDB0000008,"2-Hydroxybutanoic acid, alpha-Hydroxybutyrate, 伪-Hydroxybutyric acid",Chemical Diagnostic
+Alpha-ketoisovaleric acid,HMDB0000019,"2-Oxo-3-methylbutanoic acid, 伪-Ketoisovalerate, 3-Methyl-2-oxobutanoic acid",Chemical Diagnostic
+Androsterone,HMDB0000031,5伪-Androstan-3伪-ol-17-one,Chemical Diagnostic
+7-Dehydrocholesterol,HMDB0000032,"7-DHC, Provitamin D3, Cholesta-5,7-dien-3尾-ol",Chemical Diagnostic
+Beta-Alanine,HMDB0000056,"3-Aminopropanoic acid, 尾-Alanine",Chemical Diagnostic
+Cholesterol,HMDB0000067,Cholest-5-en-3尾-ol,Chemical Diagnostic
+Estradiol,HMDB0000151,"E2, 17尾-Estradiol",Chemical Diagnostic
+Alpha-Lactose,HMDB0000186,"伪-Lactose, Milk sugar",Chemical Diagnostic
+Oxoglutaric acid,HMDB0000208,"Alpha-ketoglutarate, 伪-Ketoglutaric acid, 2-Oxoglutarate",Chemical Diagnostic
+Oxoadipic acid,HMDB0000225,"Alpha-ketoadipic acid, 伪-Ketoadipate",Chemical Diagnostic
+2-Hydroxyadipic acid,HMDB0000321,"Alpha-hydroxyadipate, 伪-Hydroxyadipic acid",Chemical Diagnostic
+cis-4-Hydroxycyclohexylacetic acid,HMDB0000451,,Chemical Diagnostic
+Etiocholanolone,HMDB0000490,5尾-Androstan-3伪-ol-17-one,Chemical Diagnostic
+3-Methyl-2-oxovaleric acid,HMDB0000491,"KMV, 伪-Keto-尾-methylvaleric acid",Chemical Diagnostic
+Allopregnanolone,HMDB0001449,"3α-Hydroxy-5α-pregnan-20-one, Brexanolone",Chemical Diagnostic
+LysoPC(18:1(9Z)),HMDB0002815,1-Oleoyl-sn-glycero-3-phosphocholine,Chemical Diagnostic
+8-Isoprostaglandin F2a,HMDB0005083,"8-iso-PGF2伪, iPF2伪-III",Chemical Diagnostic
+Dibromochloromethane (Chlorodibromomethane),HMDB0059903,,Exposure Chemical
+"trans-3-(2,2-Dichlorovinyl)-2,2-dimethylcyclopropane carboxylic acid (trans-DCCA)",HMDB0242452,trans-DCCA,Exposure Chemical
+"2-Amino-9H-pyrido[2,3-b]indole (A-α-C)",HMDB0033141,"A-alpha-C, AαC",Exposure Chemical
+Tetrachloromethane (Carbon tetrachloride),HMDB0031330,Carbon tetrachloride,Exposure Chemical
+BCL10,30065,,Karyotype
+BCL9,29099,,Karyotype
+RBM15,29997,,Karyotype
+FOXP1,29714,,Karyotype
+BCL6,29816,,Karyotype
+CCND3,29501,,Karyotype
+TCL1A,29430,,Karyotype
+MYC,30236,,Karyotype
+PAX5,29828,,Karyotype
+TLX1,29001,,Karyotype
+CCND1,29512,,Karyotype
+KMT2A,29421,,Karyotype
+CCND2,29631,,Karyotype
+BCL2,30173,,Karyotype
+BCL3,29577,,Karyotype
+IGL,29724,,Karyotype
+JAK2,30162,,Karyotype
+PDGFRA,29543,,Karyotype
+ABL1,29259,,Karyotype
+PDGFRB,30138,,Karyotype
+NSD1,29963,,Karyotype
+IL5,29046,,Karyotype
+FGFR1,30081,,Karyotype
+LCK,29619,,Karyotype
+TAL1,29148,,Karyotype
+TCF3,29358,,Karyotype
+IL3,29262,,Karyotype
+MYB,29133,,Karyotype
+IRF4,29312,,Karyotype
+TCRB,29718,,Karyotype
+RHOH,29222,,Karyotype
+(TCRB locus),29535,,Karyotype
+(Loss of 7p),29725,,Karyotype
+NOTCH1,29900,,Karyotype
+TAL2,29956,,Karyotype
+TLX3,29637,,Karyotype
+LMO1,29897,,Karyotype
+ETV6,30089,,Karyotype
+LYL1,30267,,Karyotype
+TRD,28942,,Karyotype
+CDKN2A,30214,,Karyotype
+EZH2,29883,,Karyotype
+RPS14,29479,,Karyotype
+ASXL1,29254,,Karyotype
+RB1,29263,,Karyotype
+ATM,29452,,Karyotype
+(Iso-dicentric X),28993,,Karyotype
+MECOM,29713,,Karyotype
+(Loss of 7),29488,,Karyotype
+RUNX1,29623,,Karyotype
+RARA,29442,,Karyotype
+DEK,29392,,Karyotype
+NUP98,30054,,Karyotype
+KAT6A,30291,,Karyotype
+CBFB,29610,,Karyotype
+FUS,29206,,Karyotype
+TP53,29733,,Karyotype
+(Various),29114,,Karyotype
+(Gain of 1q),29175,,Karyotype
+(Dicentric chr),30198,,Karyotype
+(Whole Chromosome),29441,,Karyotype
+(Derivative chr),29967,,Karyotype
+(Loss of 5q),29654,,Karyotype
+NPM1,29824,,Karyotype
+(Translocation),29423,,Karyotype
+(Loss of Y chromosome),30086,,Karyotype
+(Deletion),29720,,Karyotype
+SHANK3,29641,,Karyotype
+CEBPA,30219,,Karyotype
+CHRNA7,29764,,Karyotype
+SPN,29176,,Karyotype
+TBX2,29958,,Karyotype
+(IGH locus),30230,,Karyotype
+MAF,30193,,Karyotype
+ALK,30002,,Karyotype
+(IGL locus),29412,,Karyotype
+PICALM,30272,,Karyotype
+LMO2,29274,,Karyotype
+LRP1,29179,,Karyotype
+ERG,29571,,Karyotype
+TBXAS1,29399,,Karyotype
+MAGI2,29313,,Karyotype
+PDE4B,29490,,Karyotype
+PYGL,29623,,Karyotype
+TOMM40,29685,,Karyotype
+GLI3,29988,,Karyotype
+IKZF4,29896,,Karyotype
+STAT6,29729,,Karyotype
+LPP,29984,,Karyotype
+IL13,30030,,Karyotype
+TLR1,29028,,Karyotype
+CD247,30260,,Karyotype
+IL2RA,29298,,Karyotype
+IL1RL1,29847,,Karyotype
+D2HGDH,29070,,Karyotype
+GSDMB,29341,,Karyotype
+SMAD3,29271,,Karyotype
+IL7R,29231,,Karyotype
+SORL1,30130,,Karyotype
+CD2AP,29349,,Karyotype
+SLC24A4,29151,,Karyotype
+CR1,29406,,Karyotype
+SQSTM1,29451,,Karyotype
+ATXN3,29171,,Karyotype
+KIF5A,29713,,Karyotype
+NOTCH4,30074,,Karyotype
+ZFHX3,29746,,Karyotype
+HBEGF,29846,,Karyotype
+CAV1,29516,,Karyotype
+TBX5,30047,,Karyotype
+MACROD2,28958,,Karyotype
+MC1R,29857,,Karyotype
+ITIH1,29077,,Karyotype
+GFI1B,29630,,Karyotype
+UGT1A8,29133,,Karyotype
+CDKAL1,29302,,Karyotype
+TACC3,29248,,Karyotype
+DIRC3,29067,,Karyotype
+FTO,29198,,Karyotype
+ZNF365,29473,,Karyotype
+PEX14,29573,,Karyotype
+ELL,29242,,Karyotype
+FGFR2,29800,,Karyotype
+ITPR1,29436,,Karyotype
+TCF7L2,29708,,Karyotype
+SCN5A,30157,,Karyotype
+NFIA,29830,,Karyotype
+MMEL1,30244,,Karyotype
+ETS1,29750,,Karyotype
+ATXN2,28975,,Karyotype
+UMOD,30148,,Karyotype
+BANK1,29229,,Karyotype
+SMAD7,29536,,Karyotype
+WNK1,29096,,Karyotype
+SMARCA4,29273,,Karyotype
+TCF21,29459,,Karyotype
+BTD,29772,,Karyotype
+LPA,29771,,Karyotype
+SH2B3,29559,,Karyotype
+PRNP,29862,,Karyotype
+IFNGR2,29643,,Karyotype
+JAZF1,29813,,Karyotype
+ATG16L1,29037,,Karyotype
+NOD2,29546,,Karyotype
+PVT1,29081,,Karyotype
+CD86,29984,,Karyotype
+AKT1,29203,,Karyotype
+HNF1B,29000,,Karyotype
+MMP8,29907,,Karyotype
+SCN1A,29499,,Karyotype
+CHEK2,30218,,Karyotype
+XBP1,29317,,Karyotype
+ADH1B,29589,,Karyotype
+EGR2,28997,,Karyotype
+SCN2A,29535,,Karyotype
+IFI44L,29608,,Karyotype
+SLC14A2,29654,,Karyotype
+TERT,30162,,Karyotype
+SLC2A9,29710,,Karyotype
+FCRL3,30284,,Karyotype
+TSHR,29479,,Karyotype
+ABO,29665,,Karyotype
+GRIK1,29350,,Karyotype
+GCKR,29944,,Karyotype
+HAVCR1,29168,,Karyotype
+PARK7,30067,,Karyotype
+MST1,29854,,Karyotype
+FEN1,30042,,Karyotype
+FCGR2A,30116,,Karyotype
+TNFSF15,30161,,Karyotype
+IRGM,30070,,Karyotype
+CARD9,29844,,Karyotype
+STAT3,29437,,Karyotype
+IL23R,30110,,Karyotype
+ALDH2,30171,,Karyotype
+PTPN13,29254,,Karyotype
+AFF3,29402,,Karyotype
+APOC1,29675,,Karyotype
+TP63,29220,,Karyotype
+DMRT1,29611,,Karyotype
+PRKCH,29167,,Karyotype
+PLA2G6,29842,,Karyotype
+MTAP,30011,,Karyotype
+PLCE1,29796,,Karyotype
+HPSE2,29603,,Karyotype
+PRDM16,29884,,Karyotype
+ANKRD11,30183,,Karyotype
+CDH12,29898,,Karyotype
+TNFRSF1A,28982,,Karyotype
+IL6R,29160,,Karyotype
+FES,30122,,Karyotype
+COL4A1,29071,,Karyotype
+NINJ1,29339,,Karyotype
+LEPR,29018,,Karyotype
+SCNN1A,29600,,Karyotype
+MLLT10,29105,,Karyotype
+OPTN,29874,,Karyotype
+GPNMB,29329,,Karyotype
+MCCC1,29642,,Karyotype
+MAPT,29940,,Karyotype
+GCH1,29116,,Karyotype
+BST1,29013,,Karyotype
+THADA,30176,,Karyotype
+EIF2AK3,30185,,Karyotype
+SLCO1A2,29103,,Karyotype
+SLC22A3,30091,,Karyotype
+IFIH1,29399,,Karyotype
+REV3L,28998,,Karyotype
+COG6,29168,,Karyotype
+DDX58,30029,,Karyotype
+NOS2,30081,,Karyotype
+TNFAIP3,29797,,Karyotype
+EPAS1,29339,,Karyotype
+SCARB1,29179,,Karyotype
+MEIS1,30093,,Karyotype
+MYT1,29270,,Karyotype
+BTBD9,30216,,Karyotype
+STAT4,29581,,Karyotype
+MANBA,29844,,Karyotype
+ATP2A2,29125,,Karyotype
+ADAMTSL3,29707,,Karyotype
+GIGYF2,30249,,Karyotype
+CACNB2,29153,,Karyotype
+CHRNA3,29808,,Karyotype
+GRM3,29525,,Karyotype
+SRR,29066,,Karyotype
+CNTN4,29255,,Karyotype
+CACNA1C,29218,,Karyotype
+FURIN,28997,,Karyotype
+SRC,30067,,Karyotype
+WDFY4,29307,,Karyotype
+NCF2,29695,,Karyotype
+ITGAM,29604,,Karyotype
+KDM4C,29433,,Karyotype
+IRAK1,29979,,Karyotype
+IL19,29929,,Karyotype
+PCSK9,29611,,Karyotype
+NHS,29667,,Karyotype
+TCN2,29469,,Karyotype
+AHI1,30031,,Karyotype
+PTH1R,30119,,Karyotype
+SMYD3,29804,,Karyotype
+RUNX2,30210,,Karyotype
+HDAC9,30084,,Karyotype
+EP300,29118,,Karyotype
+COL11A1,29027,,Karyotype
+TNC,29236,,Karyotype
+LMX1B,30246,,Karyotype
+SMO,29657,,Karyotype
+HLA-DPB1,29462,,Karyotype
+GNAS,29421,,Karyotype
+APOE,29227,,Karyotype
+SPI1,29125,,Karyotype
+BRCA1,29845,,Karyotype
+BRCA2,29530,,Karyotype
+DPYD,29967,,Karyotype
+MSH6,29924,,Karyotype
+MLH1,29565,,Karyotype
+MSH2,30231,,Karyotype
+PMS2,28963,,Karyotype
+PAH,30004,,Karyotype
+USH2A,29383,,Karyotype
+CDH23,29909,,Karyotype
+SHOC2,29148,,Karyotype
+CFTR,28954,,Karyotype
+PTEN,30237,,Karyotype
+MAP2K2,29925,,Karyotype
+G6PD,30102,,Karyotype
+MYO7A,29695,,Karyotype
+CDH1,29682,,Karyotype
+KRAS,29627,,Karyotype
+HRAS,30262,,Karyotype
+SOS1,29715,,Karyotype
+PTPN11,30036,,Karyotype
+MAP2K1,30166,,Karyotype
+RAF1,29941,,Karyotype
+BRAF,29654,,Karyotype
+MYH7,29706,,Karyotype
+EPHX1,29038,,Karyotype
+EGFR,29355,,Karyotype
+ABCG2,30134,,Karyotype
+UMPS,29726,,Karyotype
+CPPB,29076,,Karyotype
+RFB,29354,,Karyotype
+CTXA,29388,,Karyotype
+HLYA,29566,,Karyotype
+TOX,30112,,Karyotype
+POLA,29520,,Karyotype
+IS6110,29699,,Karyotype
+FLAB,30132,,Karyotype
+OSPA,29432,,Karyotype
+IS481,30119,,Karyotype
+PAG,29082,,Karyotype
+GP,29892,,Karyotype
+NP,28943,,Karyotype
+HMBS,30157,,Karyotype
+GAG,29510,,Karyotype
+N,29114,,Karyotype
+Core Antigen Gene,29327,,Karyotype
+Surface Antigen Gene,29205,,Karyotype
+GB,29247,,Karyotype
+TSA,29426,,Karyotype
+ACADSB,29858,,Karyotype
+CYP21A2,29190,,Karyotype
+HMGCS2,29213,,Karyotype
+AUH,29619,,Karyotype
+FLT3,29797,,Karyotype
+IDH2,29884,,Karyotype
+KIT,29744,,Karyotype
+ABCD1,29787,,Karyotype
+ADSL,30024,,Karyotype
+SLC25A13,30237,,Karyotype
+ABCA4,30147,,Karyotype
+FBLN5,30157,,Karyotype
+HGD,29822,,Karyotype
+SERPINA1,29414,,Karyotype
+APP,29221,,Karyotype
+PSEN1,30154,,Karyotype
+FIG4,29346,,Karyotype
+VCP,30245,,Karyotype
+MATR3,29612,,Karyotype
+DCTN1,29471,,Karyotype
+SOD1,29544,,Karyotype
+TARDBP,29378,,Karyotype
+ALS2,29331,,Karyotype
+SETX,29998,,Karyotype
+VAPB,30265,,Karyotype
+COL4A4,29580,,Karyotype
+FOXP3,29142,,Karyotype
+HBB,29668,,Karyotype
+TTR,29884,,Karyotype
+SERPINC1,29103,,Karyotype
+DDC,30096,,Karyotype
+AGA,29338,,Karyotype
+KCNQ1,30042,,Karyotype
+CHRNA1,29271,,Karyotype
+SHANK2,29441,,Karyotype
+EHMT1,29058,,Karyotype
+MBD5,29724,,Karyotype
+MEF2C,29663,,Karyotype
+NR3C2,29612,,Karyotype
+RNF135,29925,,Karyotype
+TSC2,29699,,Karyotype
+NLGN3,30040,,Karyotype
+CDKL5,29856,,Karyotype
+POLG,30159,,Karyotype
+STXBP1,30117,,Karyotype
+PKD2,30074,,Karyotype
+PKD1,29303,,Karyotype
+CLCNKA,30193,,Karyotype
+GJB2,29120,,Karyotype
+GPSM2,29122,,Karyotype
+GRXCR1,29514,,Karyotype
+LOXHD1,29339,,Karyotype
+MARVELD2,29279,,Karyotype
+OTOF,29457,,Karyotype
+SLC26A4,29134,,Karyotype
+TECTA,29583,,Karyotype
+TMC1,29885,,Karyotype
+USH1G,30194,,Karyotype
+WHRN,29832,,Karyotype
+PALB2,29874,,Karyotype
+PTCH1,29923,,Karyotype
+FGFR3,28971,,Karyotype
+TSC1,30234,,Karyotype
+F11,29241,,Karyotype
+F7,29786,,Karyotype
+FGA,29005,,Karyotype
+FGG,29184,,Karyotype
+SERPINF2,29241,,Karyotype
+VWF,29433,,Karyotype
+F8,28978,,Karyotype
+F9,29548,,Karyotype
+CNGA3,29559,,Karyotype
+NR2E3,29327,,Karyotype
+BRIP1,29345,,Karyotype
+NF1,29114,,Karyotype
+RAD51C,29656,,Karyotype
+GNRHR,30044,,Karyotype
+BARD1,29589,,Karyotype
+ERBB2,29782,,Karyotype
+ESR1,29451,,Karyotype
+HERC2,30017,,Karyotype
+PIK3CA,30240,,Karyotype
+SMAD4,29755,,Karyotype
+NBN,28971,,Karyotype
+RAD50,29701,,Karyotype
+DSP,29054,,Karyotype
+PLN,29103,,Karyotype
+MYBPC3,29146,,Karyotype
+PROK2,29010,,Karyotype
+ACTA2,29137,,Karyotype
+BAG3,29440,,Karyotype
+CASQ2,29540,,Karyotype
+CBS,29181,,Karyotype
+COL3A1,29744,,Karyotype
+COL5A1,29334,,Karyotype
+DMD,29513,,Karyotype
+DSG2,30082,,Karyotype
+EMD,29902,,Karyotype
+FBN1,30135,,Karyotype
+FLNA,29675,,Karyotype
+GLA,30257,,Karyotype
+KCNH2,30091,,Karyotype
+KCNJ2,30219,,Karyotype
+LAMP2,29167,,Karyotype
+LMNA,29987,,Karyotype
+MYH11,30293,,Karyotype
+MYL2,29098,,Karyotype
+PKP2,29716,,Karyotype
+PLOD1,29664,,Karyotype
+PRKAG2,29480,,Karyotype
+RBM20,29965,,Karyotype
+RYR2,29533,,Karyotype
+SLC2A10,29706,,Karyotype
+TAZ,30288,,Karyotype
+TGFB3,29521,,Karyotype
+TGFBR1,30281,,Karyotype
+TGFBR2,29919,,Karyotype
+TMEM43,29138,,Karyotype
+TNNI3,28971,,Karyotype
+TNNT2,29881,,Karyotype
+TPM1,29442,,Karyotype
+TTN,30111,,Karyotype
+SLC25A20,29207,,Karyotype
+CPT1A,29692,,Karyotype
+MMAA,29294,,Karyotype
+MMAB,29433,,Karyotype
+CTNNB1,29507,,Karyotype
+COL4A5,29370,,Karyotype
+MKS1,30131,,Karyotype
+NPHP3,29677,,Karyotype
+ALMS1,30219,,Karyotype
+GATA3,29419,,Karyotype
+AXIN2,29608,,Karyotype
+BAX,29200,,Karyotype
+BUB1,29870,,Karyotype
+DCC,29058,,Karyotype
+DLC1,30139,,Karyotype
+FLCN,28998,,Karyotype
+MCC,29191,,Karyotype
+MLH3,29233,,Karyotype
+MUTYH,29092,,Karyotype
+PPARG,30005,,Karyotype
+PTPRJ,30184,,Karyotype
+RAD54B,29403,,Karyotype
+PLA2G2A,30049,,Karyotype
+CYP11B1,30115,,Karyotype
+HSD3B7,29198,,Karyotype
+AMACR,29373,,Karyotype
+DUOX2,29596,,Karyotype
+TPO,29292,,Karyotype
+MBL2,29506,,Karyotype
+SLC3A1,29065,,Karyotype
+SLC7A9,29771,,Karyotype
+HNF1A,29630,,Karyotype
+KCNJ11,29732,,Karyotype
+PMM2,29538,,Karyotype
+WFS1,29854,,Karyotype
+GCK,30157,,Karyotype
+ABCC8,29842,,Karyotype
+AKT2,30279,,Karyotype
+CAPN3,29099,,Karyotype
+GPD2,30043,,Karyotype
+INSR,29050,,Karyotype
+MAPK8IP1,29233,,Karyotype
+NEUROD1,30269,,Karyotype
+PAX4,29498,,Karyotype
+PDX1,30202,,Karyotype
+SLC2A2,29795,,Karyotype
+MSH3,29264,,Karyotype
+ACAT1,29581,,Karyotype
+ALDH7A1,29884,,Karyotype
+ARSA,28966,,Karyotype
+ATP1A3,30032,,Karyotype
+CEP290,29807,,Karyotype
+MECP2,29770,,Karyotype
+POLR1C,30255,,Karyotype
+UROS,30015,,Karyotype
+WWOX,29296,,Karyotype
+ETHE1,30250,,Karyotype
+F5,30234,,Karyotype
+GLUD1,29826,,Karyotype
+MYH6,30048,,Karyotype
+ACTC1,29737,,Karyotype
+ACTN2,29282,,Karyotype
+MYL3,29122,,Karyotype
+GAA,30064,,Karyotype
+TCAP,29237,,Karyotype
+DES,30152,,Karyotype
+TTPA,29656,,Karyotype
+MEFV,29742,,Karyotype
+RET,29055,,Karyotype
+FANCA,29604,,Karyotype
+FANCC,29960,,Karyotype
+FANCD2,29043,,Karyotype
+FANCF,29775,,Karyotype
+FANCG,29495,,Karyotype
+FANCI,29009,,Karyotype
+FANCL,29198,,Karyotype
+FANCM,29158,,Karyotype
+GABRG2,28963,,Karyotype
+FXN,29909,,Karyotype
+GRN,29383,,Karyotype
+FBP1,29593,,Karyotype
+FSHR,29502,,Karyotype
+ABAT,29358,,Karyotype
+ACVR1,29718,,Karyotype
+SLC2A1,30124,,Karyotype
+ETFA,29806,,Karyotype
+ETFDH,29942,,Karyotype
+G6PC,30120,,Karyotype
+GYS2,30279,,Karyotype
+PFKM,30058,,Karyotype
+SLC37A4,29739,,Karyotype
+HPD,30176,,Karyotype
+HAMP,30191,,Karyotype
+HFE,29016,,Karyotype
+HJV,30278,,Karyotype
+TFR2,29130,,Karyotype
+SLC40A1,29861,,Karyotype
+SPTB,29578,,Karyotype
+AXIN1,29356,,Karyotype
+CASP8,29364,,Karyotype
+IGF2R,29170,,Karyotype
+F12,29099,,Karyotype
+CTRC,29815,,Karyotype
+PRSS1,29466,,Karyotype
+SPINK1,29903,,Karyotype
+MMACHC,30267,,Karyotype
+MTR,29494,,Karyotype
+LDLR,30129,,Karyotype
+LPL,30211,,Karyotype
+CASR,29712,,Karyotype
+MEN1,29304,,Karyotype
+PTH,29834,,Karyotype
+AIRE,29091,,Karyotype
+GDAP1,30251,,Karyotype
+TNFRSF13B,30176,,Karyotype
+PEX12,29892,,Karyotype
+ACAD8,29945,,Karyotype
+ARHGAP26,29630,,Karyotype
+OTC,29621,,Karyotype
+BCS1L,29220,,Karyotype
+FOXRED1,29887,,Karyotype
+NDUFAF2,29336,,Karyotype
+NDUFS4,29439,,Karyotype
+SURF1,30056,,Karyotype
+COX15,29866,,Karyotype
+SNCA,29458,,Karyotype
+SNCB,29649,,Karyotype
+ATP7B,28977,,Karyotype
+HADHA,29291,,Karyotype
+SLC7A7,30100,,Karyotype
+MLYCD,29696,,Karyotype
+BCKDHA,29019,,Karyotype
+BCKDHB,29252,,Karyotype
+DBT,29285,,Karyotype
+ACADM,29366,,Karyotype
+SUFU,29851,,Karyotype
+CDK4,29411,,Karyotype
+MITF,29593,,Karyotype
+STK11,30029,,Karyotype
+MAT1A,29407,,Karyotype
+MVK,30090,,Karyotype
+ARSB,29017,,Karyotype
+LIG4,29827,,Karyotype
+ANO5,30144,,Karyotype
+COL6A2,30132,,Karyotype
+FKRP,29453,,Karyotype
+NEB,29008,,Karyotype
+POMT2,29217,,Karyotype
+SGCA,28945,,Karyotype
+MFRP,29169,,Karyotype
+NPHS1,29319,,Karyotype
+B2M,29756,,Karyotype
+CASP10,29134,,Karyotype
+GLDC,29183,,Karyotype
+MC4R,30129,,Karyotype
+IRF6,29903,,Karyotype
+LRP6,29995,,Karyotype
+OPCML,29858,,Karyotype
+RRAS2,29760,,Karyotype
+ACVR1B,29949,,Karyotype
+GBA,30128,,Karyotype
+FBXO7,29855,,Karyotype
+FOXI1,30082,,Karyotype
+CYP7B1,29627,,Karyotype
+MFN2,29313,,Karyotype
+NEFL,29300,,Karyotype
+PMP22,30093,,Karyotype
+KIF1B,29312,,Karyotype
+SDHA,30212,,Karyotype
+SDHB,29551,,Karyotype
+SDHD,29414,,Karyotype
+TMEM127,29487,,Karyotype
+VHL,29676,,Karyotype
+PHGDH,29252,,Karyotype
+ATP8B1,29705,,Karyotype
+ABCB11,30159,,Karyotype
+ABCB4,29478,,Karyotype
+TJP2,29071,,Karyotype
+PEPD,29774,,Karyotype
+PCCA,29819,,Karyotype
+PCCB,29039,,Karyotype
+AR,29938,,Karyotype
+MXI1,29308,,Karyotype
+PNP,29986,,Karyotype
+PDHA1,29214,,Karyotype
+PDHX,29380,,Karyotype
+ACADVL,28979,,Karyotype
+SCN4A,29463,,Karyotype
+PEX5,29252,,Karyotype
+PEX7,29205,,Karyotype
+ABCG5,29518,,Karyotype
+ABCG8,29501,,Karyotype
+DHCR7,29578,,Karyotype
+IRF1,29792,,Karyotype
+KLF6,30097,,Karyotype
+NOTCH3,30060,,Karyotype
+ALDH5A1,30049,,Karyotype
+SUOX,29246,,Karyotype
+DICER1,30132,,Karyotype
+TALDO1,29010,,Karyotype
+FMO3,30216,,Karyotype
+BBS1,29315,,Karyotype
+PCDH15,29236,,Karyotype
+PROM1,29176,,Karyotype
+USH1C,29533,,Karyotype
+ESPN,29100,,Karyotype
+GPC3,29549,,Karyotype
+WT1,29824,,Karyotype
+PEX1,30138,,Karyotype
+PEX3,29775,,Karyotype
+PEX6,29720,,Karyotype
+EFHC1,29889,,Karyotype
+L2HGDH,30216,,Karyotype
+GALNS,29943,,Karyotype
+IRF5,29165,,Karyotype
+FLNC,29715,,Karyotype
+CSRP3,30258,,Karyotype
+NEXN,29260,,Karyotype
+FANCE,29131,,Karyotype
+ERCC4,29276,,Karyotype
+RAD51,28949,,Karyotype
+GCDH,29492,,Karyotype
+GGCX,29502,,Karyotype
+VKORC1,29571,,Karyotype
+MYOC,29617,,Karyotype
+NTF4,29340,,Karyotype
+CYP1B1,29673,,Karyotype
+LTBP2,29942,,Karyotype
+TEK,29487,,Karyotype
+BMP4,29711,,Karyotype
+MSX1,29433,,Karyotype
+MET,29907,,Karyotype
+GFAP,30176,,Karyotype
+PAX6,29725,,Karyotype
+PKHD1,28944,,Karyotype
+ASPM,29644,,Karyotype
+ARL6,28994,,Karyotype
+BBS12,29039,,Karyotype
+BBS2,29112,,Karyotype
+BBS4,29126,,Karyotype
+BBS5,29036,,Karyotype
+BBS7,29338,,Karyotype
+MKKS,29433,,Karyotype
+SDCCAG8,29284,,Karyotype
+TRIM32,29665,,Karyotype
+TTC8,29270,,Karyotype
+MPZ,29452,,Karyotype
+BSCL2,30025,,Karyotype
+ATP7A,29753,,Karyotype
+CTDP1,30105,,Karyotype
+DNM2,29610,,Karyotype
+FGD4,30192,,Karyotype
+GJB1,29834,,Karyotype
+HSPB1,30147,,Karyotype
+HSPB8,29064,,Karyotype
+IGHMBP2,29881,,Karyotype
+INF2,29011,,Karyotype
+LITAF,30113,,Karyotype
+NDRG1,29335,,Karyotype
+NTRK1,29303,,Karyotype
+SBF2,29119,,Karyotype
+SH3TC2,29603,,Karyotype
+SLC12A6,29503,,Karyotype
+SPTLC1,29673,,Karyotype
+SPTLC2,30224,,Karyotype
+TRPV4,29233,,Karyotype
+CHD7,30178,,Karyotype
+SEMA3E,29848,,Karyotype
+COL1A1,30293,,Karyotype
+COL1A2,29043,,Karyotype
+COL5A2,29771,,Karyotype
+KCNE1,29367,,Karyotype
+ABCC6,30086,,Karyotype
+APOB,29151,,Karyotype
+GALT,29631,,Karyotype
+SDHC,29230,,Karyotype
+AIP,29400,,Karyotype
+APC,29349,,Karyotype
+BMPR1A,29309,,Karyotype
+SDHAF2,30029,,Karyotype
+SMARCB1,29575,,Karyotype
+CC2D2A,30144,,Karyotype
+INPP5E,29521,,Karyotype
+RPGRIP1L,29498,,Karyotype
+TMEM216,29094,,Karyotype
+TMEM67,29813,,Karyotype
+DYSF,30262,,Karyotype
+GNPTAB,30109,,Karyotype
+GLB1,30288,,Karyotype
+GLIS2,29127,,Karyotype
+INVS,29203,,Karyotype
+IQCB1,29067,,Karyotype
+NPHP1,29123,,Karyotype
+NPHP4,29302,,Karyotype
+CLN3,29871,,Karyotype
+CLN5,29248,,Karyotype
+CLN6,29256,,Karyotype
+CLN8,29092,,Karyotype
+PPT1,29270,,Karyotype
+TPP1,29539,,Karyotype
+SMPD1,29263,,Karyotype
+MFSD8,29472,,Karyotype
+CRTAP,29000,,Karyotype
+FKBP10,29710,,Karyotype
+DNAAF1,29574,,Karyotype
+DNAH11,29661,,Karyotype
+DNAH5,29835,,Karyotype
+DNAI1,29744,,Karyotype
+DNAI2,30229,,Karyotype
+RPGR,29763,,Karyotype
+RSPH4A,30203,,Karyotype
+RSPH9,28997,,Karyotype
+ACVRL1,29987,,Karyotype
+BMPR2,28989,,Karyotype
+ENG,29199,,Karyotype
+BEST1,30111,,Karyotype
+CERKL,29437,,Karyotype
+CLRN1,30146,,Karyotype
+CNGA1,29737,,Karyotype
+CNGB1,29189,,Karyotype
+COL18A1,29503,,Karyotype
+CRB1,29956,,Karyotype
+CRX,30214,,Karyotype
+EYS,29930,,Karyotype
+FAM161A,29476,,Karyotype
+IMPG2,29714,,Karyotype
+KLHL7,30194,,Karyotype
+MERTK,29646,,Karyotype
+PANK2,28959,,Karyotype
+PDE6A,29916,,Karyotype
+PDE6B,29872,,Karyotype
+PDE6G,29769,,Karyotype
+PHYH,29942,,Karyotype
+PRCD,29534,,Karyotype
+PRPF3,29385,,Karyotype
+PRPF31,29015,,Karyotype
+PRPF8,29962,,Karyotype
+PRPH2,29134,,Karyotype
+RDH12,29894,,Karyotype
+RHO,29623,,Karyotype
+RLBP1,29678,,Karyotype
+RP1,28990,,Karyotype
+RP1L1,29947,,Karyotype
+RP2,29934,,Karyotype
+RPE65,28987,,Karyotype
+SAG,29669,,Karyotype
+SNRNP200,29385,,Karyotype
+SPATA7,29111,,Karyotype
+TOPORS,29124,,Karyotype
+TULP1,29056,,Karyotype
+ACTA1,30215,,Karyotype
+ACTB,29621,,Karyotype
+ACTG1,29350,,Karyotype
+AGL,29436,,Karyotype
+ALG1,29441,,Karyotype
+ALG3,29301,,Karyotype
+ALX4,29662,,Karyotype
+AP4M1,30099,,Karyotype
+ARX,29776,,Karyotype
+ATP13A2,29832,,Karyotype
+ATP1A2,30193,,Karyotype
+ATP6V0A4,30204,,Karyotype
+ATP6V1B1,30167,,Karyotype
+ATRX,29942,,Karyotype
+AVPR2,30193,,Karyotype
+BCOR,29077,,Karyotype
+CACNA1A,28982,,Karyotype
+CANT1,30248,,Karyotype
+CASK,29073,,Karyotype
+CD40LG,29805,,Karyotype
+CDC73,29516,,Karyotype
+CHRNG,29198,,Karyotype
+CLCN5,29286,,Karyotype
+COL2A1,29242,,Karyotype
+COL6A3,28993,,Karyotype
+COL7A1,29713,,Karyotype
+COL9A3,29395,,Karyotype
+CREBBP,29646,,Karyotype
+CRYAA,30157,,Karyotype
+CRYBA1,29429,,Karyotype
+CSTB,29976,,Karyotype
+CTSK,30185,,Karyotype
+CUL4B,29655,,Karyotype
+CUL7,29243,,Karyotype
+DARS2,29770,,Karyotype
+DDX11,29012,,Karyotype
+DLD,29003,,Karyotype
+DLG3,30073,,Karyotype
+DNM1L,29790,,Karyotype
+DOCK8,29843,,Karyotype
+DOK7,29373,,Karyotype
+DPAGT1,29282,,Karyotype
+EDA,29156,,Karyotype
+EFNB1,29826,,Karyotype
+ELN,29278,,Karyotype
+ERCC2,29413,,Karyotype
+ERCC6,29722,,Karyotype
+EYA4,29497,,Karyotype
+FA2H,29089,,Karyotype
+FGD1,29451,,Karyotype
+FN1,29832,,Karyotype
+FOXG1,29188,,Karyotype
+FOXP2,29994,,Karyotype
+FTSJ1,29404,,Karyotype
+GAN,28941,,Karyotype
+GBE1,29219,,Karyotype
+GFER,29224,,Karyotype
+GJC2,29310,,Karyotype
+GLI2,29795,,Karyotype
+GPR143,29754,,Karyotype
+GUCY2D,29559,,Karyotype
+HDAC4,29965,,Karyotype
+HEXA,29483,,Karyotype
+HIBCH,29987,,Karyotype
+HMGCL,28946,,Karyotype
+HNF4A,29752,,Karyotype
+HSD17B3,29852,,Karyotype
+IGF1R,30022,,Karyotype
+IL2RG,29253,,Karyotype
+IQSEC2,28982,,Karyotype
+ITK,29161,,Karyotype
+JAG1,30242,,Karyotype
+KCNA1,29107,,Karyotype
+KCNC3,29286,,Karyotype
+KCNQ2,29723,,Karyotype
+LAMA2,29210,,Karyotype
+LCA5,29080,,Karyotype
+LMBRD1,30027,,Karyotype
+LRP5,29829,,Karyotype
+LRRK2,29610,,Karyotype
+LRTOMT,29748,,Karyotype
+MAN2B1,29825,,Karyotype
+MCOLN1,30063,,Karyotype
+MED13L,30273,,Karyotype
+MRPS22,29996,,Karyotype
+MTRR,30017,,Karyotype
+MYCN,29563,,Karyotype
+MYH3,29279,,Karyotype
+MYO15A,29146,,Karyotype
+NAGLU,29990,,Karyotype
+NPC1,29210,,Karyotype
+NUBPL,30106,,Karyotype
+OCA2,29290,,Karyotype
+OCRL,29335,,Karyotype
+OTX2,29382,,Karyotype
+PAX2,29619,,Karyotype
+PAX9,29195,,Karyotype
+PCDH19,29552,,Karyotype
+PCNT,30126,,Karyotype
+PEX10,29414,,Karyotype
+PHF6,29009,,Karyotype
+PHF8,29718,,Karyotype
+PHKA2,29749,,Karyotype
+PLP1,30291,,Karyotype
+PNKP,29832,,Karyotype
+POLH,29016,,Karyotype
+POMC,29783,,Karyotype
+PQBP1,29139,,Karyotype
+PRF1,29277,,Karyotype
+PRODH,30276,,Karyotype
+PRPS1,29403,,Karyotype
+PYCR1,29219,,Karyotype
+PYGM,29171,,Karyotype
+RAB23,29457,,Karyotype
+RAB3GAP1,29445,,Karyotype
+RAB3GAP2,29475,,Karyotype
+RAI1,29411,,Karyotype
+RARS2,29590,,Karyotype
+RBM10,29464,,Karyotype
+RECQL4,29634,,Karyotype
+RELN,29170,,Karyotype
+RFXANK,30060,,Karyotype
+RPS6KA3,28954,,Karyotype
+RSPO4,30155,,Karyotype
+RYR1,29250,,Karyotype
+SACS,29203,,Karyotype
+SAMD9,29520,,Karyotype
+SATB2,29476,,Karyotype
+SBDS,28997,,Karyotype
+SCN8A,29443,,Karyotype
+SCN9A,29746,,Karyotype
+SETBP1,29877,,Karyotype
+SGSH,29669,,Karyotype
+SH2D1A,29618,,Karyotype
+SLC16A2,29788,,Karyotype
+SLC22A5,30066,,Karyotype
+SLC25A4,29912,,Karyotype
+SLC26A2,29101,,Karyotype
+SLC27A4,29651,,Karyotype
+SLC6A8,30228,,Karyotype
+SMC1A,29234,,Karyotype
+SMC3,29074,,Karyotype
+SOX2,29170,,Karyotype
+SPG7,30193,,Karyotype
+SPRED1,29603,,Karyotype
+SYNGAP1,29426,,Karyotype
+TBC1D24,29469,,Karyotype
+TBX19,29514,,Karyotype
+TFAP2A,29279,,Karyotype
+TGM5,29639,,Karyotype
+TH,30213,,Karyotype
+TMPRSS3,29727,,Karyotype
+TNXB,29954,,Karyotype
+TPM3,29681,,Karyotype
+TRMU,30186,,Karyotype
+TRPS1,29977,,Karyotype
+TSEN54,29615,,Karyotype
+TUBA1A,30006,,Karyotype
+TUBB,29570,,Karyotype
+TUBB3,30276,,Karyotype
+TYR,30290,,Karyotype
+UBE3A,29187,,Karyotype
+UGT1A1,29062,,Karyotype
+VPS33B,29002,,Karyotype
+WDR62,29184,,Karyotype
+WDR72,29376,,Karyotype
+WNT10A,29228,,Karyotype
+XYLT2,29608,,Karyotype
+ZDHHC9,29194,,Karyotype
+ZEB2,29373,,Karyotype
+AIPL1,29734,,Karyotype
+C1QTNF5,29646,,Karyotype
+CABP4,30003,,Karyotype
+CACNA1F,29415,,Karyotype
+CDHR1,28946,,Karyotype
+CNGB3,29770,,Karyotype
+CYP4V2,30082,,Karyotype
+EFEMP1,29035,,Karyotype
+ELOVL4,29855,,Karyotype
+GRM6,28955,,Karyotype
+HGSNAT,30051,,Karyotype
+KCNV2,29271,,Karyotype
+LRAT,29100,,Karyotype
+NYX,30212,,Karyotype
+OAT,29497,,Karyotype
+RGR,29096,,Karyotype
+RPGRIP1,29266,,Karyotype
+RS1,30026,,Karyotype
+TRPM1,30248,,Karyotype
+VCAN,30114,,Karyotype
+COCH,29787,,Karyotype
+COL11A2,30237,,Karyotype
+DIAPH1,29017,,Karyotype
+EDNRB,30114,,Karyotype
+EYA1,29303,,Karyotype
+KCNQ4,29976,,Karyotype
+MYH9,30247,,Karyotype
+MYO6,29559,,Karyotype
+OTOA,29128,,Karyotype
+PAX3,29298,,Karyotype
+POU3F4,29424,,Karyotype
+RDX,29230,,Karyotype
+STRC,29872,,Karyotype
+AGXT,29514,,Karyotype
+ACHE,30087,,Karyotype
+CD40,29464,,Karyotype
+CETP,29469,,Karyotype
+MMP2,29061,,Karyotype
+CR2,29703,,Karyotype
+C3,29974,,Karyotype
+CTLA4,30007,,Karyotype
+IL10,29236,,Karyotype
+TMPRSS5,29051,,Karyotype
+CFH,29275,,Karyotype
+NR3C1,28957,,Karyotype
+CFB,29090,,Karyotype
+NRG1,29271,,Karyotype
+HLA-DQA1,29814,,Karyotype
+ITPR3,29191,,Karyotype
+SOD2,29195,,Karyotype
+IL2,29508,,Karyotype
+LAMC2,29810,,Karyotype
+LAMC1,29825,,Karyotype
+PTPRC,29734,,Karyotype
+LEF1,29370,,Karyotype
+MSMB,30279,,Karyotype
+IL12B,29814,,Karyotype
+NOS3,29464,,Karyotype
+PBX1,29600,,Karyotype
+TYK2,29778,,Karyotype
+SORD,29719,,Karyotype
+KITLG,30172,,Karyotype
+TG,29702,,Karyotype
+ERBB3,30139,,Karyotype
+TGFB1,28964,,Karyotype
+CFI,29730,,Karyotype
+CNTN1,30241,,Karyotype
+PDE4D,29096,,Karyotype
+KCNMA1,30006,,Karyotype
+NOTCH2,29540,,Karyotype
+PLA2G4A,29942,,Karyotype
+CPT2,29631,,Karyotype
+TNNT3,29133,,Karyotype
+CEBPE,29446,,Karyotype
+SYN2,29926,,Karyotype
+LAMA3,30180,,Karyotype
+EDAR,29866,,Karyotype
+BIN1,29411,,Karyotype
+DAZL,29456,,Karyotype
+PITX2,29998,,Karyotype
+TBX3,29544,,Karyotype
+TWIST1,30207,,Karyotype
+TBX4,29987,,Karyotype
+TBX1,29793,,Karyotype
+SH3BP2,29390,,Karyotype
+FGF10,29581,,Karyotype
+PITX1,29172,,Karyotype
+TERC,29019,,Karyotype
+MAD1L1,29908,,Karyotype
+PSMA6,29929,,Karyotype
+MAPK10,29073,,Karyotype
+NOG,29838,,Karyotype
+TNFSF4,29521,,Karyotype
+KCNE2,29607,,Karyotype
+HLA-DQB1,30269,,Karyotype
+ACSL6,30019,,Karyotype
+CNTNAP2,29825,,Karyotype
+ACTN4,30142,,Karyotype
+TAB2,29643,,Karyotype
+SPINT2,29328,,Karyotype
+HCN4,29051,,Karyotype
+JPH3,29059,,Karyotype
+APOA5,29022,,Karyotype
+BSND,30185,,Karyotype
+NLRP1,29565,,Karyotype
+COG5,29248,,Karyotype
+TPH2,29329,,Karyotype
+CRTC1,29362,,Karyotype
+MAML2,29777,,Karyotype
+SLC17A8,29552,,Karyotype
+KANK1,29992,,Karyotype
+PLEKHA1,29674,,Karyotype
+IGF2BP2,29807,,Karyotype
+ESR2,30163,,Karyotype
+NFKB1,30139,,Karyotype
+EHBP1,30102,,Karyotype
+GLIS3,29912,,Karyotype
+SLC30A8,30043,,Karyotype
+NAT2,28974,,Karyotype
+SLC29A3,29180,,Karyotype
+FBN2,29089,,Karyotype
+RNASET2,29481,,Karyotype
+CCR3,30034,,Karyotype
+CCR6,29414,,Karyotype
+CD226,29096,,Karyotype
+CD46,29229,,Karyotype
+CHRM3,29585,,Karyotype
+CLCA2,28959,,Karyotype
+CLU,29649,,Karyotype
+CTNNA3,29334,,Karyotype
+DIO1,29589,,Karyotype
+DLGAP2,30131,,Karyotype
+MTNR1B,29354,,Karyotype
+FLT1,29866,,Karyotype
+GAB2,30257,,Karyotype
+GFRA1,29456,,Karyotype
+GORAB,29173,,Karyotype
+FMN1,29668,,Karyotype
+GRIN2B,28951,,Karyotype
+GRK5,30293,,Karyotype
+GSDMA,30040,,Karyotype
+HACE1,29757,,Karyotype
+HCN1,29781,,Karyotype
+HHEX,29316,,Karyotype
+HLA-DOA,29225,,Karyotype
+HLA-DRA,29081,,Karyotype
+HLA-DRB1,29623,,Karyotype
+HTR3B,29350,,Karyotype
+IL12RB2,29307,,Karyotype
+ITGA11,29620,,Karyotype
+ITIH3,29425,,Karyotype
+KCNIP4,30186,,Karyotype
+KCNN3,29387,,Karyotype
+KIAA0513,29767,,Karyotype
+KLK3,30208,,Karyotype
+MAST4,29539,,Karyotype
+MCM3AP,29043,,Karyotype
+GRHL1,29933,,Karyotype
+MMADHC,29112,,Karyotype
+MMP7,29145,,Karyotype
+MTHFD1L,29413,,Karyotype
+MUC1,29688,,Karyotype
+NBEA,29651,,Karyotype
+NEDD4L,29457,,Karyotype
+NGFR,29584,,Karyotype
+NOS1,29449,,Karyotype
+NRXN3,29922,,Karyotype
+MACF1,30239,,Karyotype
+PHLPP2,29695,,Karyotype
+PLEC,29826,,Karyotype
+PRKCB,29992,,Karyotype
+JRK,29189,,Karyotype
+PTGIR,30226,,Karyotype
+RAD52,29140,,Karyotype
+SLC7A10,30167,,Karyotype
+SORBS1,29005,,Karyotype
+SPRY2,29184,,Karyotype
+TGFBR3,29435,,Karyotype
+TNS3,29176,,Karyotype
+WDR36,29047,,Karyotype
+ZPLD1,29966,,Karyotype
+SPIB,29772,,Karyotype
+PPP2R5C,29553,,Karyotype
+ATF7IP,29718,,Karyotype
+AFF1,29668,,Karyotype
+DUSP22,29953,,Karyotype
+ARMS2,28994,,Karyotype
+HTRA1,29893,,Karyotype
+SYN3,30117,,Karyotype
+ALDH1A2,29631,,Karyotype
+COL10A1,29162,,Karyotype
+HLA-B,29207,,Karyotype
+NCR3,30128,,Karyotype
+TREM2,29553,,Karyotype
+WNT3,30048,,Karyotype
+RPS26,29233,,Karyotype
+CXCR4,29275,,Karyotype
+SLC14A1,29348,,Karyotype
+GALC,29540,,Karyotype
+RORA,29271,,Karyotype
+SERPINH1,29450,,Karyotype
+NPAS3,30023,,Karyotype
+MAD2L1,29214,,Karyotype
+FUT2,30103,,Karyotype
+WNT4,29608,,Karyotype
+GABRA2,29684,,Karyotype
+ADH4,30261,,Karyotype
+HCP5,29806,,Karyotype
+HLA-DRB5,28960,,Karyotype
+ELP4,29722,,Karyotype
+UST,29074,,Karyotype
+ABCA1,29987,,Karyotype
+MICA,29029,,Karyotype
+PER2,29301,,Karyotype
+APOM,29116,,Karyotype
+IGFBP3,29065,,Karyotype
+TAAR6,29197,,Karyotype
+POU4F3,29366,,Karyotype
+TRPM3,29414,,Karyotype
+CHRM2,29355,,Karyotype
+IFRD1,29533,,Karyotype
+CD58,29439,,Karyotype
+CYP17A1,29480,,Karyotype
+IL10RB,30155,,Karyotype
+HLA-A,29692,,Karyotype
+NEGR1,30110,,Karyotype
+LCT,29779,,Karyotype
+SREBF1,29148,,Karyotype
+MSR1,29097,,Karyotype
+LHCGR,29228,,Karyotype
+MLPH,29397,,Karyotype
+OPHN1,30198,,Karyotype
+RAD23B,29386,,Karyotype
+SLC22A2,29689,,Karyotype
+SIX1,29816,,Karyotype
+CAST,29635,,Karyotype
+SUMF1,29585,,Karyotype
+ITIH4,29723,,Karyotype
+BDNF,30141,,Karyotype
+SLC12A1,29810,,Karyotype
+SLC22A11,30260,,Karyotype
+FOXE1,29576,,Karyotype
+PTPN22,29936,,Karyotype
+LPIN2,29124,,Karyotype
+KCNQ1OT1,28999,,Karyotype
+ANK1,29144,,Karyotype
+ROR2,30136,,Karyotype
+HOXA13,29542,,Karyotype
+GZMB,29362,,Karyotype
+LIMK1,29312,,Karyotype
+HLA-G,29484,,Karyotype
+APOC3,29359,,Karyotype
+GRB10,29537,,Karyotype
+CTNND2,30111,,Karyotype
+CHRNA5,29652,,Karyotype
+ACAN,29693,,Karyotype
+ZBTB16,29572,,Karyotype
+F2,30080,,Karyotype
+DDR2,30225,,Karyotype
+SS18,29894,,Karyotype
+ZFPM2,29301,,Karyotype
+CHST6,29810,,Karyotype
+CFHR3,30211,,Karyotype
+GFM1,30260,,Karyotype
+IVD,29162,,Karyotype
+SRD5A2,28960,,Karyotype
+ABCC1,30249,,Karyotype
+AKAP13,29074,,Karyotype
+ANGPT1,29116,,Karyotype
+ATL1,29025,,Karyotype
+CSMD1,29502,,Karyotype
+GRID1,29138,,Karyotype
+MMP14,29316,,Karyotype
+MUC2,29704,,Karyotype
+PPARGC1A,29612,,Karyotype
+SHROOM3,29938,,Karyotype
+SLC17A1,29354,,Karyotype
+TIMP2,30243,,Karyotype
+TNR,29438,,Karyotype
+TWIST2,30007,,Karyotype
+DPP6,30279,,Karyotype
+ERAP1,29564,,Karyotype
+CARD16,30233,,Karyotype
+FGF3,29980,,Karyotype
+GOSR2,29169,,Karyotype
+ADRA2A,29043,,Karyotype
+PROCR,30151,,Karyotype
+ERBB4,29339,,Karyotype
+CHST3,29063,,Karyotype
+MTND4P19,29205,,Karyotype
+PRMT5P1,29969,,Karyotype
+TMF1P1,30146,,Karyotype
+HNF1A-AS1,29735,,Karyotype
+LINC00485,29404,,Karyotype
+RNU4-17P,29640,,Karyotype
+MRPS5P4,29960,,Karyotype
+PITPNB,29708,,Karyotype
+CCL7,29232,,Karyotype
+PGAP3,29822,,Karyotype
+LINC02260,30183,,Karyotype
+LINC01488,29495,,Karyotype
+CCDC91,29095,,Karyotype
+RN7SKP15,29267,,Karyotype
+SMCR2,29367,,Karyotype
+HAP1,29174,,Karyotype
+ATE1,29766,,Karyotype
+LINC01229,29435,,Karyotype
+RPL3,29702,,Karyotype
+FAM167A,29359,,Karyotype
+PDILT,29366,,Karyotype
+CTDSP1,28958,,Karyotype
+RNU6-394P,29673,,Karyotype
+ADAMTS20,29941,,Karyotype
+RPL36AP1,29943,,Karyotype
+CAV2,29175,,Karyotype
+GATD3,28994,,Karyotype
+RNU6-1091P,29126,,Karyotype
+SPMIP7,30254,,Karyotype
+LINC02695,28983,,Karyotype
+MIR4693,29161,,Karyotype
+JAKMIP1-DT,29554,,Karyotype
+TMEM97P2,29116,,Karyotype
+C1orf141,29093,,Karyotype
+LINC02929,29405,,Karyotype
+SMIM3,29886,,Karyotype
+IFNLR1,29668,,Karyotype
+LRRK2-DT,29700,,Karyotype
+FAM163B,29883,,Karyotype
+LINC02318,29442,,Karyotype
+RPL30P9,28977,,Karyotype
+RPL29P16,30008,,Karyotype
+CDC5L,29521,,Karyotype
+MIR3939,29669,,Karyotype
+APOC1P1,29427,,Karyotype
+GALNT17,29973,,Karyotype
+RNU6-1133P,29631,,Karyotype
+SMARCE1,30037,,Karyotype
+PSMC1P3,29039,,Karyotype
+RIGI,29665,,Karyotype
+SLC25A38P1,30207,,Karyotype
+TMCO5B,29067,,Karyotype
+USP8P1,29949,,Karyotype
+BRD2,29483,,Karyotype
+HLA-DRB9,29881,,Karyotype
+TSBP1-AS1,29598,,Karyotype
+DEFA10P,30147,,Karyotype
+SLC9A4,29157,,Karyotype
+LINC02705,29824,,Karyotype
+KAZN,30079,,Karyotype
+KDM4A,29795,,Karyotype
+SKIC2,29517,,Karyotype
+LINC02513,29392,,Karyotype
+TMSB4X,29934,,Karyotype
+ALDH9A1,29515,,Karyotype
+DELEC1,30056,,Karyotype
+BCLAF1P1,29931,,Karyotype
+MAGOH3P,29733,,Karyotype
+IGHV3-71,29325,,Karyotype
+TRAJ9,29501,,Karyotype
+RN7SKP211,30269,,Karyotype
+NFU1P1,30272,,Karyotype
+MMADHC-DT,29805,,Karyotype
+RIT2,29517,,Karyotype
+NPFFR1,29244,,Karyotype
+ARID5B,29454,,Karyotype
+CCDC26,29152,,Karyotype
+METAP2P1,29546,,Karyotype
+CASC17,30212,,Karyotype
+RPL41P1,29994,,Karyotype
+TNFRSF10A-DT,29795,,Karyotype
+REST,30077,,Karyotype
+C2-AS1,29533,,Karyotype
+GALR1,28947,,Karyotype
+ERICH1,28980,,Karyotype
+LINC01101,28956,,Karyotype
+NECTIN2,30269,,Karyotype
+EIF3KP3,30258,,Karyotype
+LINC00861,29486,,Karyotype
+MIR29B2CHG,29218,,Karyotype
+LINC01048,29272,,Karyotype
+LINC02836,29306,,Karyotype
+DAPK3,29720,,Karyotype
+CLIC5,29522,,Karyotype
+RPL21P47,29835,,Karyotype
+LINC01741,29610,,Karyotype
+C1DP5,29519,,Karyotype
+LINC02537,30060,,Karyotype
+COL8A1,30068,,Karyotype
+SLC16A8,30028,,Karyotype
+LINC00243,29984,,Karyotype
+MCUB,29933,,Karyotype
+RAD51B,28945,,Karyotype
+ADAMTS9-AS2,29031,,Karyotype
+B3GLCT,29033,,Karyotype
+SLC1A3-AS1,29420,,Karyotype
+OSTCP2,29969,,Karyotype
+SIGLEC5,29686,,Karyotype
+FCER1G,29367,,Karyotype
+LINC02757,29245,,Karyotype
+CLEC16A,29787,,Karyotype
+GTF3AP1,29162,,Karyotype
+LINC00299,29450,,Karyotype
+SLC25A46,29437,,Karyotype
+LINC02676,29479,,Karyotype
+ADAD1,30026,,Karyotype
+PSMD3,29298,,Karyotype
+TH2LCRR,29839,,Karyotype
+FLG,30227,,Karyotype
+RERE,29392,,Karyotype
+RPL13AP18,29108,,Karyotype
+ZNF217,29514,,Karyotype
+BACH2,30052,,Karyotype
+HDAC7,30191,,Karyotype
+ZNF652,29938,,Karyotype
+NDFIP1,29650,,Karyotype
+LAYN,29884,,Karyotype
+EEF1A1P27,29237,,Karyotype
+ANAPC1,29119,,Karyotype
+COL21A1,29024,,Karyotype
+ABCA7,29566,,Karyotype
+PTK2B,29321,,Karyotype
+EPHA1-AS1,29149,,Karyotype
+ZCWPW1,29555,,Karyotype
+GPR141,29365,,Karyotype
+FERMT2,30129,,Karyotype
+CELF1,29316,,Karyotype
+INPP5D,29692,,Karyotype
+MEF2C-AS1,30098,,Karyotype
+CASS4,29612,,Karyotype
+LINC02360,28964,,Karyotype
+NDUFAF6,30230,,Karyotype
+USP6NL-AS1,30105,,Karyotype
+SPPL2A,30138,,Karyotype
+LINC01031,29048,,Karyotype
+TRIP4,29350,,Karyotype
+ZNF594-DT,29618,,Karyotype
+AP2A2,29397,,Karyotype
+SIGLEC22P,29528,,Karyotype
+LINC00470,29347,,Karyotype
+SUDS3,29723,,Karyotype
+FBXL7,30161,,Karyotype
+CACNA2D3,29767,,Karyotype
+PDE1A,29720,,Karyotype
+FBXO40,29889,,Karyotype
+DAPL1,29118,,Karyotype
+RPS27P10,30170,,Karyotype
+LINC01684,29079,,Karyotype
+LINC02500,30102,,Karyotype
+RPL7AP36,29345,,Karyotype
+IMMP2L,29154,,Karyotype
+CADM2,29378,,Karyotype
+MS4A4A,29073,,Karyotype
+ARL17B,28941,,Karyotype
+CDC42SE2,29887,,Karyotype
+PFDN1,29875,,Karyotype
+MEIKIN,29447,,Karyotype
+FNIP1,29617,,Karyotype
+CLDN18,29566,,Karyotype
+RAPGEF6,29923,,Karyotype
+HID1-AS1,30191,,Karyotype
+SH2D4B,29829,,Karyotype
+FAM157D,30053,,Karyotype
+RN7SL691P,29601,,Karyotype
+PPIAP17,29136,,Karyotype
+LINC02210-CRHR1,29151,,Karyotype
+TSEN15P3,30022,,Karyotype
+IL21-AS1,29614,,Karyotype
+LINC02667,28968,,Karyotype
+SERINC5,29205,,Karyotype
+GAPDHP15,29343,,Karyotype
+TMEM106B,29245,,Karyotype
+FRMD4A,29479,,Karyotype
+UNC13A,29238,,Karyotype
+STK36,29416,,Karyotype
+KRT18P55,29962,,Karyotype
+LINC02508,29157,,Karyotype
+PIGL,30046,,Karyotype
+C9orf72,29458,,Karyotype
+RNU6-745P,29609,,Karyotype
+DNAJC8P3,30151,,Karyotype
+SMIM2-AS1,29878,,Karyotype
+KIRREL3-AS3,30239,,Karyotype
+CPNE4,29651,,Karyotype
+CFAP410,28972,,Karyotype
+TBK1,29927,,Karyotype
+TNIP1,28965,,Karyotype
+RPS18P12,29143,,Karyotype
+LINC03021,29087,,Karyotype
+SCFD1,29009,,Karyotype
+RNU6-334P,29140,,Karyotype
+LINC02405,29305,,Karyotype
+TAFA2,29335,,Karyotype
+SORCS2,29276,,Karyotype
+HLA-DQB2,29605,,Karyotype
+TNPO3,29332,,Karyotype
+SCHLAP1,29377,,Karyotype
+YWHAQP7,30084,,Karyotype
+OR4A15,29807,,Karyotype
+COL25A1,30045,,Karyotype
+UBE2L3,29714,,Karyotype
+MIR3142HG,30168,,Karyotype
+PHRF1,30121,,Karyotype
+LINC01701,30220,,Karyotype
+RDUR,29032,,Karyotype
+LINC01708,29783,,Karyotype
+TEX41,29308,,Karyotype
+DOCK6,29671,,Karyotype
+FAM167A-AS1,29713,,Karyotype
+TIMMDC1,29533,,Karyotype
+JMJD1C,29483,,Karyotype
+REEP3,29466,,Karyotype
+IRAIN,30108,,Karyotype
+PBX2,29746,,Karyotype
+TSBP1,30199,,Karyotype
+USP38-DT,29518,,Karyotype
+HLA-DQB3,30283,,Karyotype
+CDK2,29095,,Karyotype
+GAB1,30289,,Karyotype
+HLA-DPA1,29034,,Karyotype
+PRKG1,30243,,Karyotype
+LINC00448,29472,,Karyotype
+ADAMTS9,29260,,Karyotype
+CDHR3,29205,,Karyotype
+OVOL1,29193,,Karyotype
+NFILZ,29201,,Karyotype
+KIF3A,29504,,Karyotype
+DDX39B,30050,,Karyotype
+NCF4-AS1,29595,,Karyotype
+AOPEP,29637,,Karyotype
+SYNPO2L,29542,,Karyotype
+WNT8A,30046,,Karyotype
+LINC01438,30115,,Karyotype
+MIR297,29970,,Karyotype
+COX6A1P4,29198,,Karyotype
+LINC02576,29738,,Karyotype
+HAND2-AS1,28963,,Karyotype
+KCND3,30274,,Karyotype
+NEBL,29357,,Karyotype
+SH3PXD2A,29234,,Karyotype
+PPFIA4,30224,,Karyotype
+HAND2,29017,,Karyotype
+RNU1-18P,29059,,Karyotype
+SYK,28964,,Karyotype
+CUX2,29468,,Karyotype
+CDC42EP1,30289,,Karyotype
+FENDRR,29392,,Karyotype
+OR5V1,29601,,Karyotype
+RNU6-1296P,29510,,Karyotype
+BARX1,29864,,Karyotype
+EXOC2,29094,,Karyotype
+UBAC2,30132,,Karyotype
+CLPTM1L,29377,,Karyotype
+KLRC4-KLRK1,29951,,Karyotype
+IL12A-AS1,30129,,Karyotype
+MCTP1,29533,,Karyotype
+LINC01748,30169,,Karyotype
+CTSF,29916,,Karyotype
+ATP8B3,29136,,Karyotype
+CRACDL,29149,,Karyotype
+CTNNA2,30049,,Karyotype
+NGRNP1,29237,,Karyotype
+RPL10AP3,28957,,Karyotype
+HSPD1P6,30174,,Karyotype
+LINC01239,29890,,Karyotype
+DDN,30086,,Karyotype
+EIF4EBP2P3,29678,,Karyotype
+CLK3,29347,,Karyotype
+CASC11,29610,,Karyotype
+ZNF970P,29927,,Karyotype
+C19orf12,29643,,Karyotype
+APOBEC3A,30220,,Karyotype
+MYNN,29597,,Karyotype
+LSP1,29807,,Karyotype
+LINC02871,29088,,Karyotype
+CASC16,28988,,Karyotype
+DIRC3-AS1,28976,,Karyotype
+ZMIZ1,29289,,Karyotype
+MAP3K1,29098,,Karyotype
+CDKN2B-AS1,29709,,Karyotype
+GDI2,29378,,Karyotype
+CASC8,29642,,Karyotype
+SLC4A7,29325,,Karyotype
+CCDC170,29705,,Karyotype
+USHBP1,30251,,Karyotype
+LINC02224,29753,,Karyotype
+RPL36P14,29839,,Karyotype
+ROPN1L,29867,,Karyotype
+ZNF577,29096,,Karyotype
+LINC-PINT,30057,,Karyotype
+RPS27P20,29016,,Karyotype
+EMBP1,30179,,Karyotype
+LDHBP3,30187,,Karyotype
+NTN1,29105,,Karyotype
+SYT6,29493,,Karyotype
+MDM4,29051,,Karyotype
+LGR6,29059,,Karyotype
+LINC01376,29376,,Karyotype
+MRTFA,29830,,Karyotype
+TENT5A,29565,,Karyotype
+EBF1,29594,,Karyotype
+PGAM1P5,30177,,Karyotype
+GNAI2P1,29181,,Karyotype
+ANKLE1,30224,,Karyotype
+NCOA1,29906,,Karyotype
+MARK2P12,30039,,Karyotype
+POGLUT3,30217,,Karyotype
+TBX3-AS1,29971,,Karyotype
+CDYL2,29128,,Karyotype
+ADIPOR1P1,30140,,Karyotype
+HNF4G,29883,,Karyotype
+CASC9,29013,,Karyotype
+ADAM29,29563,,Karyotype
+DNAJC1,30101,,Karyotype
+CYCSP42,28957,,Karyotype
+AQP4-AS1,29688,,Karyotype
+LINC00589,29408,,Karyotype
+STXBP4,29780,,Karyotype
+ATG10,29496,,Karyotype
+CCDC88C,30086,,Karyotype
+MARCHF11-DT,29124,,Karyotype
+ARHGEF5,29666,,Karyotype
+MCUR1,30014,,Karyotype
+TET2,29734,,Karyotype
+LINC02801,29461,,Karyotype
+LINC01426,29321,,Karyotype
+INHBB,29859,,Karyotype
+PPIL3,29404,,Karyotype
+WDR43,29764,,Karyotype
+LINC02068,29856,,Karyotype
+STXBP5,29537,,Karyotype
+RPL23AP44,29222,,Karyotype
+MIR3681HG,29440,,Karyotype
+ISCA1P1,30205,,Karyotype
+HIVEP3,30238,,Karyotype
+SCN10A,29775,,Karyotype
+HEY2,29461,,Karyotype
+PRKAA1,29188,,Karyotype
+ADAMTS7,29398,,Karyotype
+LINC01344,28952,,Karyotype
+LINC00501,29162,,Karyotype
+NAALADL2-AS2,29616,,Karyotype
+TMC2,29583,,Karyotype
+BLTP1,29388,,Karyotype
+BTF3L4P3,30006,,Karyotype
+RGS21,29503,,Karyotype
+TAGAP-AS1,30237,,Karyotype
+PTPRK,30269,,Karyotype
+PUS10,30157,,Karyotype
+LINC01934,30244,,Karyotype
+MIR4425,30201,,Karyotype
+PTPN2,29425,,Karyotype
+ICOSLG,29108,,Karyotype
+RN7SKP226,29194,,Karyotype
+MROH3P,29045,,Karyotype
+ICOS,29614,,Karyotype
+ARHGAP31,29419,,Karyotype
+PLEK,29733,,Karyotype
+RMI2,29716,,Karyotype
+FRMD4B,29361,,Karyotype
+YDJC,29996,,Karyotype
+ELMO1,30008,,Karyotype
+DLEU1,29971,,Karyotype
+COL11A2P1,29958,,Karyotype
+EXOC1,29903,,Karyotype
+ZNF70P1,30189,,Karyotype
+PHACTR1,30275,,Karyotype
+LNX1-AS1,30129,,Karyotype
+LINC01358,29721,,Karyotype
+ZNF804A,29867,,Karyotype
+DCTN4,29584,,Karyotype
+HLA-DPA3,29443,,Karyotype
+HCG27,29212,,Karyotype
+TCF19,29754,,Karyotype
+EHMT2-AS1,29101,,Karyotype
+RPL24P7,29697,,Karyotype
+RN7SL72P,29685,,Karyotype
+MIR646HG,29631,,Karyotype
+EEF1E1,28943,,Karyotype
+SOX11,29187,,Karyotype
+GRAMD1B,29551,,Karyotype
+GGNBP1,30125,,Karyotype
+DRAIC,29321,,Karyotype
+ACOXL,29032,,Karyotype
+LINC02132,29586,,Karyotype
+SP140,29988,,Karyotype
+FARP2,29897,,Karyotype
+MDS2,29908,,Karyotype
+RHOU,29593,,Karyotype
+KLHDC7B-DT,29828,,Karyotype
+ILRUN,29177,,Karyotype
+RNA5SP458,29085,,Karyotype
+MYL12BP2,28945,,Karyotype
+SYMPK,29279,,Karyotype
+SCG5,29219,,Karyotype
+COLCA1,29047,,Karyotype
+LINC00536,29480,,Karyotype
+CASC20,29344,,Karyotype
+LINC02331,30019,,Karyotype
+RHPN2,29255,,Karyotype
+OSBPL3,29635,,Karyotype
+SYNJ2,30072,,Karyotype
+MAN2A1-DT,29555,,Karyotype
+MIR4291,30257,,Karyotype
+RPS23P3,30166,,Karyotype
+NABP1,30026,,Karyotype
+SMARCAD1-DT,29757,,Karyotype
+LINC01500,28945,,Karyotype
+DCBLD1,29248,,Karyotype
+CYRIB,29207,,Karyotype
+CCDC190,29195,,Karyotype
+PITX1-AS1,29143,,Karyotype
+HAO1,28981,,Karyotype
+CCND2-AS1,29362,,Karyotype
+HSPA12A,30104,,Karyotype
+TENM3-AS1,29613,,Karyotype
+CCSER1,29686,,Karyotype
+SMLR1,29825,,Karyotype
+TMEM91,29054,,Karyotype
+NXN,29912,,Karyotype
+RPS27P4,29008,,Karyotype
+PREX1,30000,,Karyotype
+LRIG1,29239,,Karyotype
+SLC25A28,29226,,Karyotype
+POLD3,29175,,Karyotype
+GPATCH1,29044,,Karyotype
+PCNX1,30239,,Karyotype
+ATP5PBP4,29830,,Karyotype
+MYRF,29814,,Karyotype
+PLEKHG6,29414,,Karyotype
+LINC01705,29583,,Karyotype
+ZMIZ1-AS1,29505,,Karyotype
+BICC1,29639,,Karyotype
+LINC01475,30089,,Karyotype
+CABLES2,29758,,Karyotype
+TSHZ1,28996,,Karyotype
+FAM182A,29673,,Karyotype
+TMTC1,29026,,Karyotype
+SCAF8,29075,,Karyotype
+MTDHP3,29996,,Karyotype
+RNGTT,29557,,Karyotype
+TDP2,30262,,Karyotype
+AIFM1P1,29140,,Karyotype
+LSAMP,29309,,Karyotype
+ECT2L,29262,,Karyotype
+RNU6-351P,29366,,Karyotype
+LINC02719,29307,,Karyotype
+CLEC3A,29480,,Karyotype
+COX6B1P1,29883,,Karyotype
+RETREG3,29261,,Karyotype
+MIR4300HG,29936,,Karyotype
+MAPK6P2,29352,,Karyotype
+LIMA1,29552,,Karyotype
+CSRNP3,29865,,Karyotype
+GMCL1,29849,,Karyotype
+HOXB2,30174,,Karyotype
+MGAT5B,29586,,Karyotype
+OTUD1,28943,,Karyotype
+MAML3,29674,,Karyotype
+RNA5SP56,30216,,Karyotype
+GNPDA1,29036,,Karyotype
+MADD,28977,,Karyotype
+PHF19,28988,,Karyotype
+NECAB2,29064,,Karyotype
+KCNK3,29203,,Karyotype
+BMPER,29279,,Karyotype
+B3GALT5,29219,,Karyotype
+CALN1,29575,,Karyotype
+JCAD,29299,,Karyotype
+PLPP3,29313,,Karyotype
+UBE2H-DT,30024,,Karyotype
+ZPR1,29750,,Karyotype
+HHIPL1,29974,,Karyotype
+CELSR2,29515,,Karyotype
+LINC03089,30058,,Karyotype
+SMG6,30192,,Karyotype
+CNNM2,30145,,Karyotype
+WDR12,28961,,Karyotype
+COL4A2,29727,,Karyotype
+MIA3,28942,,Karyotype
+ANKS1A,29302,,Karyotype
+UBE2Z,29376,,Karyotype
+MRAS,29071,,Karyotype
+ST3GAL4,29421,,Karyotype
+LIPA,29409,,Karyotype
+MORF4L1,30006,,Karyotype
+BCAP29,29671,,Karyotype
+WDR86-AS1,30120,,Karyotype
+UBE2D3P4,29590,,Karyotype
+SPRY4-AS1,30177,,Karyotype
+SLC38A11,28992,,Karyotype
+FNDC1,30093,,Karyotype
+LINC01526,29004,,Karyotype
+MTND1P22,30179,,Karyotype
+HECTD4,29407,,Karyotype
+LINC01808,29230,,Karyotype
+ATP2B1,29179,,Karyotype
+TARID,29136,,Karyotype
+CARF,29099,,Karyotype
+LINC01312,29397,,Karyotype
+FN1-DT,29847,,Karyotype
+TRIB1AL,29698,,Karyotype
+RHOA,29531,,Karyotype
+CDH13,29439,,Karyotype
+BCRP1,29944,,Karyotype
+GUCY1A1,30085,,Karyotype
+BCAS3,29937,,Karyotype
+RBM47,29133,,Karyotype
+CASC15,29678,,Karyotype
+PRDM8,30261,,Karyotype
+PFN1P11,30248,,Karyotype
+SWAP70,29203,,Karyotype
+ARHGEF26,29124,,Karyotype
+LPAL2,29065,,Karyotype
+THSD7A,29425,,Karyotype
+DAB1,29288,,Karyotype
+SCML4,29166,,Karyotype
+RN7SKP61,29671,,Karyotype
+ARID3B,30228,,Karyotype
+AGAP1,29358,,Karyotype
+LINC00393,29307,,Karyotype
+PARD3B,29450,,Karyotype
+KRT8P37,29807,,Karyotype
+NID2,29036,,Karyotype
+EDNRB-AS1,30103,,Karyotype
+DCAKD,29299,,Karyotype
+GRM8,29841,,Karyotype
+RNU1-150P,30205,,Karyotype
+HLA-V,29431,,Karyotype
+RN7SL51P,29974,,Karyotype
+SLC43A3,29814,,Karyotype
+LINC00492,30201,,Karyotype
+SBSPON,29085,,Karyotype
+LINC01164,30016,,Karyotype
+PSMB10,29208,,Karyotype
+LINC01882,30254,,Karyotype
+LINC02770,30117,,Karyotype
+BSN,29830,,Karyotype
+TNFSF18,29025,,Karyotype
+ETS2-AS1,29598,,Karyotype
+LINC02571,29422,,Karyotype
+SBNO2,29508,,Karyotype
+LACC1,29825,,Karyotype
+KSR1,29567,,Karyotype
+LINC00824,29959,,Karyotype
+PPM1G,29533,,Karyotype
+RSBN1,29743,,Karyotype
+ANKRD55,30288,,Karyotype
+LINC00581,30012,,Karyotype
+PPP5C,29969,,Karyotype
+RSPO3,30278,,Karyotype
+LINC02230,30083,,Karyotype
+GIPC2,29630,,Karyotype
+LINC02694,29485,,Karyotype
+CPEB4,29540,,Karyotype
+COX6B1P6,29222,,Karyotype
+SLAIN2,29599,,Karyotype
+SKAP2,29991,,Karyotype
+DUSP5-DT,29595,,Karyotype
+FCHSD2,29778,,Karyotype
+MLN,29811,,Karyotype
+MAGI1,29039,,Karyotype
+RNU6-546P,30031,,Karyotype
+CFAP45,28986,,Karyotype
+PLCXD2,30114,,Karyotype
+LY75-CD302,30078,,Karyotype
+KRTCAP2,29212,,Karyotype
+MIR762HG,29297,,Karyotype
+SASH1,28949,,Karyotype
+HMGB1P13,28954,,Karyotype
+PCNPP3,29085,,Karyotype
+LIMK2,29750,,Karyotype
+NTN5,29535,,Karyotype
+ITSN2,29538,,Karyotype
+ARAP3,30120,,Karyotype
+NPM1P51,29120,,Karyotype
+LINC01900,30066,,Karyotype
+GOLIM4,29873,,Karyotype
+KAT2B,29929,,Karyotype
+EPDR1,30292,,Karyotype
+LINC00899,29869,,Karyotype
+EIF3E,29057,,Karyotype
+DUXA,30065,,Karyotype
+LINC01592,30165,,Karyotype
+LINC01370,29477,,Karyotype
+PPIAP34,29983,,Karyotype
+RPS27AP14,29296,,Karyotype
+WNT2,30254,,Karyotype
+MIRLET7BHG,29627,,Karyotype
+ST7,29344,,Karyotype
+MAFB,29746,,Karyotype
+ZC3H12D,29466,,Karyotype
+SDK1-AS1,30166,,Karyotype
+EBF2,29022,,Karyotype
+BOP1,29564,,Karyotype
+HSPE1P1,29938,,Karyotype
+RAB31,29349,,Karyotype
+LINC02938,29351,,Karyotype
+NEDD4,29260,,Karyotype
+DHX8,29802,,Karyotype
+HORMAD2,29379,,Karyotype
+ATXN2L,29735,,Karyotype
+LINC02654,29791,,Karyotype
+RPL5P7,29472,,Karyotype
+MIR4713HG,29193,,Karyotype
+HEY2-AS1,29924,,Karyotype
+EIF2AK4,30103,,Karyotype
+MIR148A,30132,,Karyotype
+HMGB1P18,29665,,Karyotype
+RNU6-735P,29200,,Karyotype
+LNC-LBCS,29109,,Karyotype
+GREB1,29291,,Karyotype
+LINC01812,30250,,Karyotype
+LINC01412,29106,,Karyotype
+VRK2,29462,,Karyotype
+IQCM,29549,,Karyotype
+EIF2S2P7,29323,,Karyotype
+NFE2L1-DT,29641,,Karyotype
+MIR552,29278,,Karyotype
+LINC02497,29860,,Karyotype
+TRIM36,29889,,Karyotype
+PCDH7,29742,,Karyotype
+COL15A1,29952,,Karyotype
+SRGAP1,29144,,Karyotype
+RAD23BP2,29354,,Karyotype
+ZBTB18,29052,,Karyotype
+ACAD10,29137,,Karyotype
+LRFN2,28984,,Karyotype
+ANP32A,29580,,Karyotype
+CSNK1A1,29386,,Karyotype
+SEMA5B,29672,,Karyotype
+NAALADL2,29659,,Karyotype
+HEATR3,29258,,Karyotype
+ST6GAL1,29921,,Karyotype
+PSMB3P2,29805,,Karyotype
+ATP6V1G1P7,29679,,Karyotype
+SLC39A6,29852,,Karyotype
+PTPDC1,29802,,Karyotype
+SPARCL1,30163,,Karyotype
+HECW1,30245,,Karyotype
+C1orf127,30065,,Karyotype
+SRP14-DT,29657,,Karyotype
+ANO3,29834,,Karyotype
+BRWD1P2,29429,,Karyotype
+GPANK1,29386,,Karyotype
+RNU6-185P,29110,,Karyotype
+CAPN2,29648,,Karyotype
+CYBC1,29022,,Karyotype
+ZC3H8,29436,,Karyotype
+ST8SIA2,29579,,Karyotype
+OR5BD1P,29528,,Karyotype
+OARD1,30194,,Karyotype
+SALRNA1,29338,,Karyotype
+MGAT5,29823,,Karyotype
+DNAJC24,29011,,Karyotype
+RBFOX1,29564,,Karyotype
+DERA,28976,,Karyotype
+NKG7,29560,,Karyotype
+LINC02322,29886,,Karyotype
+AFAP1-AS1,29790,,Karyotype
+RTEL1-TNFRSF6B,29798,,Karyotype
+POLR3B,29209,,Karyotype
+SNORA70,29753,,Karyotype
+GOLGA3,29074,,Karyotype
+LRRC31,28983,,Karyotype
+MICOS10,30239,,Karyotype
+FGF7,29245,,Karyotype
+CAPZB,29185,,Karyotype
+LINC01405,28986,,Karyotype
+CNIH2,29424,,Karyotype
+MAP3K11,29287,,Karyotype
+NRXN2,29989,,Karyotype
+H2BC7,29548,,Karyotype
+SHLD2,29525,,Karyotype
+NIPAL1,29781,,Karyotype
+HLA-DPA2,29479,,Karyotype
+LINC02265,30186,,Karyotype
+HLA-W,30064,,Karyotype
+POLR1HASP,29966,,Karyotype
+MUC22,29692,,Karyotype
+PRR3,30266,,Karyotype
+LINC01016,29094,,Karyotype
+KIF4CP,29150,,Karyotype
+C1QTNF6,29138,,Karyotype
+SLAMF6,29083,,Karyotype
+LINC01550,30257,,Karyotype
+USP3,29283,,Karyotype
+CTAGE11P,29511,,Karyotype
+MRPS36P5,29206,,Karyotype
+HNRNPA1P4,29280,,Karyotype
+EMICERI,29822,,Karyotype
+GNA15,29160,,Karyotype
+LINC01322,29848,,Karyotype
+HLX-AS1,28944,,Karyotype
+HNRNPA1P73,29971,,Karyotype
+CH25H,29212,,Karyotype
+LINC02388,29169,,Karyotype
+ADAMTSL1,29115,,Karyotype
+LINC02404,30288,,Karyotype
+RPUSD4,30035,,Karyotype
+RNU7-182P,29573,,Karyotype
+CDK14,29712,,Karyotype
+REL-DT,29311,,Karyotype
+LRRC25,29476,,Karyotype
+TMEM241,29607,,Karyotype
+TBL2,29606,,Karyotype
+FAN1,30024,,Karyotype
+LINC02151,29697,,Karyotype
+PHYHIP,30293,,Karyotype
+MUC5B,29648,,Karyotype
+TOLLIP,30227,,Karyotype
+MAPT-AS1,29010,,Karyotype
+MDGA2,29886,,Karyotype
+LINC02883,29300,,Karyotype
+TTYH1,30191,,Karyotype
+GPRIN3,29038,,Karyotype
+CHPF2,29203,,Karyotype
+CBX7,29335,,Karyotype
+RN7SL304P,29333,,Karyotype
+SRP54-AS1,29152,,Karyotype
+FBRS,29424,,Karyotype
+LINC02917,29998,,Karyotype
+BNIP1,29375,,Karyotype
+LINC02006,30077,,Karyotype
+SIK3,29489,,Karyotype
+ZGPAT,29613,,Karyotype
+LINC02940,29577,,Karyotype
+IKZF3,29746,,Karyotype
+ZNF300,29979,,Karyotype
+INAVA,29511,,Karyotype
+IFNG-AS1,29015,,Karyotype
+MUC19,29609,,Karyotype
+LINC02635,30186,,Karyotype
+IL27,29011,,Karyotype
+LINC03004,30274,,Karyotype
+GPR35,30280,,Karyotype
+FGFR1OP2P1,29000,,Karyotype
+CDC37,29045,,Karyotype
+RORC,29200,,Karyotype
+ADCY3,30285,,Karyotype
+TSPAN14,29473,,Karyotype
+FOSL2-AS1,29197,,Karyotype
+WT1-AS,29238,,Karyotype
+CWC27,30126,,Karyotype
+PRIMA1,29640,,Karyotype
+COX6CP6,29914,,Karyotype
+LINC02017,29459,,Karyotype
+MTUS2,30032,,Karyotype
+P2RY2,30038,,Karyotype
+LINC02055,30081,,Karyotype
+LRRC34,30250,,Karyotype
+DPP9,29651,,Karyotype
+FAM13A,30043,,Karyotype
+ATP11A,29200,,Karyotype
+AZGP1P1,29273,,Karyotype
+STN1,28964,,Karyotype
+DEPTOR,29220,,Karyotype
+PMF1,29398,,Karyotype
+RNU105C,29640,,Karyotype
+BOLL,29309,,Karyotype
+BET1L,30063,,Karyotype
+RNU6-1032P,29561,,Karyotype
+ANKRD44-IT1,30143,,Karyotype
+STARD13,30281,,Karyotype
+DAGLB,30032,,Karyotype
+LINC01765,30075,,Karyotype
+MIA-RAB4B,29983,,Karyotype
+CENPU,29332,,Karyotype
+NRG3,29120,,Karyotype
+TENM2,29252,,Karyotype
+RNA5SP86,29057,,Karyotype
+RPL37A,29069,,Karyotype
+LNCTSI,29341,,Karyotype
+LINC02103,29790,,Karyotype
+DYNC1I1,29638,,Karyotype
+LINC02752,29870,,Karyotype
+RIPK2,29406,,Karyotype
+LINC02227,29884,,Karyotype
+SYT16,29801,,Karyotype
+BPTF,29834,,Karyotype
+NOP56P1,29058,,Karyotype
+MTMR3,29599,,Karyotype
+TNFRSF19,28978,,Karyotype
+HYKK,30141,,Karyotype
+CPSF6,29100,,Karyotype
+LINC02853,29099,,Karyotype
+ZNF608,29008,,Karyotype
+LINC01847,29364,,Karyotype
+FGF12,29224,,Karyotype
+AK8,29133,,Karyotype
+KCNH5,29642,,Karyotype
+LINC01559,30248,,Karyotype
+ESRRG,29561,,Karyotype
+SLC44A3P1,29506,,Karyotype
+PCDH1,29676,,Karyotype
+TIMM17BP1,29785,,Karyotype
+LINC02473,30284,,Karyotype
+RASGEF1B,30001,,Karyotype
+MYO10,29242,,Karyotype
+SUNO1,29811,,Karyotype
+BTF3P9,30171,,Karyotype
+RFPL4A,29367,,Karyotype
+PIEZO2,29909,,Karyotype
+LINC01038,29784,,Karyotype
+PPIAP76,30051,,Karyotype
+RNU6-1060P,28983,,Karyotype
+PCLO,29910,,Karyotype
+EHHADH-AS1,29097,,Karyotype
+PBRM1,29003,,Karyotype
+LINC01432,30043,,Karyotype
+SPPL2C,29728,,Karyotype
+MTCO2P25,28968,,Karyotype
+LINC02850,29538,,Karyotype
+CDK10,29265,,Karyotype
+AFG3L1P,29475,,Karyotype
+COX8BP,29764,,Karyotype
+CPQ,29511,,Karyotype
+MEF2D,29903,,Karyotype
+ASTN2,29462,,Karyotype
+UFL1-AS1,29667,,Karyotype
+MMP17,30178,,Karyotype
+MARCHF4,30084,,Karyotype
+NT5C2,29769,,Karyotype
+TRPM8,30206,,Karyotype
+LINC02780,29981,,Karyotype
+RNU1-148P,29265,,Karyotype
+HAUS1,29116,,Karyotype
+FHL5,29201,,Karyotype
+SUGCT,30242,,Karyotype
+EPB41L2,29238,,Karyotype
+MIR4272,29934,,Karyotype
+FGF6,29489,,Karyotype
+DSTN,29699,,Karyotype
+LINC00877,29608,,Karyotype
+RNU6-896P,29111,,Karyotype
+CDH4,29925,,Karyotype
+OTUD6B-AS1,30237,,Karyotype
+SV2C,30044,,Karyotype
+XKR4,30048,,Karyotype
+PHF20,29147,,Karyotype
+RABGAP1L,29233,,Karyotype
+COX7B2,30274,,Karyotype
+PTPRD,29300,,Karyotype
+ATP7BP1,29027,,Karyotype
+RNU6-1213P,29690,,Karyotype
+OR4S1,29426,,Karyotype
+STK10,29459,,Karyotype
+CASZ1,30226,,Karyotype
+SUV39H2,29018,,Karyotype
+LINC02646,29965,,Karyotype
+IRAG1,29770,,Karyotype
+ASAP1,29774,,Karyotype
+LEPROTL1,30259,,Karyotype
+TMEM51,29805,,Karyotype
+PAPPA,28997,,Karyotype
+KCNK5,30008,,Karyotype
+MRPL37,30139,,Karyotype
+CLVS1,29448,,Karyotype
+WASL,29873,,Karyotype
+POU5F1P2,29185,,Karyotype
+ARL15,29320,,Karyotype
+POLD2P1,30130,,Karyotype
+ZDHHC6,29816,,Karyotype
+RSU1,30213,,Karyotype
+TUBB4BP7,29174,,Karyotype
+MIR4527HG,30133,,Karyotype
+NR2F2-AS1,28989,,Karyotype
+GPR182,29503,,Karyotype
+NRP1,29882,,Karyotype
+LINC00200,29292,,Karyotype
+LINC02641,29322,,Karyotype
+SNX24,29057,,Karyotype
+KSR2,29692,,Karyotype
+SNRPEP6,29455,,Karyotype
+HNRNPA3P8,29633,,Karyotype
+LINC00707,29720,,Karyotype
+CNPY1,29397,,Karyotype
+FARP1,30255,,Karyotype
+RLIG1P3,29860,,Karyotype
+RNU4-35P,30073,,Karyotype
+WAPL,29982,,Karyotype
+LINC02109,29609,,Karyotype
+KATNBL1P4,29143,,Karyotype
+HCG20,29048,,Karyotype
+INHBA,29258,,Karyotype
+PSTK,30171,,Karyotype
+PPIAP39,29182,,Karyotype
+CENPF,29359,,Karyotype
+ATF7,29447,,Karyotype
+SESTD1,29125,,Karyotype
+LINC01440,29380,,Karyotype
+MOG,29213,,Karyotype
+LINC02153,29800,,Karyotype
+ADARB2,29833,,Karyotype
+LINC02156,29717,,Karyotype
+VSTM4,29618,,Karyotype
+LIMCH1,30129,,Karyotype
+CTIF,28985,,Karyotype
+LYZL1,29898,,Karyotype
+LINC02782,29244,,Karyotype
+SLC35D2,30236,,Karyotype
+BPIFC,29478,,Karyotype
+RPL36AP26,29280,,Karyotype
+DLG2,29411,,Karyotype
+SLC24A3,29580,,Karyotype
+DYNLL2-DT,29198,,Karyotype
+RNF213,29865,,Karyotype
+SDR9C7,29748,,Karyotype
+SYPL1P1,29649,,Karyotype
+LINC01752,30192,,Karyotype
+HJURP,29737,,Karyotype
+ZCCHC14-DT,30057,,Karyotype
+SPINK2,28970,,Karyotype
+CYB5AP3,29994,,Karyotype
+CCM2L,29555,,Karyotype
+ADAMTSL4-AS2,29727,,Karyotype
+YAP1,29138,,Karyotype
+RPL32P36,29308,,Karyotype
+LINC02238,28956,,Karyotype
+LINC02730,29591,,Karyotype
+ZNF736,28965,,Karyotype
+MPPED2,29376,,Karyotype
+LMCD1-AS1,29546,,Karyotype
+CBR1-AS1,29494,,Karyotype
+SIPA1L1-AS1,30133,,Karyotype
+GLIS1,29418,,Karyotype
+LINC01013,29721,,Karyotype
+CMTM7,30029,,Karyotype
+RN7SL231P,29485,,Karyotype
+OTUD7A,28989,,Karyotype
+LINC02414,29755,,Karyotype
+GPM6A,30161,,Karyotype
+PARVA,30069,,Karyotype
+ADAMTS12,30047,,Karyotype
+DUSP10,29148,,Karyotype
+KCNK13,29688,,Karyotype
+IFNL3,30270,,Karyotype
+HAGLR,28954,,Karyotype
+PAX8-AS1,28965,,Karyotype
+NDUFB5P1,29142,,Karyotype
+UNC5B,29079,,Karyotype
+DSEL,30262,,Karyotype
+AKAP7,29163,,Karyotype
+MANCR,29180,,Karyotype
+ILF2,29887,,Karyotype
+LINC01411,29492,,Karyotype
+POLQ,29500,,Karyotype
+SLC2A13P1,29626,,Karyotype
+DTNB,29415,,Karyotype
+LINC02269,30122,,Karyotype
+ULK4,30035,,Karyotype
+MIR124-1HG,30076,,Karyotype
+MED24,29590,,Karyotype
+TNKS,30160,,Karyotype
+PPP1R3B-DT,28984,,Karyotype
+YWHAQP1,30243,,Karyotype
+FNDC3A,30292,,Karyotype
+OTX2-AS1,28981,,Karyotype
+LCOR,30200,,Karyotype
+PSORS1C1,29222,,Karyotype
+HLA-F-AS1,29477,,Karyotype
+CD6,29173,,Karyotype
+UBBP1,29215,,Karyotype
+MPHOSPH9,29761,,Karyotype
+LINC02082,30153,,Karyotype
+RPSAP22,29348,,Karyotype
+SAYSD1,29918,,Karyotype
+MIR548G,29556,,Karyotype
+GIP,30275,,Karyotype
+VIPR2,29094,,Karyotype
+SNTB1,29044,,Karyotype
+DOK6,30231,,Karyotype
+PPAN,29974,,Karyotype
+TRBV7-2,29509,,Karyotype
+SMIM12,29554,,Karyotype
+PKN2-AS1,29281,,Karyotype
+LINC00352,29420,,Karyotype
+NBAT1,29551,,Karyotype
+ASH1L,29504,,Karyotype
+LINC02161,29949,,Karyotype
+ARL4C,29618,,Karyotype
+XXYLT1,30002,,Karyotype
+LAMA1,29542,,Karyotype
+SHTN1,30124,,Karyotype
+ANKFN1,30293,,Karyotype
+BDNF-AS,29733,,Karyotype
+TMEM18,29236,,Karyotype
+RPL31P12,30126,,Karyotype
+PACS1,29008,,Karyotype
+RMST,29178,,Karyotype
+CCDC77,29278,,Karyotype
+KIAA1217,29226,,Karyotype
+SLC8A1,29042,,Karyotype
+FARS2,29345,,Karyotype
+TCF4,29126,,Karyotype
+MTATP6P14,29268,,Karyotype
+DUS4L-BCAP29,29975,,Karyotype
+MCF2L,29387,,Karyotype
+GNL3,29584,,Karyotype
+SUPT3H,29714,,Karyotype
+CAMK2B,29852,,Karyotype
+RPL35AP,30089,,Karyotype
+DNAH10,29625,,Karyotype
+NPM1P14,30218,,Karyotype
+NACA2,29534,,Karyotype
+LYPLAL1-AS1,30077,,Karyotype
+TGFA,30255,,Karyotype
+EQTN,30017,,Karyotype
+SMC4P1,30209,,Karyotype
+COL27A1,30252,,Karyotype
+RWDD2B,28943,,Karyotype
+BTNL8,29139,,Karyotype
+MAP2K6,29270,,Karyotype
+USP50,29440,,Karyotype
+NT5DC2,29136,,Karyotype
+DUBR,29181,,Karyotype
+LINC01094,30069,,Karyotype
+SLC36A4,29611,,Karyotype
+LINC02234,29835,,Karyotype
+FSTL5,29348,,Karyotype
+TSPAN17,29744,,Karyotype
+TFDP1P3,29936,,Karyotype
+LINC02680,30010,,Karyotype
+SRBD1,30051,,Karyotype
+KIAA1755,29586,,Karyotype
+ANXA3,29979,,Karyotype
+PTPRG,29167,,Karyotype
+NKAIN1,29243,,Karyotype
+ZNF345,30262,,Karyotype
+MARK2P15,29163,,Karyotype
+NPAP1P4,29338,,Karyotype
+PPIAP1,29561,,Karyotype
+LURAP1L,29106,,Karyotype
+MDFIC2,29471,,Karyotype
+MS4A13,29154,,Karyotype
+RPL14P6,29736,,Karyotype
+MRPS33P3,29902,,Karyotype
+CNN2P10,29831,,Karyotype
+SMIM23,30010,,Karyotype
+PPM1H,29922,,Karyotype
+FTCDNL1,29275,,Karyotype
+TIPARP,28971,,Karyotype
+RN7SL720P,29195,,Karyotype
+SKAP1,28996,,Karyotype
+CHMP4C,28959,,Karyotype
+LINC02112,29262,,Karyotype
+RNU6-609P,29534,,Karyotype
+LINC00511,29535,,Karyotype
+PLUT,29767,,Karyotype
+LINC02831,29300,,Karyotype
+LINC01829,29863,,Karyotype
+SEC11C,29767,,Karyotype
+WNT2B,29773,,Karyotype
+LINC01620,29002,,Karyotype
+ROR1,29542,,Karyotype
+NR5A2,28948,,Karyotype
+EEF1A1P40,30108,,Karyotype
+PWWP3B,29036,,Karyotype
+SAMD12-AS1,28989,,Karyotype
+GAK,29981,,Karyotype
+NSF,29293,,Karyotype
+RBMS3,29122,,Karyotype
+FAM47E-STBD1,29027,,Karyotype
+TMEM175,29713,,Karyotype
+SLC41A1,30215,,Karyotype
+DGKQ,29532,,Karyotype
+SNCA-AS1,29450,,Karyotype
+KANSL1,29619,,Karyotype
+PMVK,30029,,Karyotype
+RAB29,29202,,Karyotype
+LINC01709,30148,,Karyotype
+RN7SL813P,29440,,Karyotype
+CCNT2-AS1,29527,,Karyotype
+TMEM229B,30069,,Karyotype
+INPP5F,29296,,Karyotype
+BCKDK,29834,,Karyotype
+CCDC62,29856,,Karyotype
+SPATA19,29942,,Karyotype
+DDRGK1,28954,,Karyotype
+SIPA1L2,30256,,Karyotype
+TMPRSS9,29041,,Karyotype
+MIPEP,28943,,Karyotype
+RPL36AP23,29978,,Karyotype
+KCNQ5,29694,,Karyotype
+WWP2,30247,,Karyotype
+DENND1A,29254,,Karyotype
+NAB1,29163,,Karyotype
+DENND1B,29368,,Karyotype
+EXOC3L4,29560,,Karyotype
+UGT3A1,29614,,Karyotype
+RPS6KA4,29793,,Karyotype
+PLCL2,29401,,Karyotype
+FBXL20,29610,,Karyotype
+POU2AF1,30153,,Karyotype
+RPL6P8,30054,,Karyotype
+MIR4435-2HG,29704,,Karyotype
+MOBP,30141,,Karyotype
+STX6,28970,,Karyotype
+LINC02623,29012,,Karyotype
+CD8B,29013,,Karyotype
+MYEOV,29095,,Karyotype
+CTBP2,30133,,Karyotype
+TNRC6B,29341,,Karyotype
+CLDN11,29554,,Karyotype
+VAMP8,29127,,Karyotype
+TUBA1C,29338,,Karyotype
+ZBTB38,29246,,Karyotype
+CCHCR1,29081,,Karyotype
+NUDT11,29767,,Karyotype
+LILRA5,30173,,Karyotype
+CASC19,29983,,Karyotype
+SINHCAFP3,29764,,Karyotype
+RGS17,29076,,Karyotype
+VPS53,29158,,Karyotype
+SIDT1,30164,,Karyotype
+AFM,29372,,Karyotype
+LINC01162,28952,,Karyotype
+SHROOM2,29495,,Karyotype
+TRIM8,29369,,Karyotype
+SALL3,29398,,Karyotype
+ARMC2,30162,,Karyotype
+GATA5,28985,,Karyotype
+RNU6-500P,29931,,Karyotype
+SUCLG2,29709,,Karyotype
+DGKK,29490,,Karyotype
+LCLAT1,30157,,Karyotype
+PNPLA10P,29605,,Karyotype
+PCAT1,30271,,Karyotype
+PES1P2,30080,,Karyotype
+TTLL1,30033,,Karyotype
+KRT78,29346,,Karyotype
+RFX6,29847,,Karyotype
+GOLPH3L,29156,,Karyotype
+LINC00399,29256,,Karyotype
+TTC28,30066,,Karyotype
+SLC7A3,29661,,Karyotype
+XAGE3,30188,,Karyotype
+ADNP,29692,,Karyotype
+RNU4ATAC9P,29251,,Karyotype
+SENP1,29456,,Karyotype
+NEDD9,29998,,Karyotype
+MARCHF8,29205,,Karyotype
+TTC9-DT,29186,,Karyotype
+TMPRSS2,29219,,Karyotype
+NOL10,29000,,Karyotype
+RPL23AP61,29663,,Karyotype
+EEFSEC,29794,,Karyotype
+LCE3E,29568,,Karyotype
+KCNH7,29659,,Karyotype
+SATB1-AS1,29341,,Karyotype
+ANXA6,30230,,Karyotype
+LCEP4,29784,,Karyotype
+STAT2,29963,,Karyotype
+LINC00407,29872,,Karyotype
+STX1B,29712,,Karyotype
+POLI,28944,,Karyotype
+OSTN,28946,,Karyotype
+TRERNA1,29156,,Karyotype
+ZNF816-ZNF321P,30110,,Karyotype
+CAVIN1,29148,,Karyotype
+LINC01714,29326,,Karyotype
+CLIC6,29386,,Karyotype
+PAK5,29068,,Karyotype
+QTRT1,29323,,Karyotype
+POU2F3,29511,,Karyotype
+RUSC2,29721,,Karyotype
+TRAF3IP2-AS1,29723,,Karyotype
+IREB2,29792,,Karyotype
+RNU6-835P,29515,,Karyotype
+LINC02953,30058,,Karyotype
+PDZD2,30237,,Karyotype
+MAP2K5,29837,,Karyotype
+GSTO3P,30228,,Karyotype
+LINC01304,29774,,Karyotype
+EEF1A1P28,29144,,Karyotype
+LINC02520,30272,,Karyotype
+CCDC148,29354,,Karyotype
+SEMA6D,29520,,Karyotype
+LINC02086,29119,,Karyotype
+RPS10P21,29785,,Karyotype
+LINC01478,29823,,Karyotype
+CERS2,29547,,Karyotype
+GFUS,30089,,Karyotype
+LDB2,29662,,Karyotype
+NFKBIE,29899,,Karyotype
+RTKN2,30260,,Karyotype
+CASTOR1,29929,,Karyotype
+CCDC88B,29525,,Karyotype
+FAM117B,29702,,Karyotype
+TRIM26,29081,,Karyotype
+RPS19BP1,29247,,Karyotype
+BORCS7-ASMT,30200,,Karyotype
+LINC01776,29512,,Karyotype
+TSNARE1,28948,,Karyotype
+RN7SL167P,29274,,Karyotype
+LINC01470,29443,,Karyotype
+MAU2,29388,,Karyotype
+QPCT,29873,,Karyotype
+SLCO6A1,29385,,Karyotype
+CCDC68,29660,,Karyotype
+MTRFR,29973,,Karyotype
+AKT3,29429,,Karyotype
+SNORC,30193,,Karyotype
+SMIM15-AS1,29725,,Karyotype
+LINC02033,30051,,Karyotype
+MIR137HG,29960,,Karyotype
+PTGES3P4,30153,,Karyotype
+LINC02057,29381,,Karyotype
+KLC1,29891,,Karyotype
+LINC02551,29116,,Karyotype
+SHMT2,28967,,Karyotype
+CNKSR2,30160,,Karyotype
+LINC01360,29113,,Karyotype
+NRGN,29022,,Karyotype
+PPP1R16B,30205,,Karyotype
+EP300-AS1,29102,,Karyotype
+LINC01415,29147,,Karyotype
+RNU6-1029P,29854,,Karyotype
+NDUFB9P3,29382,,Karyotype
+IGSF9B,29575,,Karyotype
+KCTD13-DT,29524,,Karyotype
+STAG1,29344,,Karyotype
+GRM3-AS1,29923,,Karyotype
+RPL6P31,29742,,Karyotype
+PLCH2,30011,,Karyotype
+CLCN3,29561,,Karyotype
+SRPK2,30134,,Karyotype
+SELENOH,30281,,Karyotype
+KRT18P50,30183,,Karyotype
+LBX1,30228,,Karyotype
+ADGRG6,28948,,Karyotype
+GTF2I-AS1,29143,,Karyotype
+GPR78,29302,,Karyotype
+RSRC1,29376,,Karyotype
+SNHG31,29071,,Karyotype
+LIN28B,29140,,Karyotype
+HSD17B12,29500,,Karyotype
+MIR4675,30043,,Karyotype
+CDK8,29288,,Karyotype
+PRKN,29861,,Karyotype
+ERBIN,29406,,Karyotype
+ST3GAL1,29941,,Karyotype
+SPSB4,30079,,Karyotype
+ASB3,30028,,Karyotype
+LINC02455,29851,,Karyotype
+BAZ2B,29781,,Karyotype
+MIR302F,29407,,Karyotype
+ELF1,29448,,Karyotype
+SIMALR,29171,,Karyotype
+H2BP5,29532,,Karyotype
+CARMIL1,29472,,Karyotype
+CDHR5,29443,,Karyotype
+ATG5,29892,,Karyotype
+LINC01088,29562,,Karyotype
+CDK18,29972,,Karyotype
+CERCAM,29508,,Karyotype
+PRPS2,30059,,Karyotype
+LINC02834,30233,,Karyotype
+FAM171A1,29812,,Karyotype
+MIR4462,29164,,Karyotype
+PGPEP1,29926,,Karyotype
+MAN1A1,30253,,Karyotype
+LINC00208,30240,,Karyotype
+PCNX3,29202,,Karyotype
+RN7SL123P,29200,,Karyotype
+ZNF697,28986,,Karyotype
+PSORS1C2,29288,,Karyotype
+NDUFAF2P1,29065,,Karyotype
+ZC3H10,29235,,Karyotype
+SOX5,29818,,Karyotype
+GNGT1,29327,,Karyotype
+MARCHF1,29663,,Karyotype
+CENPE,29612,,Karyotype
+SEPTIN4-AS1,29778,,Karyotype
+RPL10P14,30010,,Karyotype
+UCK2,29333,,Karyotype
+SLC25A44,30283,,Karyotype
+PRDM14,29648,,Karyotype
+RFWD3,30098,,Karyotype
+HPGDS,29042,,Karyotype
+TFDP2,29952,,Karyotype
+ZFPM1,30145,,Karyotype
+BCAR4,30218,,Karyotype
+PPIAP74,30267,,Karyotype
+MBIP,29219,,Karyotype
+PTCSC2,29168,,Karyotype
+DUSP14,29334,,Karyotype
+ZNF229,30287,,Karyotype
+RPL6P14,30274,,Karyotype
+RNA5SP430,29964,,Karyotype
+SNTG1,29509,,Karyotype
+AHCYL2,29777,,Karyotype
+NAA25,29319,,Karyotype
+INS-IGF2,29711,,Karyotype
+LINC01104,29872,,Karyotype
+CAPSL,29949,,Karyotype
+MEG3,29994,,Karyotype
+RNF10,29698,,Karyotype
+LINC01151,29876,,Karyotype
+EFCAB8,29060,,Karyotype
+LINC01579,29133,,Karyotype
+RBMS1,30001,,Karyotype
+NPM1P47,29088,,Karyotype
+CDC123,29235,,Karyotype
+TSPAN8,29504,,Karyotype
+VDAC1P5,29046,,Karyotype
+PEX5L,29438,,Karyotype
+PCNX2,28996,,Karyotype
+SDHAF4,29675,,Karyotype
+FILNC1,29845,,Karyotype
+DCDC2C,29774,,Karyotype
+TCERG1L,29630,,Karyotype
+ACP7,29539,,Karyotype
+PLS1,30215,,Karyotype
+HMG20A,29728,,Karyotype
+HUNK,29119,,Karyotype
+KIF11,29298,,Karyotype
+AP3S2,30257,,Karyotype
+COBLL1,29202,,Karyotype
+VPS26A,29469,,Karyotype
+FABP5P10,29502,,Karyotype
+MTND5P21,29738,,Karyotype
+SLC44A3-AS1,29244,,Karyotype
+MRFAP1P1,29805,,Karyotype
+CCNQ,29661,,Karyotype
+RASGRP1,29571,,Karyotype
+TMEM163,30277,,Karyotype
+FSCN3,29254,,Karyotype
+MIR129-1,30200,,Karyotype
+SLC16A13,30006,,Karyotype
+GPSM1,28965,,Karyotype
+MAEA,28959,,Karyotype
+UBE2E2-DT,29916,,Karyotype
+PABPC4-AS1,29229,,Karyotype
+C5orf67,30186,,Karyotype
+ADCY5,29001,,Karyotype
+UBE2E2,29656,,Karyotype
+MIR5702,30109,,Karyotype
+KRT18P24,29422,,Karyotype
+RPSAP52,29370,,Karyotype
+ARAP1,29362,,Karyotype
+DGKB,29927,,Karyotype
+PROX1-AS1,29100,,Karyotype
+TLE1-DT,30042,,Karyotype
+MIR4432HG,29406,,Karyotype
+ACSL1,29674,,Karyotype
+ZZEF1,28956,,Karyotype
+CMIP,29540,,Karyotype
+UBE3C,30082,,Karyotype
+GLP2R,30135,,Karyotype
+IL17REL,29912,,Karyotype
+SYT4,30197,,Karyotype
+LINC02615,30146,,Karyotype
+SLCO4C1,30138,,Karyotype
+LRP12,30101,,Karyotype
+NUFIP2,29875,,Karyotype
+EIF4E2P2,29588,,Karyotype
+CSRP2,30183,,Karyotype
+CACNA1G-AS1,29221,,Karyotype
+GADL1,29133,,Karyotype
+EYA2,29311,,Karyotype
+ETV1,29504,,Karyotype
+PMP2,29557,,Karyotype
+CRHR2,29639,,Karyotype
+HSF1,29322,,Karyotype
+OSBPL1A,29501,,Karyotype
+LIMS2,29865,,Karyotype
+DAAM1,29952,,Karyotype
+LINC01339,29633,,Karyotype
+OTUD3,30067,,Karyotype
+NXPE1,29042,,Karyotype
+AMZ1,28947,,Karyotype
+PLCL1,30214,,Karyotype
+PRXL2B,29070,,Karyotype
+SFMBT1,30076,,Karyotype
+CEP72-DT,29280,,Karyotype
+MMP24OS,29489,,Karyotype
+CHP1,29049,,Karyotype
+ZFP90,29259,,Karyotype
+MICB-DT,28958,,Karyotype
+SMURF1,30028,,Karyotype
+HELQ,29360,,Karyotype
+LINC01122,29794,,Karyotype
+ELFN2,30153,,Karyotype
+MTARC2P1,29699,,Karyotype
+JPH1,29016,,Karyotype
+NME7,29101,,Karyotype
+RN7SL120P,30138,,Karyotype
+SUSD1,29342,,Karyotype
+TSPAN15,30242,,Karyotype
+SLC44A2,29430,,Karyotype
+CACNG5,29294,,Karyotype
+SLC44A4,29020,,Karyotype
+HCG9,30060,,Karyotype
+UBASH3A,30237,,Karyotype
+COX7CP3,29825,,Karyotype
+DDX1,29812,,Karyotype
+LINC01804,29457,,Karyotype
+PRR9,30096,,Karyotype
+JAK1,29548,,Karyotype
+HBP1,30215,,Karyotype
+NOC2L,29790,,Karyotype
+GRB2,30000,,Karyotype
+NOL4,29281,,Karyotype
+ST8SIA4,29741,,Karyotype
+FILIP1,30226,,Karyotype
+MTRF1LP2,29185,,Karyotype
+IL11,29990,,Karyotype
+LTBP3,29551,,Karyotype
+RFLNA,30260,,Karyotype
+TMEM220-AS1,29488,,Karyotype
+SLCO2A1,29220,,Karyotype
+LINC01228,29399,,Karyotype
+PPP1R21,29942,,Karyotype
+L1TD1,29144,,Karyotype
+BOLA3P3,29726,,Karyotype
+EFCAB2,29759,,Karyotype
+DENND5B,29468,,Karyotype
+CD2AP-DT,29953,,Karyotype
+EPHA1,29691,,Karyotype
+NYAP1,29493,,Karyotype
+PPIAP55,29456,,Karyotype
+KRT18P51,29413,,Karyotype
+GUSBP5,30123,,Karyotype
+RPS29P10,29727,,Karyotype
+RNY3,29938,,Karyotype
+FLG-AS1,29815,,Karyotype
+RNU3,29651,,Karyotype
+KHDRBS2-OT1,30233,,Karyotype
+IRF1-AS1,30267,,Karyotype
+MSL3P1,29002,,Karyotype
+RIPK2-DT,29826,,Karyotype
+MGC4859,29045,,Karyotype
+RNF215,29220,,Karyotype
+LINC02462,29307,,Karyotype
+ARHGAP10,29170,,Karyotype
+PTCD2,29216,,Karyotype
+INS,29455,,Karyotype
+FER,29664,,Karyotype
+FAM91A1,29569,,Karyotype
+CDKN2B,29758,,Karyotype
+DGKH,29451,,Karyotype
+SLC35F4,29993,,Karyotype
+SNRNP27,30207,,Karyotype
+REL,29584,,Karyotype
+RBMX2P4,30127,,Karyotype
+PPP4R3B,29668,,Karyotype
+TGFBRAP1,29034,,Karyotype
+FADS1,30251,,Karyotype
+CD28,28975,,Karyotype
+CDCA7L,29113,,Karyotype
+ZNF804B,30111,,Karyotype
+SDK1,29420,,Karyotype
+PCBP2P3,29486,,Karyotype
+PPP3CA,29514,,Karyotype
+LINC02075,30028,,Karyotype
+NKX2,29605,,Karyotype
+GRIN2D,29616,,Karyotype
+CD44,30189,,Karyotype
+TRAM1L1,29730,,Karyotype
+ENTPD6,29415,,Karyotype
+ASXL3,29774,,Karyotype
+POLR2E,29006,,Karyotype
+LIPC,29175,,Karyotype
+EIF1P5,30143,,Karyotype
+RAB3C,29452,,Karyotype
+LINC03000,30238,,Karyotype
+CPS1,29240,,Karyotype
+FAM13B,29153,,Karyotype
+SIX6,29332,,Karyotype
+HLA,29816,,Karyotype
+UNC5CL,29278,,Karyotype
+CSF1,29581,,Karyotype
+RIN3,29894,,Karyotype
+HNRNPA3P1,29501,,Karyotype
+LINC02357,30087,,Karyotype
+ZBTB10,29623,,Karyotype
+ATXN7,29901,,Karyotype
+RNA5SP73,29930,,Karyotype
+PPIAP88,30088,,Karyotype
+PSMB7,29317,,Karyotype
+STX17,29861,,Karyotype
+PTHLH,29090,,Karyotype
+HIP1R,30263,,Karyotype
+TFCP2L1,29005,,Karyotype
+TMEM220,29308,,Karyotype
+PITX3,29621,,Karyotype
+RNA5SP299,29262,,Karyotype
+RXRG,29000,,Karyotype
+LINC01680,29045,,Karyotype
+MAP3K7,29752,,Karyotype
+DMRT2,29352,,Karyotype
+BNC2,29541,,Karyotype
+A1CF,29460,,Karyotype
+RERG,29283,,Karyotype
+PPP2R2D,29865,,Karyotype
+SC5D,29717,,Karyotype
+CFL1,29813,,Karyotype
+SMIM38,29451,,Karyotype
+RUNX3,30024,,Karyotype
+PPARGC1B,29034,,Karyotype
+GLUL,30112,,Karyotype
+TUBBP9,30126,,Karyotype
+DUS4L,30195,,Karyotype
+BUB3P1,29079,,Karyotype
+SOX17,29269,,Karyotype
+INSL6,29218,,Karyotype
+LPAR1,29010,,Karyotype
+NEK6,29083,,Karyotype
+C10orf11,29444,,Karyotype
+CLECL1P,30013,,Karyotype
+OGFOD2,29208,,Karyotype
+BRAP,29751,,Karyotype
+RPL6,29482,,Karyotype
+KAT2A,29839,,Karyotype
+PRKD2,29883,,Karyotype
+SULF2,29953,,Karyotype
+PSD4,29787,,Karyotype
+CCBE1,29716,,Karyotype
+RPS3AP24,29072,,Karyotype
+NELL1,29117,,Karyotype
+KRT5,30164,,Karyotype
+CD36,29171,,Karyotype
+KRR1,29411,,Karyotype
+FTLP17,29240,,Karyotype
+LINC01153,29814,,Karyotype
+FOXQ1,29638,,Karyotype
+SLAMF1,29870,,Karyotype
+GRIK2,29406,,Karyotype
+GYPA,29985,,Karyotype
+MCMBP,30174,,Karyotype
+COQ7,29747,,Karyotype
+SSPN,29104,,Karyotype
+SLC30A2,29870,,Karyotype
+GATM,30227,,Karyotype
+AKAP8P1,29949,,Karyotype
+SYNE2,29138,,Karyotype
+DCD,29091,,Karyotype
+ZDHHC12,30261,,Karyotype
+TRA,29395,,Karyotype
+BCL2L15,28963,,Karyotype
+DCLRE1B,29133,,Karyotype
+ZC3HC1,29711,,Karyotype
+OLFM3,29267,,Karyotype
+FTH1P5,29505,,Karyotype
+LINC02450,29552,,Karyotype
+KCNH8,29721,,Karyotype
+TDRD9,29953,,Karyotype
+ZPBP2,29304,,Karyotype
+RBBP8,30250,,Karyotype
+IL8RA,29538,,Karyotype
+HIP1,29991,,Karyotype
+UFL1,29122,,Karyotype
+EIF3H,29071,,Karyotype
+MBNL1,30214,,Karyotype
+CD80,30283,,Karyotype
+ARRDC1,28994,,Karyotype
+RPL15P21,29356,,Karyotype
+FAM200B,29139,,Karyotype
+HHIP,29277,,Karyotype
+EXOC3,30230,,Karyotype
+PTGER4,30214,,Karyotype
+CYFIP2,29806,,Karyotype
+RREB1,29475,,Karyotype
+EEF1B2P6,29671,,Karyotype
+SUN1,29399,,Karyotype
+CDK6,29609,,Karyotype
+CPVL,29796,,Karyotype
+SMIM21,29870,,Karyotype
+MNX1,29905,,Karyotype
+CFL2,29633,,Karyotype
+RN7SKP168,30219,,Karyotype
+B3GNT2,29034,,Karyotype
+ADH5P2,29077,,Karyotype
+AIMP1P2,29941,,Karyotype
+VTCN1,29023,,Karyotype
+OTUD7B,29202,,Karyotype
+TTC22,29430,,Karyotype
+SP8,29126,,Karyotype
+ADAM15,29335,,Karyotype
+RAET1M,30244,,Karyotype
+LINC00326,29597,,Karyotype
+CREM,29662,,Karyotype
+VTI1A,29668,,Karyotype
+CCNY,29573,,Karyotype
+MUC15,29482,,Karyotype
+HIGD1C,30189,,Karyotype
+TRIM27,29698,,Karyotype
+LINC01230,30104,,Karyotype
+CXCR5,30283,,Karyotype
+DIP2B,29877,,Karyotype
+CLCN4,30237,,Karyotype
+CACNA1E,29366,,Karyotype
+PRLHR,29396,,Karyotype
+PPP1R14B,29628,,Karyotype
+MCTP2,29184,,Karyotype
+GP2,29730,,Karyotype
+LINC00917,29605,,Karyotype
+ARL6IP6,29514,,Karyotype
+ZFP36L2,30216,,Karyotype
+NCKIPSD,29096,,Karyotype
+PDLIM5,30167,,Karyotype
+FGF5,29942,,Karyotype
+MIR29A,30258,,Karyotype
+LINC00603,29039,,Karyotype
+SFTPC,29845,,Karyotype
+GREM1,29154,,Karyotype
+TLE3,30075,,Karyotype
+ZNF512,30265,,Karyotype
+ITGA6,29457,,Karyotype
+KCNE4,30084,,Karyotype
+CCDC80,29364,,Karyotype
+NACAD,29310,,Karyotype
+LINC03007,29298,,Karyotype
+ICAM3,29894,,Karyotype
+PPM1J,29070,,Karyotype
+CASP7,29985,,Karyotype
+LINC00927,29486,,Karyotype
+RASD1,29572,,Karyotype
+SOX9,30234,,Karyotype
+TAF4B,29833,,Karyotype
+LINC02920,29992,,Karyotype
+ITGA4,30029,,Karyotype
+IL18R1,30114,,Karyotype
+RHOB,29122,,Karyotype
+SATB1,29068,,Karyotype
+FILIP1L,29024,,Karyotype
+BOC,30036,,Karyotype
+CCRL2,29846,,Karyotype
+TNIP3,29438,,Karyotype
+ATOH1,30263,,Karyotype
+RAI14,29114,,Karyotype
+MARCHF11,29023,,Karyotype
+CYSTM1,29233,,Karyotype
+GJA1,29445,,Karyotype
+BTN2A1,29451,,Karyotype
+BMP5,29536,,Karyotype
+VNN3P,29265,,Karyotype
+UNCX,29844,,Karyotype
+WDR86,29831,,Karyotype
+EMID1,29887,,Karyotype
+NCOA2,29573,,Karyotype
+PALM2,30010,,Karyotype
+TNFRSF10A,29016,,Karyotype
+POU5F1B,30226,,Karyotype
+SH3GL2,30104,,Karyotype
+GARIN3P1,28960,,Karyotype
+SEC16A,29896,,Karyotype
+CCR4,29209,,Karyotype
+KCNU1,29388,,Karyotype
+RASGRP3,28992,,Karyotype
+MYO18B,29198,,Karyotype
+IL33,30278,,Karyotype
+RNA5SP110,29995,,Karyotype
+DNMT3A,29300,,Karyotype
+OLFM4,29736,,Karyotype
+PRDX1P1,30097,,Karyotype
+DAB2,29320,,Karyotype
+CSNK1E,29862,,Karyotype
+SLC15A4,30040,,Karyotype
+TRIM44,29747,,Karyotype
+TMEM229A,30290,,Karyotype
+LINC01036,30171,,Karyotype
+DNAH7,29355,,Karyotype
+AKR1E2,29229,,Karyotype
+C10orf67,28956,,Karyotype
+DYNC2H1,30027,,Karyotype
+ZNF646,30082,,Karyotype
+RPL15P15,29768,,Karyotype
+THSD7B,29756,,Karyotype
+ZNF80,29351,,Karyotype
+RARB,30017,,Karyotype
+MPPED1,29469,,Karyotype
+CHST9,30129,,Karyotype
+AQP4,29688,,Karyotype
+C2CD4B,29897,,Karyotype
+CCDC73,29081,,Karyotype
+ALAS1,29708,,Karyotype
+LINC02305,30161,,Karyotype
+WWTR1,29124,,Karyotype
+TRIB2,29933,,Karyotype
+BSG,29526,,Karyotype
+MIR557,30203,,Karyotype
+CHD1,29427,,Karyotype
+ZPBP,29110,,Karyotype
+SUMO2P6,29197,,Karyotype
+C1orf185,29887,,Karyotype
+ZFP36L1,29042,,Karyotype
+STK39,29624,,Karyotype
+LINC01724,29654,,Karyotype
+UBE3AP2,29435,,Karyotype
+EPHA7,29919,,Karyotype
+NAV3,30204,,Karyotype
+ZNF385D,30011,,Karyotype
+CNTN5,29974,,Karyotype
+GRP,29957,,Karyotype
+MIR4262,29965,,Karyotype
+FADS2,29618,,Karyotype
+GLT6D1,29828,,Karyotype
+TNP1,29760,,Karyotype
+CDCA7,29580,,Karyotype
+RPS2P18,30131,,Karyotype
+NFIB,30161,,Karyotype
+MIR1208,29073,,Karyotype
+BTBD1,29792,,Karyotype
+ITPKA,29389,,Karyotype
+RNY4,29163,,Karyotype
+LINC01063,29250,,Karyotype
+LINC01645,29110,,Karyotype
+FKBP5,29184,,Karyotype
+SFRP4,29376,,Karyotype
+LSM1,29558,,Karyotype
+SLC45A2,29487,,Karyotype
+SLC24A2,29657,,Karyotype
+IRF8,29256,,Karyotype
+GPC5,29918,,Karyotype
+CYLD,30278,,Karyotype
+DNAH2,29520,,Karyotype
+CYP24A1,30097,,Karyotype
+SLC4A1AP,29642,,Karyotype
+LBH,28977,,Karyotype
+SLC35F1,30191,,Karyotype
+RPL22P13,30264,,Karyotype
+USP12,29452,,Karyotype
+LINC01899,30036,,Karyotype
+XPNPEP1,29338,,Karyotype
+YWHAZP5,29383,,Karyotype
+INA,29103,,Karyotype
+FSTL4,29645,,Karyotype
+EPB41L3,29403,,Karyotype
+SLC22A23,29246,,Karyotype
+IGSF5,30128,,Karyotype
+NTN4,29673,,Karyotype
+VANGL2,29390,,Karyotype
+TAGAP,29620,,Karyotype
+LAMA5,28941,,Karyotype
+HSD17B7,29111,,Karyotype
+CXCL12,30068,,Karyotype
+PHLDB2,29401,,Karyotype
+ATP8A2P3,30135,,Karyotype
+TMEM232,29134,,Karyotype
+NKILA,29043,,Karyotype
+RPSAP72,29435,,Karyotype
+SPRY4,29617,,Karyotype
+KRT18P21,29221,,Karyotype
+LINC02945,29524,,Karyotype
+GPSM3,29837,,Karyotype
+ARHGAP27,29471,,Karyotype
+FMN2,30053,,Karyotype
+PDE4DIP,29559,,Karyotype
+IL12A,29795,,Karyotype
+RPL5P32,29848,,Karyotype
+UBE2D1,29893,,Karyotype
+NAV2,29242,,Karyotype
+FABP5,29751,,Karyotype
+MTDH,29161,,Karyotype
+TSLP,30188,,Karyotype
+MIR7515HG,28980,,Karyotype
+PPP2R2B,29251,,Karyotype
+KCNQ3,29560,,Karyotype
+ZBTB7B,29197,,Karyotype
+HOXD8,29147,,Karyotype
+UBE4B,29316,,Karyotype
+AIDAP3,29995,,Karyotype
+OR2C3,29574,,Karyotype
+COX18,29744,,Karyotype
+BMP2,29385,,Karyotype
+ITGA9,29204,,Karyotype
+OSBPL10,29937,,Karyotype
+LRRC18,29611,,Karyotype
+POLN,29756,,Karyotype
+KLF5,29425,,Karyotype
+CCR12P,29013,,Karyotype
+CD34,28970,,Karyotype
+FOXP4,30047,,Karyotype
+PPY2P,30096,,Karyotype
+NFKBIA,30169,,Karyotype
+SUB1,28997,,Karyotype
+METAP1D,29166,,Karyotype
+DLX2,29111,,Karyotype
+TIMD4,30285,,Karyotype
+PIP5K1B,29062,,Karyotype
+NDFIP2,29338,,Karyotype
+RANBP9,29911,,Karyotype
+TNFSF11,29151,,Karyotype
+HBE1,29721,,Karyotype
+TEF,29448,,Karyotype
+DHX35,29774,,Karyotype
+BAK1,29823,,Karyotype
+GOPC,29897,,Karyotype
+SLC26A3,30109,,Karyotype
+HOXC13,29641,,Karyotype
+GSDMC,28962,,Karyotype
+BMS1,29008,,Karyotype
+PPP2R3C,30267,,Karyotype
+AKAP6,29095,,Karyotype
+TGM3,29004,,Karyotype
+EMSY,30233,,Karyotype
+LRRC32,29448,,Karyotype
+TRAF1,29175,,Karyotype
+ACTL9,29836,,Karyotype
+PPM1A,29346,,Karyotype
+IGF1,29928,,Karyotype
+TRPC6,30117,,Karyotype
+ZNF230,29672,,Karyotype
+CLDN14,29025,,Karyotype
+SNORD77,29760,,Karyotype
+CBLN2,28948,,Karyotype
+COL16A1,29847,,Karyotype
+TNFRSF8,29067,,Karyotype
+NUMBL,29034,,Karyotype
+CCL22,30200,,Karyotype
+CD9,29330,,Karyotype
+MYO1D,30284,,Karyotype
+RNF43,29103,,Karyotype
+C12orf43,29654,,Karyotype
+PGM1,29211,,Karyotype
+RAB32,29399,,Karyotype
+SORBS3,29473,,Karyotype
+SIRPG,29517,,Karyotype
+IL2RB,30029,,Karyotype
+ASIP,29202,,Karyotype
+RPS2,30148,,Karyotype
+CTSH,29508,,Karyotype
+ORMDL3,29958,,Karyotype
+PSCA,29058,,Karyotype
+SLA,29007,,Karyotype
+TNFRSF6B,30184,,Karyotype
+RNF39,30133,,Karyotype
+SCAF1,30292,,Karyotype
+ITPR2,29250,,Karyotype
+IL1R2,29199,,Karyotype
+SNAP25,29368,,Karyotype
+MIR4719,29154,,Karyotype
+HMGA2,30283,,Karyotype
+ANKRD16,29703,,Karyotype
+NR2F2,29369,,Karyotype
+TMTC2,29514,,Karyotype
+TRAF3IP2,29365,,Karyotype
+MYO19,29547,,Karyotype
+LIF,29740,,Karyotype
+LYSMD2,29813,,Karyotype
+VPS13C,29879,,Karyotype
+SMC2,29558,,Karyotype
+PTTG1,30109,,Karyotype
+SLC47A1,30279,,Karyotype
+XPO1,29060,,Karyotype
+LINC02955,29869,,Karyotype
+TBX15,30275,,Karyotype
+PHTF1,29096,,Karyotype
+RPS3AP5,29365,,Karyotype
+CEP68,29092,,Karyotype
+ERAP2,29305,,Karyotype
+PCDH11X,30188,,Karyotype
+ADCY9,29540,,Karyotype
+KLRC4,29601,,Karyotype
+PTOV1P1,29634,,Karyotype
+PPATP1,29867,,Karyotype
+GAB3,29372,,Karyotype
+DAP,30264,,Karyotype
+MIPEPP2,29596,,Karyotype
+ELOVL7,30033,,Karyotype
+SPPL3,30208,,Karyotype
+TRIM49B,29812,,Karyotype
+BLK,30172,,Karyotype
+RTEL1,29032,,Karyotype
+CTSB,28941,,Karyotype
+ZNF436,29266,,Karyotype
+LINC00111,30173,,Karyotype
+BRINP1,29361,,Karyotype
+VAMP3,29526,,Karyotype
+RGS1,29438,,Karyotype
+NRIP1,28942,,Karyotype
+USP25,28995,,Karyotype
+ETS2,30065,,Karyotype
+PSMG1,29606,,Karyotype
+YRDCP3,29997,,Karyotype
+GYPC,28974,,Karyotype
+PLD4,29785,,Karyotype
+NACA,29096,,Karyotype
+SCMH1,30050,,Karyotype
+SULF1,30236,,Karyotype
+GABBR1,29393,,Karyotype
+CCN4,29973,,Karyotype
+SPATS2L,29165,,Karyotype
+RNPEPL1,29421,,Karyotype
+SPTBN1,29195,,Karyotype
+LINC01128,29787,,Karyotype
+CSGALNACT2,28960,,Karyotype
+S100A7A,29724,,Karyotype
+PARK2,29453,,Karyotype
+TNFRSF11A,29511,,Karyotype
+RPL3L,30177,,Karyotype
+NIHCOLE,29777,,Karyotype
+CCL2,29963,,Karyotype
+PSORS1C3,29871,,Karyotype
+NFKBIL1,30050,,Karyotype
+TOX3,29016,,Karyotype
+RPS20P23,29147,,Karyotype
+BTNL2,28953,,Karyotype
+PCDH20,30266,,Karyotype
+IER3,30041,,Karyotype
+MSH5,29451,,Karyotype
+MICB,29183,,Karyotype
+CDKN1A,28964,,Karyotype
+SCAMP3,28966,,Karyotype
+CTCFL,29176,,Karyotype
+MIR4697,29384,,Karyotype
+SLC25A26,29417,,Karyotype
+GPRC6A,29503,,Karyotype
+DACH1,29159,,Karyotype
+ZNF134,29923,,Karyotype
+WBP2NL,29729,,Karyotype
+SYT11,29688,,Karyotype
+ADIPINT,29494,,Karyotype
+TSPAN33,29718,,Karyotype
+KLF2,30264,,Karyotype
+STC1,30170,,Karyotype
+KDM1B,30078,,Karyotype
+MTSS1,30284,,Karyotype
+INTS9,29832,,Karyotype
+C6orf62,29145,,Karyotype
+SCN3A,29230,,Karyotype
+BEST3,30271,,Karyotype
+HNRNPA1P13,29277,,Karyotype
+MIR572,30177,,Karyotype
+MEGF6,29889,,Karyotype
+LINC02030,29220,,Karyotype
+TMEM183AP4,29476,,Karyotype
+BATF3,29991,,Karyotype
+PNKD,29263,,Karyotype
+RAB40B,29805,,Karyotype
+MTF1,30010,,Karyotype
+KCNN4,29590,,Karyotype
+CDC25B,30225,,Karyotype
+CLEC2D,29805,,Karyotype
+BOK,28993,,Karyotype
+PDE2A,29035,,Karyotype
+RSPH14,29903,,Karyotype
+CCDC92,29920,,Karyotype
+CPZ,29972,,Karyotype
+POU2AF3,29507,,Karyotype
+CATSPER3,29420,,Karyotype
+TNFSF8,29294,,Karyotype
+SLC34A1,29960,,Karyotype
+TNFAIP8,29409,,Karyotype
+ANAPC4,30096,,Karyotype
+WDR1,29654,,Karyotype
+LOXL1,29837,,Karyotype
+IFNK,29025,,Karyotype
+CD33,29788,,Karyotype
+PRRX1,29962,,Karyotype
+IL18RAP,29045,,Karyotype
+GRB14,29824,,Karyotype
+SLC9B1,29234,,Karyotype
+SSUH2,30128,,Karyotype
+LCE3D,29356,,Karyotype
+LINC01661,29054,,Karyotype
+IKZF1,29136,,Karyotype
+PTGS2,29822,,Karyotype
+EXO1,29381,,Karyotype
+TNP2,29595,,Karyotype
+DCTN5,29597,,Karyotype
+LRRN2,29514,,Karyotype
+PCF11,29813,,Karyotype
+NUP205,30126,,Karyotype
+BCL2L11,29932,,Karyotype
+LINC01564,29685,,Karyotype
+RMRPP5,29855,,Karyotype
+BTN3A1,29083,,Karyotype
+PTK2,30166,,Karyotype
+SF3A3,30247,,Karyotype
+RGS19,30269,,Karyotype
+TANC1,30089,,Karyotype
+KLHDC7A,30102,,Karyotype
+PIGCP2,30134,,Karyotype
+KIRREL3,29017,,Karyotype
+MX2,29687,,Karyotype
+MOCS1,29279,,Karyotype
+SNF8,29084,,Karyotype
+TUBA8,30223,,Karyotype
+ITPKB,29008,,Karyotype
+RNF186,29081,,Karyotype
+TMCO1,29315,,Karyotype
+CD244,29524,,Karyotype
+LY75,29454,,Karyotype
+KLHL29,29592,,Karyotype
+PPP2R2C,29195,,Karyotype
+PDE8B,29861,,Karyotype
+PRL,30129,,Karyotype
+CARD11,29445,,Karyotype
+ZNF462,29987,,Karyotype
+PRR5L,29532,,Karyotype
+CD69,30075,,Karyotype
+CRAC1,30120,,Karyotype
+TICAM1,30162,,Karyotype
+SSBP4,29346,,Karyotype
+SLC2A4RG,29972,,Karyotype
+NCF4,29181,,Karyotype
+GNB4,29353,,Karyotype
+JDP2,29046,,Karyotype
+ADCK1,29588,,Karyotype
+TRAF3,29347,,Karyotype
+VAV3,29171,,Karyotype
+BMF,29744,,Karyotype
+PRPSAP2,29259,,Karyotype
+ISG20,30151,,Karyotype
+MRPS11,29213,,Karyotype
+MUC21,30224,,Karyotype
+COBL,30129,,Karyotype
+NUCKS1,30004,,Karyotype
+FXR1,29336,,Karyotype
+RGS14,30106,,Karyotype
+TRPV6,29109,,Karyotype
+PHLDB1,28987,,Karyotype
+SIK2,29374,,Karyotype
+PRDM1,29552,,Karyotype
+CAMK2D,29143,,Karyotype
+EDEM1,29321,,Karyotype
+RN7SKP240,29549,,Karyotype
+OPN1SW,29368,,Karyotype
+ZNF354A,29951,,Karyotype
+WIPF1,29484,,Karyotype
+PARD3,29761,,Karyotype
+PML,29783,,Karyotype
+TIMP3,29833,,Karyotype
+CPT1B,29185,,Karyotype
+ITM2A,30098,,Karyotype
+MICU3,29132,,Karyotype
+NUDT10,30124,,Karyotype
+CCDC22,30224,,Karyotype
+TLR7,29176,,Karyotype
+PSRC1,29307,,Karyotype
+SORT1,29096,,Karyotype
+MKL1,29045,,Karyotype
+PTPN1,29210,,Karyotype
+SERINC3,29974,,Karyotype
+EGLN3,29541,,Karyotype
+SCARNA8,29684,,Karyotype
+TOX2,29632,,Karyotype
+ITCH,29452,,Karyotype
+RALY,30213,,Karyotype
+NLRP4,29882,,Karyotype
+STMN3,29645,,Karyotype
+ZHX3,29318,,Karyotype
+MS4A4E,30083,,Karyotype
+RSPO2,30253,,Karyotype
+RYBP,29848,,Karyotype
+SLC39A13,29986,,Karyotype
+HSPA8P5,30242,,Karyotype
+LINC02823,28964,,Karyotype
+KLF12,29136,,Karyotype
+FOXL1,29054,,Karyotype
+LSM7,30229,,Karyotype
+BCAS4,29002,,Karyotype
+TPM3P2,29304,,Karyotype
+LINC01512,29753,,Karyotype
+FBXO32,29046,,Karyotype
+TESPA1,29437,,Karyotype
+MRPL11P2,29346,,Karyotype
+CCDC102B,29699,,Karyotype
+CFHR1,29744,,Karyotype
+ZBTB20,29968,,Karyotype
+CCR1,30048,,Karyotype
+C6orf15,29584,,Karyotype
+TBCC,30167,,Karyotype
+CREB5,28951,,Karyotype
+LMTK2,30206,,Karyotype
+ZNF774,29030,,Karyotype
+SCO1,28971,,Karyotype
+COX11,30158,,Karyotype
+EDNRA,29164,,Karyotype
+IL1A,29072,,Karyotype
+TMEM17,29426,,Karyotype
+KIF3C,30192,,Karyotype
+ALMS1P1,29726,,Karyotype
+CSF2,29706,,Karyotype
+FBXO45,29311,,Karyotype
+CROCC,28968,,Karyotype
+IL15RA,29730,,Karyotype
+RPL5,30269,,Karyotype
+DISC1,29783,,Karyotype
+LINC02474,29003,,Karyotype
+PKN2,30188,,Karyotype
+SLC1A7,29947,,Karyotype
+PTPRF,29229,,Karyotype
+PALMD,30178,,Karyotype
+RNY4P15,28993,,Karyotype
+ACMSD,29757,,Karyotype
+RNF149,29136,,Karyotype
+MIR4437,29343,,Karyotype
+RTN4,29415,,Karyotype
+DPP4,29457,,Karyotype
+OPRM1,29996,,Karyotype
+RBM43,29541,,Karyotype
+CNTN6,30087,,Karyotype
+TBL1XR1,29406,,Karyotype
+SIAH2,29674,,Karyotype
+PRSS44P,28986,,Karyotype
+CAND2,30285,,Karyotype
+FAM47E,30074,,Karyotype
+SCARB2,30205,,Karyotype
+LAMP3,30217,,Karyotype
+DBIL5P,29100,,Karyotype
+KIAA0825,29142,,Karyotype
+BOD1,29308,,Karyotype
+SEZ6L,29089,,Karyotype
+SEMA6A,30249,,Karyotype
+HCG24,29845,,Karyotype
+RNF144B,29483,,Karyotype
+CGA,29401,,Karyotype
+SLC35D3,29429,,Karyotype
+ESRRA,29841,,Karyotype
+AKAP9,29661,,Karyotype
+PHTF2,29885,,Karyotype
+RPL6P22,29772,,Karyotype
+ZYXP1,29501,,Karyotype
+XPO7,30084,,Karyotype
+INTS10,30249,,Karyotype
+DAB2IP,28995,,Karyotype
+ADO,29805,,Karyotype
+BICD1,30122,,Karyotype
+LINC02956,29070,,Karyotype
+TMEM45B,29081,,Karyotype
+AP5B1,28985,,Karyotype
+IGF2,29196,,Karyotype
+OR4B1,30109,,Karyotype
+IFNG,29647,,Karyotype
+MANEA,29499,,Karyotype
+ADAMTSL4,29532,,Karyotype
+KCNN2,29810,,Karyotype
+ZNF689,29342,,Karyotype
+BCAR1,30107,,Karyotype
+CTRB2,29532,,Karyotype
+LINC00673,29973,,Karyotype
+CCR7,30151,,Karyotype
+TSPOAP1,29559,,Karyotype
+FPR2,30098,,Karyotype
+HS6ST3,30276,,Karyotype
+MYOCD,30185,,Karyotype
+WNT7B,29373,,Karyotype
+REEP1,29978,,Karyotype
+MTX2,29259,,Karyotype
+ATG16L2,29160,,Karyotype
+THRB,29069,,Karyotype
+MZF1,29958,,Karyotype
+DCAF1,30010,,Karyotype
+LINC00423,30004,,Karyotype
+ST3GAL6,29549,,Karyotype
+MTCO1P58,29941,,Karyotype
+CUX1,30129,,Karyotype
+SNX6,29705,,Karyotype
+SMAD9,28986,,Karyotype
+ATXN1,30126,,Karyotype
+IL1RAPL1,30134,,Karyotype
+ELOVL5,29321,,Karyotype
+HSCB,29943,,Karyotype
+CYTH4,29101,,Karyotype
+GPX4,29356,,Karyotype
+CCL20,29041,,Karyotype
+KYNU,29762,,Karyotype
+HAL,30257,,Karyotype
+CBX8,29668,,Karyotype
+MIR30B,29346,,Karyotype
+ZNF248,29432,,Karyotype
+MYPN,30099,,Karyotype
+DPF3,29853,,Karyotype
+GTF2I,29860,,Karyotype
+IMPA2,29769,,Karyotype
+ASAH1,29975,,Karyotype
+SLC30A1,30213,,Karyotype
+ADORA1,29082,,Karyotype
+RCC2,30246,,Karyotype
+SLC44A3,30210,,Karyotype
+KCNS3,30015,,Karyotype
+NCKAP5,29421,,Karyotype
+PECR,29073,,Karyotype
+ITGB6,29159,,Karyotype
+METRNL,29192,,Karyotype
+PELI1,29960,,Karyotype
+KCNJ5,29587,,Karyotype
+CD200R1,29620,,Karyotype
+PBX2P1,29397,,Karyotype
+EPHA3,29125,,Karyotype
+C3orf70,29890,,Karyotype
+ANXA5,29669,,Karyotype
+BCL11A,29632,,Karyotype
+TMEM174,29437,,Karyotype
+HOMER1,29564,,Karyotype
+MRPS30,30231,,Karyotype
+LUZP2,30060,,Karyotype
+SESN1,29972,,Karyotype
+L3MBTL3,29009,,Karyotype
+LINC00922,29761,,Karyotype
+CADM3,29042,,Karyotype
+RPS12,29123,,Karyotype
+SLC12A9,30206,,Karyotype
+ABCB5,29617,,Karyotype
+FASLG,30147,,Karyotype
+ASZ1,29832,,Karyotype
+RNF5P1,29164,,Karyotype
+SERPINB9,29415,,Karyotype
+PCDH9,29957,,Karyotype
+ANK2,29184,,Karyotype
+MTCO3P27,29698,,Karyotype
+MAP3K5,30091,,Karyotype
+GJA5,29488,,Karyotype
+ARHGAP42,30150,,Karyotype
+RNU6ATAC37P,29602,,Karyotype
+LGR5,30056,,Karyotype
+CATSPERD,28971,,Karyotype
+GNA12,29873,,Karyotype
+TMEM129,29590,,Karyotype
+LINC00540,29612,,Karyotype
+ZNF683,29142,,Karyotype
+GLRX5,29050,,Karyotype
+MYO1G,29215,,Karyotype
+DDHD1,29761,,Karyotype
+ABCA2,29489,,Karyotype
+DACT1,29993,,Karyotype
+THEMIS,29548,,Karyotype
+LARP4B,29758,,Karyotype
+ST13P4,30118,,Karyotype
+POLR2A,29727,,Karyotype
+POLRMTP1,29905,,Karyotype
+MEX3C,28988,,Karyotype
+PHLPP1,29674,,Karyotype
+NFATC1,29204,,Karyotype
+CEP89,30063,,Karyotype
+PROX1,29292,,Karyotype
+BABAM1,28979,,Karyotype
+CHCHD4P2,29246,,Karyotype
+KLF4,29720,,Karyotype
+NLRP10,29275,,Karyotype
+LAMB1,29485,,Karyotype
+KRT8,29211,,Karyotype
+CWC22,29484,,Karyotype
+ANKRD44,29756,,Karyotype
+KRT18P13,30069,,Karyotype
+LINC01556,29870,,Karyotype
+UBD,29652,,Karyotype
+C2,29822,,Karyotype
+KCNMB2,29019,,Karyotype
+LINC01499,30059,,Karyotype
+UBL3,28973,,Karyotype
+GPR12,30199,,Karyotype
+SCUBE3,29033,,Karyotype
+ARG1,29211,,Karyotype
+HBS1L,29062,,Karyotype
+DTNBP1,29516,,Karyotype
+LINC00598,30235,,Karyotype
+VEGFA,29222,,Karyotype
+ZNF184,29023,,Karyotype
+PRKCQ,30159,,Karyotype
+ULBP3,28974,,Karyotype
+CEP85L,30281,,Karyotype
+MIR8079,29212,,Karyotype
+SMIM2,29604,,Karyotype
+LINC00458,29352,,Karyotype
+B3GALTL,29517,,Karyotype
+SGCG,29116,,Karyotype
+RNY1P8,29570,,Karyotype
+LINC00376,30023,,Karyotype
+CACNA1I,29387,,Karyotype
+ZC3H7B,28979,,Karyotype
+TARDBPP1,29502,,Karyotype
+DCDC1,30010,,Karyotype
+SLC18A1,30055,,Karyotype
+POSTN,30132,,Karyotype
+CBLB,29320,,Karyotype
+RPL17P33,30052,,Karyotype
+EGLN1,29074,,Karyotype
+PDGFD,29243,,Karyotype
+UBA7,30197,,Karyotype
+PAK2,29328,,Karyotype
+CACNA1G,29240,,Karyotype
+TPSAB1,29114,,Karyotype
+CPM,29688,,Karyotype
+CABLES1,29229,,Karyotype
+MRPS6,30117,,Karyotype
+SLC5A3,29148,,Karyotype
+MIR10B,29859,,Karyotype
+MIR196A1,29768,,Karyotype
+MIR4417,29809,,Karyotype
+MIR200A,30186,,Karyotype
+MIR506,29691,,Karyotype
+MIR183,28999,,Karyotype
+MIR22,30083,,Karyotype
+MIR21,29303,,Karyotype
+MIR944,29450,,Karyotype
+MIR1-1,29086,,Karyotype
+MIR133A1,29260,,Karyotype
+MIR208A,29515,,Karyotype
+MIR499A,29211,,Karyotype
+MIR133B,29891,,Karyotype
+MIR122,29426,,Karyotype
+MIR205,29841,,Karyotype
+MIR199B,29709,,Karyotype
+MIR30A,29754,,Karyotype
+MIR942,29075,,Karyotype
+MIR342,29810,,Karyotype
+MIR503,29030,,Karyotype
+MIR16-1,29929,,Karyotype
+MIR17,30194,,Karyotype
+MIR20A,29111,,Karyotype
+MIR26A1,29243,,Karyotype
+MIR26B,29062,,Karyotype
+MIR106A,29015,,Karyotype
+MIR106B,29153,,Karyotype
+MIR451A,29918,,Karyotype
+MIR9983,29435,,Karyotype
+MIR7-1,29480,,Karyotype
+MIRLET7F2,29553,,Karyotype
+MIR126,29164,,Karyotype
+MIR130B,30111,,Karyotype
+MIR18A,29779,,Karyotype
+MIR19B1,29920,,Karyotype
+MIR505,29590,,Karyotype
+MIR545,28969,,Karyotype
+MIR550A1,29142,,Karyotype
+MIR760,29791,,Karyotype
+MIR875,29961,,Karyotype
+MIR127,30185,,Karyotype
+MIR378A,30211,,Karyotype
+MIR337,29026,,Karyotype
+MIR520C,28976,,Karyotype
+MIR573,29972,,Karyotype
+MIR601,30253,,Karyotype
+MIR645,29201,,Karyotype
+MIRLET7B,29647,,Karyotype
+MIR93,29012,,Karyotype
+MIR151A,29776,,Karyotype
+MIR92A1,29285,,Karyotype
+MIR142,29642,,Karyotype
+MIR99A,29687,,Karyotype
+MIR181B1,29938,,Karyotype
+MIR302B,29969,,Karyotype
+MIR301B,29474,,Karyotype
+MIR762,30057,,Karyotype
+MIR155,30048,,Karyotype
+MIR221,30011,,Karyotype
+MIR222,30283,,Karyotype
+MIR335,30219,,Karyotype
+MIR124-1,30093,,Karyotype
+MIR137,29130,,Karyotype
+MIR218-1,29043,,Karyotype
+MIR19A,29369,,Karyotype
+MIR146A,30134,,Karyotype
+MIR146B,29665,,Karyotype
+MIR210,29063,,Karyotype
+MIR326,29232,,Karyotype
+MIR15A,29911,,Karyotype
+MIR15B,29141,,Karyotype
+MIR181C,29862,,Karyotype
+MIR328,29407,,Karyotype
+MIR150,30281,,Karyotype
+MIRLET7A1,30124,,Karyotype
+MIRLET7F1,29883,,Karyotype
+MIR423,29075,,Karyotype
+MIR140,30152,,Karyotype
+MIR185,30290,,Karyotype
+MIR192,29697,,Karyotype
+MIR20B,29071,,Karyotype
+MIR885,29263,,Karyotype
+PIK3R1,29340,,Karyotype
+KDM6A,29173,,Karyotype
+FBXW7,29894,,Karyotype
+ARID1A,29434,,Karyotype
+BAP1,30008,,Karyotype
+KMT2D,29249,,Karyotype
+FCRL4,29610,,Karyotype
+LZTR1,30279,,Karyotype
+TET1,30228,,Karyotype
+CDK12,30048,,Karyotype
+FBXO11,30176,,Karyotype
+ATR,30152,,Karyotype
+SMAD2,28990,,Karyotype
